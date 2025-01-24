@@ -20,6 +20,10 @@ L.Control.geocoder({
   placeholder: "Szukaj",
 }).addTo(map);
 
+// Geojson data on different layers have the same index.
+// Ensure overlay is always on top by using a pane.
+map.createPane("constituency33").style.zIndex = 401;
+
 // Layers
 // `addTo` defines initial selection.
 const layers = {
@@ -38,11 +42,12 @@ const layers = {
   }),
   constituency33: L.geoJSON(null, {
     style: {
-      weight: 3,
+      weight: 4,
       color: "black",
       opacity: 1,
       fill: false,
     },
+    pane: "constituency33",
   }).addTo(map),
   KolarskaDistricts: L.geoJSON(),
   KolarskaCircuits: L.geoJSON(),
@@ -98,6 +103,7 @@ async function loadAll() {
   ]);
   layers.districts.addData(districts);
   layers.circuits.addData(circuits);
+  layers.constituency33.addData(constituency33);
 
   const KolarskaDistrictsRanges = [0, 0, 0, 3, 5, 7, 9, 11];
   layers.KolarskaDistricts.options.style = (f) => {
@@ -178,8 +184,6 @@ async function loadAll() {
     return circuitResultPopup(f.properties, getSladekCircuit(f), l);
   };
   layers.SladekCircuits.addData(circuits);
-
-  layers.constituency33.addData(constituency33);
 }
 
 async function loadJson(url) {

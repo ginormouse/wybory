@@ -1,458 +1,3194 @@
 [
-  {"Obwod":1,"Total":825,"Kandydatka":85,"Procent":10.3},
-  {"Obwod":2,"Total":628,"Kandydatka":69,"Procent":10.99},
-  {"Obwod":3,"Total":651,"Kandydatka":73,"Procent":11.21},
-  {"Obwod":4,"Total":612,"Kandydatka":43,"Procent":7.03},
-  {"Obwod":5,"Total":482,"Kandydatka":57,"Procent":11.83},
-  {"Obwod":6,"Total":692,"Kandydatka":34,"Procent":4.91},
-  {"Obwod":7,"Total":678,"Kandydatka":59,"Procent":8.7},
-  {"Obwod":8,"Total":488,"Kandydatka":41,"Procent":8.4},
-  {"Obwod":9,"Total":740,"Kandydatka":40,"Procent":5.41},
-  {"Obwod":10,"Total":639,"Kandydatka":35,"Procent":5.48},
-  {"Obwod":11,"Total":368,"Kandydatka":31,"Procent":8.42},
-  {"Obwod":12,"Total":900,"Kandydatka":99,"Procent":11},
-  {"Obwod":13,"Total":266,"Kandydatka":23,"Procent":8.65},
-  {"Obwod":14,"Total":491,"Kandydatka":45,"Procent":9.16},
-  {"Obwod":15,"Total":670,"Kandydatka":97,"Procent":14.48},
-  {"Obwod":16,"Total":448,"Kandydatka":30,"Procent":6.7},
-  {"Obwod":17,"Total":658,"Kandydatka":62,"Procent":9.42},
-  {"Obwod":18,"Total":523,"Kandydatka":51,"Procent":9.75},
-  {"Obwod":19,"Total":634,"Kandydatka":58,"Procent":9.15},
-  {"Obwod":20,"Total":401,"Kandydatka":46,"Procent":11.47},
-  {"Obwod":21,"Total":819,"Kandydatka":75,"Procent":9.16},
-  {"Obwod":22,"Total":857,"Kandydatka":75,"Procent":8.75},
-  {"Obwod":23,"Total":392,"Kandydatka":50,"Procent":12.76},
-  {"Obwod":24,"Total":756,"Kandydatka":42,"Procent":5.56},
-  {"Obwod":25,"Total":550,"Kandydatka":43,"Procent":7.82},
-  {"Obwod":26,"Total":819,"Kandydatka":93,"Procent":11.36},
-  {"Obwod":27,"Total":596,"Kandydatka":45,"Procent":7.55},
-  {"Obwod":28,"Total":686,"Kandydatka":51,"Procent":7.43},
-  {"Obwod":29,"Total":577,"Kandydatka":46,"Procent":7.97},
-  {"Obwod":30,"Total":1463,"Kandydatka":168,"Procent":11.48},
-  {"Obwod":31,"Total":1139,"Kandydatka":82,"Procent":7.2},
-  {"Obwod":32,"Total":833,"Kandydatka":82,"Procent":9.84},
-  {"Obwod":33,"Total":1000,"Kandydatka":113,"Procent":11.3},
-  {"Obwod":34,"Total":487,"Kandydatka":64,"Procent":13.14},
-  {"Obwod":35,"Total":658,"Kandydatka":50,"Procent":7.6},
-  {"Obwod":36,"Total":579,"Kandydatka":57,"Procent":9.84},
-  {"Obwod":37,"Total":617,"Kandydatka":68,"Procent":11.02},
-  {"Obwod":38,"Total":836,"Kandydatka":74,"Procent":8.85},
-  {"Obwod":39,"Total":520,"Kandydatka":20,"Procent":3.85},
-  {"Obwod":40,"Total":851,"Kandydatka":67,"Procent":7.87},
-  {"Obwod":41,"Total":1076,"Kandydatka":100,"Procent":9.29},
-  {"Obwod":42,"Total":897,"Kandydatka":90,"Procent":10.03},
-  {"Obwod":43,"Total":922,"Kandydatka":91,"Procent":9.87},
-  {"Obwod":44,"Total":484,"Kandydatka":32,"Procent":6.61},
-  {"Obwod":45,"Total":478,"Kandydatka":26,"Procent":5.44},
-  {"Obwod":46,"Total":603,"Kandydatka":35,"Procent":5.8},
-  {"Obwod":47,"Total":583,"Kandydatka":40,"Procent":6.86},
-  {"Obwod":48,"Total":1036,"Kandydatka":58,"Procent":5.6},
-  {"Obwod":49,"Total":677,"Kandydatka":55,"Procent":8.12},
-  {"Obwod":50,"Total":656,"Kandydatka":36,"Procent":5.49},
-  {"Obwod":51,"Total":558,"Kandydatka":41,"Procent":7.35},
-  {"Obwod":52,"Total":473,"Kandydatka":11,"Procent":2.33},
-  {"Obwod":53,"Total":815,"Kandydatka":27,"Procent":3.31},
-  {"Obwod":54,"Total":745,"Kandydatka":56,"Procent":7.52},
-  {"Obwod":55,"Total":403,"Kandydatka":20,"Procent":4.96},
-  {"Obwod":56,"Total":1014,"Kandydatka":63,"Procent":6.21},
-  {"Obwod":57,"Total":1050,"Kandydatka":75,"Procent":7.14},
-  {"Obwod":58,"Total":1022,"Kandydatka":35,"Procent":3.42},
-  {"Obwod":59,"Total":757,"Kandydatka":25,"Procent":3.3},
-  {"Obwod":60,"Total":991,"Kandydatka":52,"Procent":5.25},
-  {"Obwod":61,"Total":937,"Kandydatka":45,"Procent":4.8},
-  {"Obwod":62,"Total":626,"Kandydatka":25,"Procent":3.99},
-  {"Obwod":63,"Total":710,"Kandydatka":40,"Procent":5.63},
-  {"Obwod":64,"Total":728,"Kandydatka":47,"Procent":6.46},
-  {"Obwod":65,"Total":620,"Kandydatka":46,"Procent":7.42},
-  {"Obwod":66,"Total":740,"Kandydatka":63,"Procent":8.51},
-  {"Obwod":67,"Total":805,"Kandydatka":38,"Procent":4.72},
-  {"Obwod":68,"Total":542,"Kandydatka":36,"Procent":6.64},
-  {"Obwod":69,"Total":1084,"Kandydatka":54,"Procent":4.98},
-  {"Obwod":70,"Total":627,"Kandydatka":54,"Procent":8.61},
-  {"Obwod":71,"Total":629,"Kandydatka":42,"Procent":6.68},
-  {"Obwod":72,"Total":717,"Kandydatka":51,"Procent":7.11},
-  {"Obwod":73,"Total":1230,"Kandydatka":89,"Procent":7.24},
-  {"Obwod":74,"Total":1068,"Kandydatka":86,"Procent":8.05},
-  {"Obwod":75,"Total":899,"Kandydatka":76,"Procent":8.45},
-  {"Obwod":76,"Total":808,"Kandydatka":33,"Procent":4.08},
-  {"Obwod":77,"Total":815,"Kandydatka":74,"Procent":9.08},
-  {"Obwod":78,"Total":538,"Kandydatka":52,"Procent":9.67},
-  {"Obwod":79,"Total":790,"Kandydatka":55,"Procent":6.96},
-  {"Obwod":80,"Total":877,"Kandydatka":24,"Procent":2.74},
-  {"Obwod":81,"Total":1191,"Kandydatka":103,"Procent":8.65},
-  {"Obwod":82,"Total":754,"Kandydatka":49,"Procent":6.5},
-  {"Obwod":83,"Total":801,"Kandydatka":56,"Procent":6.99},
-  {"Obwod":84,"Total":1004,"Kandydatka":98,"Procent":9.76},
-  {"Obwod":85,"Total":830,"Kandydatka":72,"Procent":8.67},
-  {"Obwod":86,"Total":592,"Kandydatka":36,"Procent":6.08},
-  {"Obwod":87,"Total":889,"Kandydatka":60,"Procent":6.75},
-  {"Obwod":88,"Total":672,"Kandydatka":45,"Procent":6.7},
-  {"Obwod":89,"Total":716,"Kandydatka":53,"Procent":7.4},
-  {"Obwod":90,"Total":932,"Kandydatka":60,"Procent":6.44},
-  {"Obwod":91,"Total":1341,"Kandydatka":105,"Procent":7.83},
-  {"Obwod":92,"Total":891,"Kandydatka":35,"Procent":3.93},
-  {"Obwod":93,"Total":1187,"Kandydatka":75,"Procent":6.32},
-  {"Obwod":94,"Total":1104,"Kandydatka":51,"Procent":4.62},
-  {"Obwod":95,"Total":967,"Kandydatka":50,"Procent":5.17},
-  {"Obwod":96,"Total":1229,"Kandydatka":88,"Procent":7.16},
-  {"Obwod":97,"Total":819,"Kandydatka":73,"Procent":8.91},
-  {"Obwod":98,"Total":686,"Kandydatka":73,"Procent":10.64},
-  {"Obwod":99,"Total":597,"Kandydatka":25,"Procent":4.19},
-  {"Obwod":100,"Total":458,"Kandydatka":35,"Procent":7.64},
-  {"Obwod":101,"Total":553,"Kandydatka":29,"Procent":5.24},
-  {"Obwod":102,"Total":729,"Kandydatka":53,"Procent":7.27},
-  {"Obwod":103,"Total":689,"Kandydatka":33,"Procent":4.79},
-  {"Obwod":104,"Total":833,"Kandydatka":49,"Procent":5.88},
-  {"Obwod":105,"Total":843,"Kandydatka":61,"Procent":7.24},
-  {"Obwod":106,"Total":998,"Kandydatka":98,"Procent":9.82},
-  {"Obwod":107,"Total":896,"Kandydatka":80,"Procent":8.93},
-  {"Obwod":108,"Total":756,"Kandydatka":64,"Procent":8.47},
-  {"Obwod":109,"Total":630,"Kandydatka":79,"Procent":12.54},
-  {"Obwod":110,"Total":1408,"Kandydatka":200,"Procent":14.2},
-  {"Obwod":111,"Total":877,"Kandydatka":66,"Procent":7.53},
-  {"Obwod":112,"Total":684,"Kandydatka":85,"Procent":12.43},
-  {"Obwod":113,"Total":884,"Kandydatka":55,"Procent":6.22},
-  {"Obwod":114,"Total":750,"Kandydatka":84,"Procent":11.2},
-  {"Obwod":115,"Total":1195,"Kandydatka":107,"Procent":8.95},
-  {"Obwod":116,"Total":376,"Kandydatka":51,"Procent":13.56},
-  {"Obwod":117,"Total":640,"Kandydatka":93,"Procent":14.53},
-  {"Obwod":118,"Total":857,"Kandydatka":105,"Procent":12.25},
-  {"Obwod":119,"Total":757,"Kandydatka":91,"Procent":12.02},
-  {"Obwod":120,"Total":665,"Kandydatka":73,"Procent":10.98},
-  {"Obwod":121,"Total":755,"Kandydatka":115,"Procent":15.23},
-  {"Obwod":122,"Total":873,"Kandydatka":71,"Procent":8.13},
-  {"Obwod":123,"Total":895,"Kandydatka":73,"Procent":8.16},
-  {"Obwod":124,"Total":737,"Kandydatka":82,"Procent":11.13},
-  {"Obwod":125,"Total":855,"Kandydatka":82,"Procent":9.59},
-  {"Obwod":126,"Total":733,"Kandydatka":67,"Procent":9.14},
-  {"Obwod":127,"Total":1008,"Kandydatka":111,"Procent":11.01},
-  {"Obwod":128,"Total":850,"Kandydatka":56,"Procent":6.59},
-  {"Obwod":129,"Total":1044,"Kandydatka":112,"Procent":10.73},
-  {"Obwod":130,"Total":1026,"Kandydatka":65,"Procent":6.34},
-  {"Obwod":131,"Total":1095,"Kandydatka":55,"Procent":5.02},
-  {"Obwod":132,"Total":999,"Kandydatka":61,"Procent":6.11},
-  {"Obwod":133,"Total":832,"Kandydatka":46,"Procent":5.53},
-  {"Obwod":134,"Total":853,"Kandydatka":51,"Procent":5.98},
-  {"Obwod":135,"Total":792,"Kandydatka":115,"Procent":14.52},
-  {"Obwod":136,"Total":791,"Kandydatka":32,"Procent":4.05},
-  {"Obwod":137,"Total":562,"Kandydatka":31,"Procent":5.52},
-  {"Obwod":138,"Total":557,"Kandydatka":21,"Procent":3.77},
-  {"Obwod":139,"Total":1127,"Kandydatka":65,"Procent":5.77},
-  {"Obwod":140,"Total":993,"Kandydatka":36,"Procent":3.63},
-  {"Obwod":141,"Total":534,"Kandydatka":34,"Procent":6.37},
-  {"Obwod":142,"Total":1101,"Kandydatka":64,"Procent":5.81},
-  {"Obwod":143,"Total":1029,"Kandydatka":41,"Procent":3.98},
-  {"Obwod":144,"Total":739,"Kandydatka":35,"Procent":4.74},
-  {"Obwod":145,"Total":672,"Kandydatka":44,"Procent":6.55},
-  {"Obwod":146,"Total":886,"Kandydatka":82,"Procent":9.26},
-  {"Obwod":147,"Total":930,"Kandydatka":95,"Procent":10.22},
-  {"Obwod":148,"Total":1076,"Kandydatka":112,"Procent":10.41},
-  {"Obwod":149,"Total":652,"Kandydatka":84,"Procent":12.88},
-  {"Obwod":150,"Total":800,"Kandydatka":82,"Procent":10.25},
-  {"Obwod":151,"Total":867,"Kandydatka":95,"Procent":10.96},
-  {"Obwod":152,"Total":736,"Kandydatka":48,"Procent":6.52},
-  {"Obwod":153,"Total":720,"Kandydatka":51,"Procent":7.08},
-  {"Obwod":154,"Total":842,"Kandydatka":80,"Procent":9.5},
-  {"Obwod":155,"Total":1014,"Kandydatka":81,"Procent":7.99},
-  {"Obwod":156,"Total":1245,"Kandydatka":129,"Procent":10.36},
-  {"Obwod":157,"Total":476,"Kandydatka":37,"Procent":7.77},
-  {"Obwod":158,"Total":611,"Kandydatka":56,"Procent":9.17},
-  {"Obwod":159,"Total":608,"Kandydatka":23,"Procent":3.78},
-  {"Obwod":160,"Total":900,"Kandydatka":35,"Procent":3.89},
-  {"Obwod":161,"Total":551,"Kandydatka":22,"Procent":3.99},
-  {"Obwod":162,"Total":526,"Kandydatka":19,"Procent":3.61},
-  {"Obwod":163,"Total":757,"Kandydatka":29,"Procent":3.83},
-  {"Obwod":164,"Total":559,"Kandydatka":31,"Procent":5.55},
-  {"Obwod":165,"Total":856,"Kandydatka":29,"Procent":3.39},
-  {"Obwod":166,"Total":651,"Kandydatka":22,"Procent":3.38},
-  {"Obwod":167,"Total":493,"Kandydatka":19,"Procent":3.85},
-  {"Obwod":168,"Total":996,"Kandydatka":107,"Procent":10.74},
-  {"Obwod":169,"Total":929,"Kandydatka":56,"Procent":6.03},
-  {"Obwod":170,"Total":620,"Kandydatka":84,"Procent":13.55},
-  {"Obwod":171,"Total":801,"Kandydatka":76,"Procent":9.49},
-  {"Obwod":172,"Total":1013,"Kandydatka":76,"Procent":7.5},
-  {"Obwod":173,"Total":639,"Kandydatka":81,"Procent":12.68},
-  {"Obwod":174,"Total":921,"Kandydatka":65,"Procent":7.06},
-  {"Obwod":175,"Total":1001,"Kandydatka":96,"Procent":9.59},
-  {"Obwod":176,"Total":764,"Kandydatka":52,"Procent":6.81},
-  {"Obwod":177,"Total":751,"Kandydatka":48,"Procent":6.39},
-  {"Obwod":178,"Total":648,"Kandydatka":47,"Procent":7.25},
-  {"Obwod":179,"Total":988,"Kandydatka":70,"Procent":7.09},
-  {"Obwod":180,"Total":695,"Kandydatka":51,"Procent":7.34},
-  {"Obwod":181,"Total":715,"Kandydatka":61,"Procent":8.53},
-  {"Obwod":182,"Total":604,"Kandydatka":45,"Procent":7.45},
-  {"Obwod":183,"Total":904,"Kandydatka":88,"Procent":9.73},
-  {"Obwod":184,"Total":720,"Kandydatka":38,"Procent":5.28},
-  {"Obwod":185,"Total":658,"Kandydatka":35,"Procent":5.32},
-  {"Obwod":186,"Total":707,"Kandydatka":42,"Procent":5.94},
-  {"Obwod":187,"Total":972,"Kandydatka":76,"Procent":7.82},
-  {"Obwod":188,"Total":702,"Kandydatka":19,"Procent":2.71},
-  {"Obwod":189,"Total":321,"Kandydatka":15,"Procent":4.67},
-  {"Obwod":190,"Total":890,"Kandydatka":49,"Procent":5.51},
-  {"Obwod":191,"Total":835,"Kandydatka":52,"Procent":6.23},
-  {"Obwod":192,"Total":840,"Kandydatka":57,"Procent":6.79},
-  {"Obwod":193,"Total":693,"Kandydatka":19,"Procent":2.74},
-  {"Obwod":194,"Total":902,"Kandydatka":33,"Procent":3.66},
-  {"Obwod":195,"Total":676,"Kandydatka":46,"Procent":6.8},
-  {"Obwod":196,"Total":982,"Kandydatka":52,"Procent":5.3},
-  {"Obwod":197,"Total":1199,"Kandydatka":71,"Procent":5.92},
-  {"Obwod":198,"Total":957,"Kandydatka":33,"Procent":3.45},
-  {"Obwod":199,"Total":567,"Kandydatka":19,"Procent":3.35},
-  {"Obwod":200,"Total":1012,"Kandydatka":33,"Procent":3.26},
-  {"Obwod":201,"Total":895,"Kandydatka":17,"Procent":1.9},
-  {"Obwod":202,"Total":1071,"Kandydatka":50,"Procent":4.67},
-  {"Obwod":203,"Total":633,"Kandydatka":22,"Procent":3.48},
-  {"Obwod":204,"Total":474,"Kandydatka":6,"Procent":1.27},
-  {"Obwod":205,"Total":212,"Kandydatka":3,"Procent":1.42},
-  {"Obwod":206,"Total":478,"Kandydatka":13,"Procent":2.72},
-  {"Obwod":207,"Total":356,"Kandydatka":12,"Procent":3.37},
-  {"Obwod":208,"Total":358,"Kandydatka":13,"Procent":3.63},
-  {"Obwod":209,"Total":859,"Kandydatka":22,"Procent":2.56},
-  {"Obwod":210,"Total":809,"Kandydatka":26,"Procent":3.21},
-  {"Obwod":211,"Total":1005,"Kandydatka":64,"Procent":6.37},
-  {"Obwod":212,"Total":606,"Kandydatka":18,"Procent":2.97},
-  {"Obwod":213,"Total":727,"Kandydatka":24,"Procent":3.3},
-  {"Obwod":214,"Total":731,"Kandydatka":28,"Procent":3.83},
-  {"Obwod":215,"Total":720,"Kandydatka":39,"Procent":5.42},
-  {"Obwod":216,"Total":884,"Kandydatka":33,"Procent":3.73},
-  {"Obwod":217,"Total":780,"Kandydatka":34,"Procent":4.36},
-  {"Obwod":218,"Total":766,"Kandydatka":54,"Procent":7.05},
-  {"Obwod":219,"Total":761,"Kandydatka":57,"Procent":7.49},
-  {"Obwod":220,"Total":786,"Kandydatka":25,"Procent":3.18},
-  {"Obwod":221,"Total":979,"Kandydatka":66,"Procent":6.74},
-  {"Obwod":222,"Total":887,"Kandydatka":33,"Procent":3.72},
-  {"Obwod":223,"Total":784,"Kandydatka":26,"Procent":3.32},
-  {"Obwod":224,"Total":790,"Kandydatka":51,"Procent":6.46},
-  {"Obwod":225,"Total":661,"Kandydatka":41,"Procent":6.2},
-  {"Obwod":226,"Total":525,"Kandydatka":41,"Procent":7.81},
-  {"Obwod":227,"Total":736,"Kandydatka":21,"Procent":2.85},
-  {"Obwod":228,"Total":922,"Kandydatka":69,"Procent":7.48},
-  {"Obwod":229,"Total":490,"Kandydatka":30,"Procent":6.12},
-  {"Obwod":230,"Total":820,"Kandydatka":35,"Procent":4.27},
-  {"Obwod":231,"Total":751,"Kandydatka":55,"Procent":7.32},
-  {"Obwod":232,"Total":673,"Kandydatka":48,"Procent":7.13},
-  {"Obwod":233,"Total":826,"Kandydatka":39,"Procent":4.72},
-  {"Obwod":234,"Total":902,"Kandydatka":23,"Procent":2.55},
-  {"Obwod":235,"Total":861,"Kandydatka":29,"Procent":3.37},
-  {"Obwod":236,"Total":1078,"Kandydatka":61,"Procent":5.66},
-  {"Obwod":237,"Total":520,"Kandydatka":27,"Procent":5.19},
-  {"Obwod":238,"Total":665,"Kandydatka":45,"Procent":6.77},
-  {"Obwod":239,"Total":532,"Kandydatka":23,"Procent":4.32},
-  {"Obwod":240,"Total":572,"Kandydatka":36,"Procent":6.29},
-  {"Obwod":241,"Total":400,"Kandydatka":18,"Procent":4.5},
-  {"Obwod":242,"Total":736,"Kandydatka":49,"Procent":6.66},
-  {"Obwod":243,"Total":559,"Kandydatka":19,"Procent":3.4},
-  {"Obwod":244,"Total":867,"Kandydatka":37,"Procent":4.27},
-  {"Obwod":245,"Total":668,"Kandydatka":28,"Procent":4.19},
-  {"Obwod":246,"Total":677,"Kandydatka":29,"Procent":4.28},
-  {"Obwod":247,"Total":1037,"Kandydatka":56,"Procent":5.4},
-  {"Obwod":248,"Total":779,"Kandydatka":31,"Procent":3.98},
-  {"Obwod":249,"Total":764,"Kandydatka":29,"Procent":3.8},
-  {"Obwod":250,"Total":784,"Kandydatka":49,"Procent":6.25},
-  {"Obwod":251,"Total":559,"Kandydatka":30,"Procent":5.37},
-  {"Obwod":252,"Total":570,"Kandydatka":28,"Procent":4.91},
-  {"Obwod":253,"Total":648,"Kandydatka":20,"Procent":3.09},
-  {"Obwod":254,"Total":415,"Kandydatka":13,"Procent":3.13},
-  {"Obwod":255,"Total":513,"Kandydatka":30,"Procent":5.85},
-  {"Obwod":256,"Total":638,"Kandydatka":26,"Procent":4.08},
-  {"Obwod":257,"Total":604,"Kandydatka":19,"Procent":3.15},
-  {"Obwod":258,"Total":617,"Kandydatka":12,"Procent":1.94},
-  {"Obwod":259,"Total":805,"Kandydatka":21,"Procent":2.61},
-  {"Obwod":260,"Total":810,"Kandydatka":35,"Procent":4.32},
-  {"Obwod":261,"Total":755,"Kandydatka":24,"Procent":3.18},
-  {"Obwod":262,"Total":834,"Kandydatka":23,"Procent":2.76},
-  {"Obwod":263,"Total":916,"Kandydatka":38,"Procent":4.15},
-  {"Obwod":264,"Total":947,"Kandydatka":40,"Procent":4.22},
-  {"Obwod":265,"Total":728,"Kandydatka":22,"Procent":3.02},
-  {"Obwod":266,"Total":754,"Kandydatka":26,"Procent":3.45},
-  {"Obwod":267,"Total":845,"Kandydatka":17,"Procent":2.01},
-  {"Obwod":268,"Total":809,"Kandydatka":27,"Procent":3.34},
-  {"Obwod":269,"Total":748,"Kandydatka":39,"Procent":5.21},
-  {"Obwod":270,"Total":756,"Kandydatka":47,"Procent":6.22},
-  {"Obwod":271,"Total":497,"Kandydatka":14,"Procent":2.82},
-  {"Obwod":272,"Total":460,"Kandydatka":10,"Procent":2.17},
-  {"Obwod":273,"Total":884,"Kandydatka":65,"Procent":7.35},
-  {"Obwod":274,"Total":749,"Kandydatka":53,"Procent":7.08},
-  {"Obwod":275,"Total":953,"Kandydatka":100,"Procent":10.49},
-  {"Obwod":276,"Total":891,"Kandydatka":52,"Procent":5.84},
-  {"Obwod":277,"Total":1145,"Kandydatka":62,"Procent":5.41},
-  {"Obwod":278,"Total":923,"Kandydatka":78,"Procent":8.45},
-  {"Obwod":279,"Total":913,"Kandydatka":83,"Procent":9.09},
-  {"Obwod":280,"Total":894,"Kandydatka":80,"Procent":8.95},
-  {"Obwod":281,"Total":744,"Kandydatka":58,"Procent":7.8},
-  {"Obwod":282,"Total":1184,"Kandydatka":85,"Procent":7.18},
-  {"Obwod":283,"Total":827,"Kandydatka":115,"Procent":13.91},
-  {"Obwod":284,"Total":1162,"Kandydatka":158,"Procent":13.6},
-  {"Obwod":285,"Total":521,"Kandydatka":54,"Procent":10.36},
-  {"Obwod":286,"Total":846,"Kandydatka":112,"Procent":13.24},
-  {"Obwod":287,"Total":443,"Kandydatka":50,"Procent":11.29},
-  {"Obwod":288,"Total":528,"Kandydatka":67,"Procent":12.69},
-  {"Obwod":289,"Total":633,"Kandydatka":73,"Procent":11.53},
-  {"Obwod":290,"Total":701,"Kandydatka":114,"Procent":16.26},
-  {"Obwod":291,"Total":609,"Kandydatka":83,"Procent":13.63},
-  {"Obwod":292,"Total":1107,"Kandydatka":164,"Procent":14.81},
-  {"Obwod":293,"Total":459,"Kandydatka":21,"Procent":4.58},
-  {"Obwod":294,"Total":1017,"Kandydatka":82,"Procent":8.06},
-  {"Obwod":295,"Total":978,"Kandydatka":60,"Procent":6.13},
-  {"Obwod":296,"Total":1087,"Kandydatka":81,"Procent":7.45},
-  {"Obwod":297,"Total":919,"Kandydatka":66,"Procent":7.18},
-  {"Obwod":298,"Total":580,"Kandydatka":34,"Procent":5.86},
-  {"Obwod":299,"Total":636,"Kandydatka":59,"Procent":9.28},
-  {"Obwod":300,"Total":770,"Kandydatka":26,"Procent":3.38},
-  {"Obwod":301,"Total":1001,"Kandydatka":38,"Procent":3.8},
-  {"Obwod":302,"Total":917,"Kandydatka":27,"Procent":2.94},
-  {"Obwod":303,"Total":710,"Kandydatka":59,"Procent":8.31},
-  {"Obwod":304,"Total":698,"Kandydatka":19,"Procent":2.72},
-  {"Obwod":305,"Total":702,"Kandydatka":33,"Procent":4.7},
-  {"Obwod":306,"Total":542,"Kandydatka":20,"Procent":3.69},
-  {"Obwod":307,"Total":703,"Kandydatka":22,"Procent":3.13},
-  {"Obwod":308,"Total":702,"Kandydatka":39,"Procent":5.56},
-  {"Obwod":309,"Total":652,"Kandydatka":53,"Procent":8.13},
-  {"Obwod":310,"Total":916,"Kandydatka":30,"Procent":3.28},
-  {"Obwod":311,"Total":790,"Kandydatka":19,"Procent":2.41},
-  {"Obwod":312,"Total":865,"Kandydatka":40,"Procent":4.62},
-  {"Obwod":313,"Total":869,"Kandydatka":43,"Procent":4.95},
-  {"Obwod":314,"Total":724,"Kandydatka":25,"Procent":3.45},
-  {"Obwod":315,"Total":799,"Kandydatka":35,"Procent":4.38},
-  {"Obwod":316,"Total":715,"Kandydatka":20,"Procent":2.8},
-  {"Obwod":317,"Total":776,"Kandydatka":23,"Procent":2.96},
-  {"Obwod":318,"Total":812,"Kandydatka":23,"Procent":2.83},
-  {"Obwod":319,"Total":824,"Kandydatka":26,"Procent":3.16},
-  {"Obwod":320,"Total":605,"Kandydatka":20,"Procent":3.31},
-  {"Obwod":321,"Total":933,"Kandydatka":45,"Procent":4.82},
-  {"Obwod":322,"Total":758,"Kandydatka":19,"Procent":2.51},
-  {"Obwod":323,"Total":683,"Kandydatka":25,"Procent":3.66},
-  {"Obwod":324,"Total":893,"Kandydatka":32,"Procent":3.58},
-  {"Obwod":325,"Total":602,"Kandydatka":18,"Procent":2.99},
-  {"Obwod":326,"Total":650,"Kandydatka":13,"Procent":2},
-  {"Obwod":327,"Total":780,"Kandydatka":22,"Procent":2.82},
-  {"Obwod":328,"Total":550,"Kandydatka":11,"Procent":2},
-  {"Obwod":329,"Total":735,"Kandydatka":20,"Procent":2.72},
-  {"Obwod":330,"Total":597,"Kandydatka":16,"Procent":2.68},
-  {"Obwod":331,"Total":650,"Kandydatka":23,"Procent":3.54},
-  {"Obwod":332,"Total":761,"Kandydatka":19,"Procent":2.5},
-  {"Obwod":333,"Total":807,"Kandydatka":32,"Procent":3.97},
-  {"Obwod":334,"Total":863,"Kandydatka":53,"Procent":6.14},
-  {"Obwod":335,"Total":803,"Kandydatka":31,"Procent":3.86},
-  {"Obwod":336,"Total":628,"Kandydatka":42,"Procent":6.69},
-  {"Obwod":337,"Total":444,"Kandydatka":15,"Procent":3.38},
-  {"Obwod":338,"Total":582,"Kandydatka":18,"Procent":3.09},
-  {"Obwod":339,"Total":541,"Kandydatka":32,"Procent":5.91},
-  {"Obwod":340,"Total":654,"Kandydatka":24,"Procent":3.67},
-  {"Obwod":341,"Total":408,"Kandydatka":18,"Procent":4.41},
-  {"Obwod":342,"Total":825,"Kandydatka":32,"Procent":3.88},
-  {"Obwod":343,"Total":686,"Kandydatka":16,"Procent":2.33},
-  {"Obwod":344,"Total":493,"Kandydatka":18,"Procent":3.65},
-  {"Obwod":345,"Total":588,"Kandydatka":25,"Procent":4.25},
-  {"Obwod":346,"Total":632,"Kandydatka":14,"Procent":2.22},
-  {"Obwod":347,"Total":542,"Kandydatka":21,"Procent":3.87},
-  {"Obwod":348,"Total":498,"Kandydatka":22,"Procent":4.42},
-  {"Obwod":349,"Total":975,"Kandydatka":27,"Procent":2.77},
-  {"Obwod":350,"Total":447,"Kandydatka":12,"Procent":2.68},
-  {"Obwod":351,"Total":486,"Kandydatka":9,"Procent":1.85},
-  {"Obwod":352,"Total":617,"Kandydatka":36,"Procent":5.83},
-  {"Obwod":353,"Total":447,"Kandydatka":13,"Procent":2.91},
-  {"Obwod":354,"Total":633,"Kandydatka":24,"Procent":3.79},
-  {"Obwod":355,"Total":644,"Kandydatka":8,"Procent":1.24},
-  {"Obwod":356,"Total":453,"Kandydatka":22,"Procent":4.86},
-  {"Obwod":357,"Total":442,"Kandydatka":6,"Procent":1.36},
-  {"Obwod":358,"Total":603,"Kandydatka":23,"Procent":3.81},
-  {"Obwod":359,"Total":542,"Kandydatka":20,"Procent":3.69},
-  {"Obwod":360,"Total":724,"Kandydatka":20,"Procent":2.76},
-  {"Obwod":361,"Total":546,"Kandydatka":24,"Procent":4.4},
-  {"Obwod":362,"Total":601,"Kandydatka":18,"Procent":3},
-  {"Obwod":363,"Total":548,"Kandydatka":12,"Procent":2.19},
-  {"Obwod":364,"Total":538,"Kandydatka":15,"Procent":2.79},
-  {"Obwod":365,"Total":778,"Kandydatka":25,"Procent":3.21},
-  {"Obwod":366,"Total":258,"Kandydatka":6,"Procent":2.33},
-  {"Obwod":367,"Total":839,"Kandydatka":24,"Procent":2.86},
-  {"Obwod":368,"Total":955,"Kandydatka":15,"Procent":1.57},
-  {"Obwod":369,"Total":323,"Kandydatka":0,"Procent":0},
-  {"Obwod":370,"Total":380,"Kandydatka":8,"Procent":2.11},
-  {"Obwod":371,"Total":528,"Kandydatka":32,"Procent":6.06},
-  {"Obwod":372,"Total":380,"Kandydatka":25,"Procent":6.58},
-  {"Obwod":373,"Total":302,"Kandydatka":10,"Procent":3.31},
-  {"Obwod":374,"Total":723,"Kandydatka":49,"Procent":6.78},
-  {"Obwod":375,"Total":531,"Kandydatka":22,"Procent":4.14},
-  {"Obwod":376,"Total":619,"Kandydatka":38,"Procent":6.14},
-  {"Obwod":377,"Total":361,"Kandydatka":22,"Procent":6.09},
-  {"Obwod":378,"Total":451,"Kandydatka":14,"Procent":3.1},
-  {"Obwod":379,"Total":394,"Kandydatka":15,"Procent":3.81},
-  {"Obwod":380,"Total":475,"Kandydatka":12,"Procent":2.53},
-  {"Obwod":381,"Total":515,"Kandydatka":37,"Procent":7.18},
-  {"Obwod":382,"Total":330,"Kandydatka":15,"Procent":4.55},
-  {"Obwod":383,"Total":461,"Kandydatka":17,"Procent":3.69},
-  {"Obwod":384,"Total":451,"Kandydatka":20,"Procent":4.43},
-  {"Obwod":385,"Total":680,"Kandydatka":25,"Procent":3.68},
-  {"Obwod":386,"Total":561,"Kandydatka":31,"Procent":5.53},
-  {"Obwod":387,"Total":405,"Kandydatka":29,"Procent":7.16},
-  {"Obwod":388,"Total":499,"Kandydatka":31,"Procent":6.21},
-  {"Obwod":389,"Total":452,"Kandydatka":22,"Procent":4.87},
-  {"Obwod":390,"Total":470,"Kandydatka":37,"Procent":7.87},
-  {"Obwod":391,"Total":711,"Kandydatka":34,"Procent":4.78},
-  {"Obwod":392,"Total":494,"Kandydatka":19,"Procent":3.85},
-  {"Obwod":393,"Total":608,"Kandydatka":24,"Procent":3.95},
-  {"Obwod":394,"Total":535,"Kandydatka":28,"Procent":5.23},
-  {"Obwod":395,"Total":466,"Kandydatka":24,"Procent":5.15},
-  {"Obwod":396,"Total":559,"Kandydatka":30,"Procent":5.37},
-  {"Obwod":397,"Total":410,"Kandydatka":20,"Procent":4.88},
-  {"Obwod":398,"Total":377,"Kandydatka":21,"Procent":5.57},
-  {"Obwod":399,"Total":646,"Kandydatka":52,"Procent":8.05},
-  {"Obwod":400,"Total":776,"Kandydatka":25,"Procent":3.22},
-  {"Obwod":401,"Total":114,"Kandydatka":1,"Procent":0.88},
-  {"Obwod":402,"Total":338,"Kandydatka":2,"Procent":0.59},
-  {"Obwod":403,"Total":507,"Kandydatka":6,"Procent":1.18},
-  {"Obwod":404,"Total":545,"Kandydatka":3,"Procent":0.55},
-  {"Obwod":405,"Total":435,"Kandydatka":4,"Procent":0.92},
-  {"Obwod":406,"Total":786,"Kandydatka":50,"Procent":6.36},
-  {"Obwod":407,"Total":878,"Kandydatka":77,"Procent":8.77},
-  {"Obwod":408,"Total":808,"Kandydatka":30,"Procent":3.71},
-  {"Obwod":409,"Total":796,"Kandydatka":57,"Procent":7.16},
-  {"Obwod":410,"Total":788,"Kandydatka":76,"Procent":9.64},
-  {"Obwod":411,"Total":241,"Kandydatka":3,"Procent":1.24},
-  {"Obwod":412,"Total":18,"Kandydatka":0,"Procent":0},
-  {"Obwod":413,"Total":56,"Kandydatka":1,"Procent":1.79},
-  {"Obwod":414,"Total":32,"Kandydatka":0,"Procent":0},
-  {"Obwod":415,"Total":55,"Kandydatka":1,"Procent":1.82},
-  {"Obwod":416,"Total":6,"Kandydatka":0,"Procent":0},
-  {"Obwod":417,"Total":77,"Kandydatka":2,"Procent":2.6},
-  {"Obwod":418,"Total":180,"Kandydatka":5,"Procent":2.78},
-  {"Obwod":419,"Total":12,"Kandydatka":0,"Procent":0},
-  {"Obwod":420,"Total":40,"Kandydatka":0,"Procent":0},
-  {"Obwod":421,"Total":37,"Kandydatka":0,"Procent":0},
-  {"Obwod":422,"Total":6,"Kandydatka":0,"Procent":0},
-  {"Obwod":423,"Total":11,"Kandydatka":0,"Procent":0},
-  {"Obwod":424,"Total":142,"Kandydatka":0,"Procent":0},
-  {"Obwod":425,"Total":45,"Kandydatka":1,"Procent":2.22},
-  {"Obwod":426,"Total":22,"Kandydatka":0,"Procent":0},
-  {"Obwod":427,"Total":6,"Kandydatka":0,"Procent":0},
-  {"Obwod":428,"Total":82,"Kandydatka":5,"Procent":6.1},
-  {"Obwod":429,"Total":30,"Kandydatka":0,"Procent":0},
-  {"Obwod":430,"Total":44,"Kandydatka":1,"Procent":2.27},
-  {"Obwod":431,"Total":56,"Kandydatka":1,"Procent":1.79},
-  {"Obwod":432,"Total":14,"Kandydatka":0,"Procent":0},
-  {"Obwod":433,"Total":46,"Kandydatka":0,"Procent":0},
-  {"Obwod":434,"Total":24,"Kandydatka":1,"Procent":4.17},
-  {"Obwod":435,"Total":17,"Kandydatka":0,"Procent":0},
-  {"Obwod":436,"Total":146,"Kandydatka":13,"Procent":8.9},
-  {"Obwod":437,"Total":12,"Kandydatka":0,"Procent":0},
-  {"Obwod":438,"Total":79,"Kandydatka":1,"Procent":1.27},
-  {"Obwod":439,"Total":72,"Kandydatka":0,"Procent":0},
-  {"Obwod":440,"Total":95,"Kandydatka":2,"Procent":2.11},
-  {"Obwod":441,"Total":89,"Kandydatka":1,"Procent":1.12},
-  {"Obwod":442,"Total":18,"Kandydatka":0,"Procent":0},
-  {"Obwod":443,"Total":23,"Kandydatka":0,"Procent":0},
-  {"Obwod":444,"Total":75,"Kandydatka":1,"Procent":1.33},
-  {"Obwod":445,"Total":41,"Kandydatka":3,"Procent":7.32},
-  {"Obwod":446,"Total":84,"Kandydatka":2,"Procent":2.38},
-  {"Obwod":447,"Total":85,"Kandydatka":0,"Procent":0},
-  {"Obwod":448,"Total":8,"Kandydatka":0,"Procent":0},
-  {"Obwod":449,"Total":165,"Kandydatka":0,"Procent":0},
-  {"Obwod":450,"Total":10,"Kandydatka":0,"Procent":0},
-  {"Obwod":451,"Total":18,"Kandydatka":0,"Procent":0},
-  {"Obwod":452,"Total":28,"Kandydatka":2,"Procent":7.14},
-  {"Obwod":453,"Total":60,"Kandydatka":0,"Procent":0},
-  {"Obwod":454,"Total":16,"Kandydatka":0,"Procent":0},
-  {"Obwod":455,"Total":164,"Kandydatka":61,"Procent":37.2},
-  {"Obwod":456,"Total":454,"Kandydatka":78,"Procent":17.18}
+  {
+    "Obwod": 1,
+    "Total": 825,
+    "Kandydatka": 85,
+    "Procent": 10.3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280685"
+  },
+  {
+    "Obwod": 2,
+    "Total": 628,
+    "Kandydatka": 69,
+    "Procent": 10.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280686"
+  },
+  {
+    "Obwod": 3,
+    "Total": 651,
+    "Kandydatka": 73,
+    "Procent": 11.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280687"
+  },
+  {
+    "Obwod": 4,
+    "Total": 612,
+    "Kandydatka": 43,
+    "Procent": 7.03,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280688"
+  },
+  {
+    "Obwod": 5,
+    "Total": 482,
+    "Kandydatka": 57,
+    "Procent": 11.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280689"
+  },
+  {
+    "Obwod": 6,
+    "Total": 692,
+    "Kandydatka": 34,
+    "Procent": 4.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280690"
+  },
+  {
+    "Obwod": 7,
+    "Total": 678,
+    "Kandydatka": 59,
+    "Procent": 8.7,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280691"
+  },
+  {
+    "Obwod": 8,
+    "Total": 488,
+    "Kandydatka": 41,
+    "Procent": 8.4,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280692"
+  },
+  {
+    "Obwod": 9,
+    "Total": 740,
+    "Kandydatka": 40,
+    "Procent": 5.41,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280693"
+  },
+  {
+    "Obwod": 10,
+    "Total": 639,
+    "Kandydatka": 35,
+    "Procent": 5.48,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280694"
+  },
+  {
+    "Obwod": 11,
+    "Total": 368,
+    "Kandydatka": 31,
+    "Procent": 8.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280695"
+  },
+  {
+    "Obwod": 12,
+    "Total": 900,
+    "Kandydatka": 99,
+    "Procent": 11,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280696"
+  },
+  {
+    "Obwod": 13,
+    "Total": 266,
+    "Kandydatka": 23,
+    "Procent": 8.65,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280697"
+  },
+  {
+    "Obwod": 14,
+    "Total": 491,
+    "Kandydatka": 45,
+    "Procent": 9.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280698"
+  },
+  {
+    "Obwod": 15,
+    "Total": 670,
+    "Kandydatka": 97,
+    "Procent": 14.48,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280699"
+  },
+  {
+    "Obwod": 16,
+    "Total": 448,
+    "Kandydatka": 30,
+    "Procent": 6.7,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280700"
+  },
+  {
+    "Obwod": 17,
+    "Total": 658,
+    "Kandydatka": 62,
+    "Procent": 9.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280701"
+  },
+  {
+    "Obwod": 18,
+    "Total": 523,
+    "Kandydatka": 51,
+    "Procent": 9.75,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280702"
+  },
+  {
+    "Obwod": 19,
+    "Total": 634,
+    "Kandydatka": 58,
+    "Procent": 9.15,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280703"
+  },
+  {
+    "Obwod": 20,
+    "Total": 401,
+    "Kandydatka": 46,
+    "Procent": 11.47,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280704"
+  },
+  {
+    "Obwod": 21,
+    "Total": 819,
+    "Kandydatka": 75,
+    "Procent": 9.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280705"
+  },
+  {
+    "Obwod": 22,
+    "Total": 857,
+    "Kandydatka": 75,
+    "Procent": 8.75,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280706"
+  },
+  {
+    "Obwod": 23,
+    "Total": 392,
+    "Kandydatka": 50,
+    "Procent": 12.76,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280707"
+  },
+  {
+    "Obwod": 24,
+    "Total": 756,
+    "Kandydatka": 42,
+    "Procent": 5.56,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280708"
+  },
+  {
+    "Obwod": 25,
+    "Total": 550,
+    "Kandydatka": 43,
+    "Procent": 7.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280709"
+  },
+  {
+    "Obwod": 26,
+    "Total": 819,
+    "Kandydatka": 93,
+    "Procent": 11.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280710"
+  },
+  {
+    "Obwod": 27,
+    "Total": 596,
+    "Kandydatka": 45,
+    "Procent": 7.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280711"
+  },
+  {
+    "Obwod": 28,
+    "Total": 686,
+    "Kandydatka": 51,
+    "Procent": 7.43,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280712"
+  },
+  {
+    "Obwod": 29,
+    "Total": 577,
+    "Kandydatka": 46,
+    "Procent": 7.97,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280713"
+  },
+  {
+    "Obwod": 30,
+    "Total": 1463,
+    "Kandydatka": 168,
+    "Procent": 11.48,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280714"
+  },
+  {
+    "Obwod": 31,
+    "Total": 1139,
+    "Kandydatka": 82,
+    "Procent": 7.2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280715"
+  },
+  {
+    "Obwod": 32,
+    "Total": 833,
+    "Kandydatka": 82,
+    "Procent": 9.84,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280716"
+  },
+  {
+    "Obwod": 33,
+    "Total": 1000,
+    "Kandydatka": 113,
+    "Procent": 11.3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280717"
+  },
+  {
+    "Obwod": 34,
+    "Total": 487,
+    "Kandydatka": 64,
+    "Procent": 13.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280718"
+  },
+  {
+    "Obwod": 35,
+    "Total": 658,
+    "Kandydatka": 50,
+    "Procent": 7.6,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280719"
+  },
+  {
+    "Obwod": 36,
+    "Total": 579,
+    "Kandydatka": 57,
+    "Procent": 9.84,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280720"
+  },
+  {
+    "Obwod": 37,
+    "Total": 617,
+    "Kandydatka": 68,
+    "Procent": 11.02,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280721"
+  },
+  {
+    "Obwod": 38,
+    "Total": 836,
+    "Kandydatka": 74,
+    "Procent": 8.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280722"
+  },
+  {
+    "Obwod": 39,
+    "Total": 520,
+    "Kandydatka": 20,
+    "Procent": 3.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280723"
+  },
+  {
+    "Obwod": 40,
+    "Total": 851,
+    "Kandydatka": 67,
+    "Procent": 7.87,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280724"
+  },
+  {
+    "Obwod": 41,
+    "Total": 1076,
+    "Kandydatka": 100,
+    "Procent": 9.29,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280725"
+  },
+  {
+    "Obwod": 42,
+    "Total": 897,
+    "Kandydatka": 90,
+    "Procent": 10.03,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280726"
+  },
+  {
+    "Obwod": 43,
+    "Total": 922,
+    "Kandydatka": 91,
+    "Procent": 9.87,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280727"
+  },
+  {
+    "Obwod": 44,
+    "Total": 484,
+    "Kandydatka": 32,
+    "Procent": 6.61,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280728"
+  },
+  {
+    "Obwod": 45,
+    "Total": 478,
+    "Kandydatka": 26,
+    "Procent": 5.44,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280729"
+  },
+  {
+    "Obwod": 46,
+    "Total": 603,
+    "Kandydatka": 35,
+    "Procent": 5.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280730"
+  },
+  {
+    "Obwod": 47,
+    "Total": 583,
+    "Kandydatka": 40,
+    "Procent": 6.86,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280731"
+  },
+  {
+    "Obwod": 48,
+    "Total": 1036,
+    "Kandydatka": 58,
+    "Procent": 5.6,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280732"
+  },
+  {
+    "Obwod": 49,
+    "Total": 677,
+    "Kandydatka": 55,
+    "Procent": 8.12,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280733"
+  },
+  {
+    "Obwod": 50,
+    "Total": 656,
+    "Kandydatka": 36,
+    "Procent": 5.49,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280734"
+  },
+  {
+    "Obwod": 51,
+    "Total": 558,
+    "Kandydatka": 41,
+    "Procent": 7.35,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280735"
+  },
+  {
+    "Obwod": 52,
+    "Total": 473,
+    "Kandydatka": 11,
+    "Procent": 2.33,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280736"
+  },
+  {
+    "Obwod": 53,
+    "Total": 815,
+    "Kandydatka": 27,
+    "Procent": 3.31,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280737"
+  },
+  {
+    "Obwod": 54,
+    "Total": 745,
+    "Kandydatka": 56,
+    "Procent": 7.52,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280738"
+  },
+  {
+    "Obwod": 55,
+    "Total": 403,
+    "Kandydatka": 20,
+    "Procent": 4.96,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280739"
+  },
+  {
+    "Obwod": 56,
+    "Total": 1014,
+    "Kandydatka": 63,
+    "Procent": 6.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280740"
+  },
+  {
+    "Obwod": 57,
+    "Total": 1050,
+    "Kandydatka": 75,
+    "Procent": 7.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280741"
+  },
+  {
+    "Obwod": 58,
+    "Total": 1022,
+    "Kandydatka": 35,
+    "Procent": 3.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280742"
+  },
+  {
+    "Obwod": 59,
+    "Total": 757,
+    "Kandydatka": 25,
+    "Procent": 3.3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280743"
+  },
+  {
+    "Obwod": 60,
+    "Total": 991,
+    "Kandydatka": 52,
+    "Procent": 5.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280744"
+  },
+  {
+    "Obwod": 61,
+    "Total": 937,
+    "Kandydatka": 45,
+    "Procent": 4.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280745"
+  },
+  {
+    "Obwod": 62,
+    "Total": 626,
+    "Kandydatka": 25,
+    "Procent": 3.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280746"
+  },
+  {
+    "Obwod": 63,
+    "Total": 710,
+    "Kandydatka": 40,
+    "Procent": 5.63,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280747"
+  },
+  {
+    "Obwod": 64,
+    "Total": 728,
+    "Kandydatka": 47,
+    "Procent": 6.46,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280748"
+  },
+  {
+    "Obwod": 65,
+    "Total": 620,
+    "Kandydatka": 46,
+    "Procent": 7.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280749"
+  },
+  {
+    "Obwod": 66,
+    "Total": 740,
+    "Kandydatka": 63,
+    "Procent": 8.51,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280750"
+  },
+  {
+    "Obwod": 67,
+    "Total": 805,
+    "Kandydatka": 38,
+    "Procent": 4.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280751"
+  },
+  {
+    "Obwod": 68,
+    "Total": 542,
+    "Kandydatka": 36,
+    "Procent": 6.64,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280752"
+  },
+  {
+    "Obwod": 69,
+    "Total": 1084,
+    "Kandydatka": 54,
+    "Procent": 4.98,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280753"
+  },
+  {
+    "Obwod": 70,
+    "Total": 627,
+    "Kandydatka": 54,
+    "Procent": 8.61,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280754"
+  },
+  {
+    "Obwod": 71,
+    "Total": 629,
+    "Kandydatka": 42,
+    "Procent": 6.68,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280755"
+  },
+  {
+    "Obwod": 72,
+    "Total": 717,
+    "Kandydatka": 51,
+    "Procent": 7.11,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280756"
+  },
+  {
+    "Obwod": 73,
+    "Total": 1230,
+    "Kandydatka": 89,
+    "Procent": 7.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280757"
+  },
+  {
+    "Obwod": 74,
+    "Total": 1068,
+    "Kandydatka": 86,
+    "Procent": 8.05,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280758"
+  },
+  {
+    "Obwod": 75,
+    "Total": 899,
+    "Kandydatka": 76,
+    "Procent": 8.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280759"
+  },
+  {
+    "Obwod": 76,
+    "Total": 808,
+    "Kandydatka": 33,
+    "Procent": 4.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280760"
+  },
+  {
+    "Obwod": 77,
+    "Total": 815,
+    "Kandydatka": 74,
+    "Procent": 9.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280761"
+  },
+  {
+    "Obwod": 78,
+    "Total": 538,
+    "Kandydatka": 52,
+    "Procent": 9.67,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280762"
+  },
+  {
+    "Obwod": 79,
+    "Total": 790,
+    "Kandydatka": 55,
+    "Procent": 6.96,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280763"
+  },
+  {
+    "Obwod": 80,
+    "Total": 877,
+    "Kandydatka": 24,
+    "Procent": 2.74,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280764"
+  },
+  {
+    "Obwod": 81,
+    "Total": 1191,
+    "Kandydatka": 103,
+    "Procent": 8.65,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280765"
+  },
+  {
+    "Obwod": 82,
+    "Total": 754,
+    "Kandydatka": 49,
+    "Procent": 6.5,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280766"
+  },
+  {
+    "Obwod": 83,
+    "Total": 801,
+    "Kandydatka": 56,
+    "Procent": 6.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280767"
+  },
+  {
+    "Obwod": 84,
+    "Total": 1004,
+    "Kandydatka": 98,
+    "Procent": 9.76,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280768"
+  },
+  {
+    "Obwod": 85,
+    "Total": 830,
+    "Kandydatka": 72,
+    "Procent": 8.67,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280769"
+  },
+  {
+    "Obwod": 86,
+    "Total": 592,
+    "Kandydatka": 36,
+    "Procent": 6.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280770"
+  },
+  {
+    "Obwod": 87,
+    "Total": 889,
+    "Kandydatka": 60,
+    "Procent": 6.75,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280771"
+  },
+  {
+    "Obwod": 88,
+    "Total": 672,
+    "Kandydatka": 45,
+    "Procent": 6.7,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280772"
+  },
+  {
+    "Obwod": 89,
+    "Total": 716,
+    "Kandydatka": 53,
+    "Procent": 7.4,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280773"
+  },
+  {
+    "Obwod": 90,
+    "Total": 932,
+    "Kandydatka": 60,
+    "Procent": 6.44,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280774"
+  },
+  {
+    "Obwod": 91,
+    "Total": 1341,
+    "Kandydatka": 105,
+    "Procent": 7.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280775"
+  },
+  {
+    "Obwod": 92,
+    "Total": 891,
+    "Kandydatka": 35,
+    "Procent": 3.93,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280776"
+  },
+  {
+    "Obwod": 93,
+    "Total": 1187,
+    "Kandydatka": 75,
+    "Procent": 6.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280777"
+  },
+  {
+    "Obwod": 94,
+    "Total": 1104,
+    "Kandydatka": 51,
+    "Procent": 4.62,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280778"
+  },
+  {
+    "Obwod": 95,
+    "Total": 967,
+    "Kandydatka": 50,
+    "Procent": 5.17,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280779"
+  },
+  {
+    "Obwod": 96,
+    "Total": 1229,
+    "Kandydatka": 88,
+    "Procent": 7.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280780"
+  },
+  {
+    "Obwod": 97,
+    "Total": 819,
+    "Kandydatka": 73,
+    "Procent": 8.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280781"
+  },
+  {
+    "Obwod": 98,
+    "Total": 686,
+    "Kandydatka": 73,
+    "Procent": 10.64,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280782"
+  },
+  {
+    "Obwod": 99,
+    "Total": 597,
+    "Kandydatka": 25,
+    "Procent": 4.19,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280783"
+  },
+  {
+    "Obwod": 100,
+    "Total": 458,
+    "Kandydatka": 35,
+    "Procent": 7.64,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280784"
+  },
+  {
+    "Obwod": 101,
+    "Total": 553,
+    "Kandydatka": 29,
+    "Procent": 5.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280785"
+  },
+  {
+    "Obwod": 102,
+    "Total": 729,
+    "Kandydatka": 53,
+    "Procent": 7.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280786"
+  },
+  {
+    "Obwod": 103,
+    "Total": 689,
+    "Kandydatka": 33,
+    "Procent": 4.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280787"
+  },
+  {
+    "Obwod": 104,
+    "Total": 833,
+    "Kandydatka": 49,
+    "Procent": 5.88,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280788"
+  },
+  {
+    "Obwod": 105,
+    "Total": 843,
+    "Kandydatka": 61,
+    "Procent": 7.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280789"
+  },
+  {
+    "Obwod": 106,
+    "Total": 998,
+    "Kandydatka": 98,
+    "Procent": 9.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280790"
+  },
+  {
+    "Obwod": 107,
+    "Total": 896,
+    "Kandydatka": 80,
+    "Procent": 8.93,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280791"
+  },
+  {
+    "Obwod": 108,
+    "Total": 756,
+    "Kandydatka": 64,
+    "Procent": 8.47,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280792"
+  },
+  {
+    "Obwod": 109,
+    "Total": 630,
+    "Kandydatka": 79,
+    "Procent": 12.54,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280793"
+  },
+  {
+    "Obwod": 110,
+    "Total": 1408,
+    "Kandydatka": 200,
+    "Procent": 14.2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280794"
+  },
+  {
+    "Obwod": 111,
+    "Total": 877,
+    "Kandydatka": 66,
+    "Procent": 7.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280795"
+  },
+  {
+    "Obwod": 112,
+    "Total": 684,
+    "Kandydatka": 85,
+    "Procent": 12.43,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280796"
+  },
+  {
+    "Obwod": 113,
+    "Total": 884,
+    "Kandydatka": 55,
+    "Procent": 6.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280797"
+  },
+  {
+    "Obwod": 114,
+    "Total": 750,
+    "Kandydatka": 84,
+    "Procent": 11.2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280798"
+  },
+  {
+    "Obwod": 115,
+    "Total": 1195,
+    "Kandydatka": 107,
+    "Procent": 8.95,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280799"
+  },
+  {
+    "Obwod": 116,
+    "Total": 376,
+    "Kandydatka": 51,
+    "Procent": 13.56,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280800"
+  },
+  {
+    "Obwod": 117,
+    "Total": 640,
+    "Kandydatka": 93,
+    "Procent": 14.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280801"
+  },
+  {
+    "Obwod": 118,
+    "Total": 857,
+    "Kandydatka": 105,
+    "Procent": 12.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280802"
+  },
+  {
+    "Obwod": 119,
+    "Total": 757,
+    "Kandydatka": 91,
+    "Procent": 12.02,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280803"
+  },
+  {
+    "Obwod": 120,
+    "Total": 665,
+    "Kandydatka": 73,
+    "Procent": 10.98,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280804"
+  },
+  {
+    "Obwod": 121,
+    "Total": 755,
+    "Kandydatka": 115,
+    "Procent": 15.23,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280805"
+  },
+  {
+    "Obwod": 122,
+    "Total": 873,
+    "Kandydatka": 71,
+    "Procent": 8.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280806"
+  },
+  {
+    "Obwod": 123,
+    "Total": 895,
+    "Kandydatka": 73,
+    "Procent": 8.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280807"
+  },
+  {
+    "Obwod": 124,
+    "Total": 737,
+    "Kandydatka": 82,
+    "Procent": 11.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280808"
+  },
+  {
+    "Obwod": 125,
+    "Total": 855,
+    "Kandydatka": 82,
+    "Procent": 9.59,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280809"
+  },
+  {
+    "Obwod": 126,
+    "Total": 733,
+    "Kandydatka": 67,
+    "Procent": 9.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280810"
+  },
+  {
+    "Obwod": 127,
+    "Total": 1008,
+    "Kandydatka": 111,
+    "Procent": 11.01,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280811"
+  },
+  {
+    "Obwod": 128,
+    "Total": 850,
+    "Kandydatka": 56,
+    "Procent": 6.59,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280812"
+  },
+  {
+    "Obwod": 129,
+    "Total": 1044,
+    "Kandydatka": 112,
+    "Procent": 10.73,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280813"
+  },
+  {
+    "Obwod": 130,
+    "Total": 1026,
+    "Kandydatka": 65,
+    "Procent": 6.34,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280814"
+  },
+  {
+    "Obwod": 131,
+    "Total": 1095,
+    "Kandydatka": 55,
+    "Procent": 5.02,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280815"
+  },
+  {
+    "Obwod": 132,
+    "Total": 999,
+    "Kandydatka": 61,
+    "Procent": 6.11,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280816"
+  },
+  {
+    "Obwod": 133,
+    "Total": 832,
+    "Kandydatka": 46,
+    "Procent": 5.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280817"
+  },
+  {
+    "Obwod": 134,
+    "Total": 853,
+    "Kandydatka": 51,
+    "Procent": 5.98,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280818"
+  },
+  {
+    "Obwod": 135,
+    "Total": 792,
+    "Kandydatka": 115,
+    "Procent": 14.52,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280819"
+  },
+  {
+    "Obwod": 136,
+    "Total": 791,
+    "Kandydatka": 32,
+    "Procent": 4.05,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280820"
+  },
+  {
+    "Obwod": 137,
+    "Total": 562,
+    "Kandydatka": 31,
+    "Procent": 5.52,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280821"
+  },
+  {
+    "Obwod": 138,
+    "Total": 557,
+    "Kandydatka": 21,
+    "Procent": 3.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280822"
+  },
+  {
+    "Obwod": 139,
+    "Total": 1127,
+    "Kandydatka": 65,
+    "Procent": 5.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280823"
+  },
+  {
+    "Obwod": 140,
+    "Total": 993,
+    "Kandydatka": 36,
+    "Procent": 3.63,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280824"
+  },
+  {
+    "Obwod": 141,
+    "Total": 534,
+    "Kandydatka": 34,
+    "Procent": 6.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280825"
+  },
+  {
+    "Obwod": 142,
+    "Total": 1101,
+    "Kandydatka": 64,
+    "Procent": 5.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280826"
+  },
+  {
+    "Obwod": 143,
+    "Total": 1029,
+    "Kandydatka": 41,
+    "Procent": 3.98,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280827"
+  },
+  {
+    "Obwod": 144,
+    "Total": 739,
+    "Kandydatka": 35,
+    "Procent": 4.74,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280828"
+  },
+  {
+    "Obwod": 145,
+    "Total": 672,
+    "Kandydatka": 44,
+    "Procent": 6.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280829"
+  },
+  {
+    "Obwod": 146,
+    "Total": 886,
+    "Kandydatka": 82,
+    "Procent": 9.26,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280830"
+  },
+  {
+    "Obwod": 147,
+    "Total": 930,
+    "Kandydatka": 95,
+    "Procent": 10.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280831"
+  },
+  {
+    "Obwod": 148,
+    "Total": 1076,
+    "Kandydatka": 112,
+    "Procent": 10.41,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280832"
+  },
+  {
+    "Obwod": 149,
+    "Total": 652,
+    "Kandydatka": 84,
+    "Procent": 12.88,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280833"
+  },
+  {
+    "Obwod": 150,
+    "Total": 800,
+    "Kandydatka": 82,
+    "Procent": 10.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280834"
+  },
+  {
+    "Obwod": 151,
+    "Total": 867,
+    "Kandydatka": 95,
+    "Procent": 10.96,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280835"
+  },
+  {
+    "Obwod": 152,
+    "Total": 736,
+    "Kandydatka": 48,
+    "Procent": 6.52,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280836"
+  },
+  {
+    "Obwod": 153,
+    "Total": 720,
+    "Kandydatka": 51,
+    "Procent": 7.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280837"
+  },
+  {
+    "Obwod": 154,
+    "Total": 842,
+    "Kandydatka": 80,
+    "Procent": 9.5,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280838"
+  },
+  {
+    "Obwod": 155,
+    "Total": 1014,
+    "Kandydatka": 81,
+    "Procent": 7.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280839"
+  },
+  {
+    "Obwod": 156,
+    "Total": 1245,
+    "Kandydatka": 129,
+    "Procent": 10.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280840"
+  },
+  {
+    "Obwod": 157,
+    "Total": 476,
+    "Kandydatka": 37,
+    "Procent": 7.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280841"
+  },
+  {
+    "Obwod": 158,
+    "Total": 611,
+    "Kandydatka": 56,
+    "Procent": 9.17,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280842"
+  },
+  {
+    "Obwod": 159,
+    "Total": 608,
+    "Kandydatka": 23,
+    "Procent": 3.78,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280843"
+  },
+  {
+    "Obwod": 160,
+    "Total": 900,
+    "Kandydatka": 35,
+    "Procent": 3.89,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280844"
+  },
+  {
+    "Obwod": 161,
+    "Total": 551,
+    "Kandydatka": 22,
+    "Procent": 3.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280845"
+  },
+  {
+    "Obwod": 162,
+    "Total": 526,
+    "Kandydatka": 19,
+    "Procent": 3.61,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280846"
+  },
+  {
+    "Obwod": 163,
+    "Total": 757,
+    "Kandydatka": 29,
+    "Procent": 3.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280847"
+  },
+  {
+    "Obwod": 164,
+    "Total": 559,
+    "Kandydatka": 31,
+    "Procent": 5.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280848"
+  },
+  {
+    "Obwod": 165,
+    "Total": 856,
+    "Kandydatka": 29,
+    "Procent": 3.39,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280849"
+  },
+  {
+    "Obwod": 166,
+    "Total": 651,
+    "Kandydatka": 22,
+    "Procent": 3.38,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280850"
+  },
+  {
+    "Obwod": 167,
+    "Total": 493,
+    "Kandydatka": 19,
+    "Procent": 3.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280851"
+  },
+  {
+    "Obwod": 168,
+    "Total": 996,
+    "Kandydatka": 107,
+    "Procent": 10.74,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280852"
+  },
+  {
+    "Obwod": 169,
+    "Total": 929,
+    "Kandydatka": 56,
+    "Procent": 6.03,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280853"
+  },
+  {
+    "Obwod": 170,
+    "Total": 620,
+    "Kandydatka": 84,
+    "Procent": 13.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280854"
+  },
+  {
+    "Obwod": 171,
+    "Total": 801,
+    "Kandydatka": 76,
+    "Procent": 9.49,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280855"
+  },
+  {
+    "Obwod": 172,
+    "Total": 1013,
+    "Kandydatka": 76,
+    "Procent": 7.5,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280856"
+  },
+  {
+    "Obwod": 173,
+    "Total": 639,
+    "Kandydatka": 81,
+    "Procent": 12.68,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280857"
+  },
+  {
+    "Obwod": 174,
+    "Total": 921,
+    "Kandydatka": 65,
+    "Procent": 7.06,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280858"
+  },
+  {
+    "Obwod": 175,
+    "Total": 1001,
+    "Kandydatka": 96,
+    "Procent": 9.59,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280859"
+  },
+  {
+    "Obwod": 176,
+    "Total": 764,
+    "Kandydatka": 52,
+    "Procent": 6.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280860"
+  },
+  {
+    "Obwod": 177,
+    "Total": 751,
+    "Kandydatka": 48,
+    "Procent": 6.39,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280861"
+  },
+  {
+    "Obwod": 178,
+    "Total": 648,
+    "Kandydatka": 47,
+    "Procent": 7.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280862"
+  },
+  {
+    "Obwod": 179,
+    "Total": 988,
+    "Kandydatka": 70,
+    "Procent": 7.09,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280863"
+  },
+  {
+    "Obwod": 180,
+    "Total": 695,
+    "Kandydatka": 51,
+    "Procent": 7.34,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280864"
+  },
+  {
+    "Obwod": 181,
+    "Total": 715,
+    "Kandydatka": 61,
+    "Procent": 8.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280865"
+  },
+  {
+    "Obwod": 182,
+    "Total": 604,
+    "Kandydatka": 45,
+    "Procent": 7.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280866"
+  },
+  {
+    "Obwod": 183,
+    "Total": 904,
+    "Kandydatka": 88,
+    "Procent": 9.73,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280867"
+  },
+  {
+    "Obwod": 184,
+    "Total": 720,
+    "Kandydatka": 38,
+    "Procent": 5.28,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280868"
+  },
+  {
+    "Obwod": 185,
+    "Total": 658,
+    "Kandydatka": 35,
+    "Procent": 5.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280869"
+  },
+  {
+    "Obwod": 186,
+    "Total": 707,
+    "Kandydatka": 42,
+    "Procent": 5.94,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280870"
+  },
+  {
+    "Obwod": 187,
+    "Total": 972,
+    "Kandydatka": 76,
+    "Procent": 7.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280871"
+  },
+  {
+    "Obwod": 188,
+    "Total": 702,
+    "Kandydatka": 19,
+    "Procent": 2.71,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280872"
+  },
+  {
+    "Obwod": 189,
+    "Total": 321,
+    "Kandydatka": 15,
+    "Procent": 4.67,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280873"
+  },
+  {
+    "Obwod": 190,
+    "Total": 890,
+    "Kandydatka": 49,
+    "Procent": 5.51,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280874"
+  },
+  {
+    "Obwod": 191,
+    "Total": 835,
+    "Kandydatka": 52,
+    "Procent": 6.23,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280875"
+  },
+  {
+    "Obwod": 192,
+    "Total": 840,
+    "Kandydatka": 57,
+    "Procent": 6.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280876"
+  },
+  {
+    "Obwod": 193,
+    "Total": 693,
+    "Kandydatka": 19,
+    "Procent": 2.74,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280877"
+  },
+  {
+    "Obwod": 194,
+    "Total": 902,
+    "Kandydatka": 33,
+    "Procent": 3.66,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280878"
+  },
+  {
+    "Obwod": 195,
+    "Total": 676,
+    "Kandydatka": 46,
+    "Procent": 6.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280879"
+  },
+  {
+    "Obwod": 196,
+    "Total": 982,
+    "Kandydatka": 52,
+    "Procent": 5.3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280880"
+  },
+  {
+    "Obwod": 197,
+    "Total": 1199,
+    "Kandydatka": 71,
+    "Procent": 5.92,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280881"
+  },
+  {
+    "Obwod": 198,
+    "Total": 957,
+    "Kandydatka": 33,
+    "Procent": 3.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280882"
+  },
+  {
+    "Obwod": 199,
+    "Total": 567,
+    "Kandydatka": 19,
+    "Procent": 3.35,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280883"
+  },
+  {
+    "Obwod": 200,
+    "Total": 1012,
+    "Kandydatka": 33,
+    "Procent": 3.26,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280884"
+  },
+  {
+    "Obwod": 201,
+    "Total": 895,
+    "Kandydatka": 17,
+    "Procent": 1.9,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280885"
+  },
+  {
+    "Obwod": 202,
+    "Total": 1071,
+    "Kandydatka": 50,
+    "Procent": 4.67,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280886"
+  },
+  {
+    "Obwod": 203,
+    "Total": 633,
+    "Kandydatka": 22,
+    "Procent": 3.48,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280887"
+  },
+  {
+    "Obwod": 204,
+    "Total": 474,
+    "Kandydatka": 6,
+    "Procent": 1.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280888"
+  },
+  {
+    "Obwod": 205,
+    "Total": 212,
+    "Kandydatka": 3,
+    "Procent": 1.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280889"
+  },
+  {
+    "Obwod": 206,
+    "Total": 478,
+    "Kandydatka": 13,
+    "Procent": 2.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280890"
+  },
+  {
+    "Obwod": 207,
+    "Total": 356,
+    "Kandydatka": 12,
+    "Procent": 3.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280891"
+  },
+  {
+    "Obwod": 208,
+    "Total": 358,
+    "Kandydatka": 13,
+    "Procent": 3.63,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280892"
+  },
+  {
+    "Obwod": 209,
+    "Total": 859,
+    "Kandydatka": 22,
+    "Procent": 2.56,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280893"
+  },
+  {
+    "Obwod": 210,
+    "Total": 809,
+    "Kandydatka": 26,
+    "Procent": 3.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280894"
+  },
+  {
+    "Obwod": 211,
+    "Total": 1005,
+    "Kandydatka": 64,
+    "Procent": 6.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280895"
+  },
+  {
+    "Obwod": 212,
+    "Total": 606,
+    "Kandydatka": 18,
+    "Procent": 2.97,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280896"
+  },
+  {
+    "Obwod": 213,
+    "Total": 727,
+    "Kandydatka": 24,
+    "Procent": 3.3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280897"
+  },
+  {
+    "Obwod": 214,
+    "Total": 731,
+    "Kandydatka": 28,
+    "Procent": 3.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280898"
+  },
+  {
+    "Obwod": 215,
+    "Total": 720,
+    "Kandydatka": 39,
+    "Procent": 5.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280899"
+  },
+  {
+    "Obwod": 216,
+    "Total": 884,
+    "Kandydatka": 33,
+    "Procent": 3.73,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280900"
+  },
+  {
+    "Obwod": 217,
+    "Total": 780,
+    "Kandydatka": 34,
+    "Procent": 4.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280901"
+  },
+  {
+    "Obwod": 218,
+    "Total": 766,
+    "Kandydatka": 54,
+    "Procent": 7.05,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280902"
+  },
+  {
+    "Obwod": 219,
+    "Total": 761,
+    "Kandydatka": 57,
+    "Procent": 7.49,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280903"
+  },
+  {
+    "Obwod": 220,
+    "Total": 786,
+    "Kandydatka": 25,
+    "Procent": 3.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280904"
+  },
+  {
+    "Obwod": 221,
+    "Total": 979,
+    "Kandydatka": 66,
+    "Procent": 6.74,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280905"
+  },
+  {
+    "Obwod": 222,
+    "Total": 887,
+    "Kandydatka": 33,
+    "Procent": 3.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280906"
+  },
+  {
+    "Obwod": 223,
+    "Total": 784,
+    "Kandydatka": 26,
+    "Procent": 3.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280907"
+  },
+  {
+    "Obwod": 224,
+    "Total": 790,
+    "Kandydatka": 51,
+    "Procent": 6.46,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280908"
+  },
+  {
+    "Obwod": 225,
+    "Total": 661,
+    "Kandydatka": 41,
+    "Procent": 6.2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280909"
+  },
+  {
+    "Obwod": 226,
+    "Total": 525,
+    "Kandydatka": 41,
+    "Procent": 7.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280910"
+  },
+  {
+    "Obwod": 227,
+    "Total": 736,
+    "Kandydatka": 21,
+    "Procent": 2.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280911"
+  },
+  {
+    "Obwod": 228,
+    "Total": 922,
+    "Kandydatka": 69,
+    "Procent": 7.48,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280912"
+  },
+  {
+    "Obwod": 229,
+    "Total": 490,
+    "Kandydatka": 30,
+    "Procent": 6.12,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280913"
+  },
+  {
+    "Obwod": 230,
+    "Total": 820,
+    "Kandydatka": 35,
+    "Procent": 4.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280914"
+  },
+  {
+    "Obwod": 231,
+    "Total": 751,
+    "Kandydatka": 55,
+    "Procent": 7.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280915"
+  },
+  {
+    "Obwod": 232,
+    "Total": 673,
+    "Kandydatka": 48,
+    "Procent": 7.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280916"
+  },
+  {
+    "Obwod": 233,
+    "Total": 826,
+    "Kandydatka": 39,
+    "Procent": 4.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280917"
+  },
+  {
+    "Obwod": 234,
+    "Total": 902,
+    "Kandydatka": 23,
+    "Procent": 2.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280918"
+  },
+  {
+    "Obwod": 235,
+    "Total": 861,
+    "Kandydatka": 29,
+    "Procent": 3.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280919"
+  },
+  {
+    "Obwod": 236,
+    "Total": 1078,
+    "Kandydatka": 61,
+    "Procent": 5.66,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280920"
+  },
+  {
+    "Obwod": 237,
+    "Total": 520,
+    "Kandydatka": 27,
+    "Procent": 5.19,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280921"
+  },
+  {
+    "Obwod": 238,
+    "Total": 665,
+    "Kandydatka": 45,
+    "Procent": 6.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280922"
+  },
+  {
+    "Obwod": 239,
+    "Total": 532,
+    "Kandydatka": 23,
+    "Procent": 4.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280923"
+  },
+  {
+    "Obwod": 240,
+    "Total": 572,
+    "Kandydatka": 36,
+    "Procent": 6.29,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280924"
+  },
+  {
+    "Obwod": 241,
+    "Total": 400,
+    "Kandydatka": 18,
+    "Procent": 4.5,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280925"
+  },
+  {
+    "Obwod": 242,
+    "Total": 736,
+    "Kandydatka": 49,
+    "Procent": 6.66,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280926"
+  },
+  {
+    "Obwod": 243,
+    "Total": 559,
+    "Kandydatka": 19,
+    "Procent": 3.4,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280927"
+  },
+  {
+    "Obwod": 244,
+    "Total": 867,
+    "Kandydatka": 37,
+    "Procent": 4.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280928"
+  },
+  {
+    "Obwod": 245,
+    "Total": 668,
+    "Kandydatka": 28,
+    "Procent": 4.19,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280929"
+  },
+  {
+    "Obwod": 246,
+    "Total": 677,
+    "Kandydatka": 29,
+    "Procent": 4.28,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280930"
+  },
+  {
+    "Obwod": 247,
+    "Total": 1037,
+    "Kandydatka": 56,
+    "Procent": 5.4,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280931"
+  },
+  {
+    "Obwod": 248,
+    "Total": 779,
+    "Kandydatka": 31,
+    "Procent": 3.98,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280932"
+  },
+  {
+    "Obwod": 249,
+    "Total": 764,
+    "Kandydatka": 29,
+    "Procent": 3.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280933"
+  },
+  {
+    "Obwod": 250,
+    "Total": 784,
+    "Kandydatka": 49,
+    "Procent": 6.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280934"
+  },
+  {
+    "Obwod": 251,
+    "Total": 559,
+    "Kandydatka": 30,
+    "Procent": 5.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280935"
+  },
+  {
+    "Obwod": 252,
+    "Total": 570,
+    "Kandydatka": 28,
+    "Procent": 4.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280936"
+  },
+  {
+    "Obwod": 253,
+    "Total": 648,
+    "Kandydatka": 20,
+    "Procent": 3.09,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280937"
+  },
+  {
+    "Obwod": 254,
+    "Total": 415,
+    "Kandydatka": 13,
+    "Procent": 3.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280938"
+  },
+  {
+    "Obwod": 255,
+    "Total": 513,
+    "Kandydatka": 30,
+    "Procent": 5.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280939"
+  },
+  {
+    "Obwod": 256,
+    "Total": 638,
+    "Kandydatka": 26,
+    "Procent": 4.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280940"
+  },
+  {
+    "Obwod": 257,
+    "Total": 604,
+    "Kandydatka": 19,
+    "Procent": 3.15,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280941"
+  },
+  {
+    "Obwod": 258,
+    "Total": 617,
+    "Kandydatka": 12,
+    "Procent": 1.94,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280942"
+  },
+  {
+    "Obwod": 259,
+    "Total": 805,
+    "Kandydatka": 21,
+    "Procent": 2.61,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280943"
+  },
+  {
+    "Obwod": 260,
+    "Total": 810,
+    "Kandydatka": 35,
+    "Procent": 4.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280944"
+  },
+  {
+    "Obwod": 261,
+    "Total": 755,
+    "Kandydatka": 24,
+    "Procent": 3.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280945"
+  },
+  {
+    "Obwod": 262,
+    "Total": 834,
+    "Kandydatka": 23,
+    "Procent": 2.76,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280946"
+  },
+  {
+    "Obwod": 263,
+    "Total": 916,
+    "Kandydatka": 38,
+    "Procent": 4.15,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280947"
+  },
+  {
+    "Obwod": 264,
+    "Total": 947,
+    "Kandydatka": 40,
+    "Procent": 4.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280948"
+  },
+  {
+    "Obwod": 265,
+    "Total": 728,
+    "Kandydatka": 22,
+    "Procent": 3.02,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280949"
+  },
+  {
+    "Obwod": 266,
+    "Total": 754,
+    "Kandydatka": 26,
+    "Procent": 3.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280950"
+  },
+  {
+    "Obwod": 267,
+    "Total": 845,
+    "Kandydatka": 17,
+    "Procent": 2.01,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280951"
+  },
+  {
+    "Obwod": 268,
+    "Total": 809,
+    "Kandydatka": 27,
+    "Procent": 3.34,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280952"
+  },
+  {
+    "Obwod": 269,
+    "Total": 748,
+    "Kandydatka": 39,
+    "Procent": 5.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280953"
+  },
+  {
+    "Obwod": 270,
+    "Total": 756,
+    "Kandydatka": 47,
+    "Procent": 6.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280954"
+  },
+  {
+    "Obwod": 271,
+    "Total": 497,
+    "Kandydatka": 14,
+    "Procent": 2.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280955"
+  },
+  {
+    "Obwod": 272,
+    "Total": 460,
+    "Kandydatka": 10,
+    "Procent": 2.17,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280956"
+  },
+  {
+    "Obwod": 273,
+    "Total": 884,
+    "Kandydatka": 65,
+    "Procent": 7.35,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280957"
+  },
+  {
+    "Obwod": 274,
+    "Total": 749,
+    "Kandydatka": 53,
+    "Procent": 7.08,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280958"
+  },
+  {
+    "Obwod": 275,
+    "Total": 953,
+    "Kandydatka": 100,
+    "Procent": 10.49,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280959"
+  },
+  {
+    "Obwod": 276,
+    "Total": 891,
+    "Kandydatka": 52,
+    "Procent": 5.84,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280960"
+  },
+  {
+    "Obwod": 277,
+    "Total": 1145,
+    "Kandydatka": 62,
+    "Procent": 5.41,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280961"
+  },
+  {
+    "Obwod": 278,
+    "Total": 923,
+    "Kandydatka": 78,
+    "Procent": 8.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280962"
+  },
+  {
+    "Obwod": 279,
+    "Total": 913,
+    "Kandydatka": 83,
+    "Procent": 9.09,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280963"
+  },
+  {
+    "Obwod": 280,
+    "Total": 894,
+    "Kandydatka": 80,
+    "Procent": 8.95,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280964"
+  },
+  {
+    "Obwod": 281,
+    "Total": 744,
+    "Kandydatka": 58,
+    "Procent": 7.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280965"
+  },
+  {
+    "Obwod": 282,
+    "Total": 1184,
+    "Kandydatka": 85,
+    "Procent": 7.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280966"
+  },
+  {
+    "Obwod": 283,
+    "Total": 827,
+    "Kandydatka": 115,
+    "Procent": 13.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280967"
+  },
+  {
+    "Obwod": 284,
+    "Total": 1162,
+    "Kandydatka": 158,
+    "Procent": 13.6,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280968"
+  },
+  {
+    "Obwod": 285,
+    "Total": 521,
+    "Kandydatka": 54,
+    "Procent": 10.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280969"
+  },
+  {
+    "Obwod": 286,
+    "Total": 846,
+    "Kandydatka": 112,
+    "Procent": 13.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280970"
+  },
+  {
+    "Obwod": 287,
+    "Total": 443,
+    "Kandydatka": 50,
+    "Procent": 11.29,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280971"
+  },
+  {
+    "Obwod": 288,
+    "Total": 528,
+    "Kandydatka": 67,
+    "Procent": 12.69,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280972"
+  },
+  {
+    "Obwod": 289,
+    "Total": 633,
+    "Kandydatka": 73,
+    "Procent": 11.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280973"
+  },
+  {
+    "Obwod": 290,
+    "Total": 701,
+    "Kandydatka": 114,
+    "Procent": 16.26,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280974"
+  },
+  {
+    "Obwod": 291,
+    "Total": 609,
+    "Kandydatka": 83,
+    "Procent": 13.63,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280975"
+  },
+  {
+    "Obwod": 292,
+    "Total": 1107,
+    "Kandydatka": 164,
+    "Procent": 14.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280976"
+  },
+  {
+    "Obwod": 293,
+    "Total": 459,
+    "Kandydatka": 21,
+    "Procent": 4.58,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280977"
+  },
+  {
+    "Obwod": 294,
+    "Total": 1017,
+    "Kandydatka": 82,
+    "Procent": 8.06,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280978"
+  },
+  {
+    "Obwod": 295,
+    "Total": 978,
+    "Kandydatka": 60,
+    "Procent": 6.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280979"
+  },
+  {
+    "Obwod": 296,
+    "Total": 1087,
+    "Kandydatka": 81,
+    "Procent": 7.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280980"
+  },
+  {
+    "Obwod": 297,
+    "Total": 919,
+    "Kandydatka": 66,
+    "Procent": 7.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280981"
+  },
+  {
+    "Obwod": 298,
+    "Total": 580,
+    "Kandydatka": 34,
+    "Procent": 5.86,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280982"
+  },
+  {
+    "Obwod": 299,
+    "Total": 636,
+    "Kandydatka": 59,
+    "Procent": 9.28,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280983"
+  },
+  {
+    "Obwod": 300,
+    "Total": 770,
+    "Kandydatka": 26,
+    "Procent": 3.38,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280984"
+  },
+  {
+    "Obwod": 301,
+    "Total": 1001,
+    "Kandydatka": 38,
+    "Procent": 3.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280985"
+  },
+  {
+    "Obwod": 302,
+    "Total": 917,
+    "Kandydatka": 27,
+    "Procent": 2.94,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280986"
+  },
+  {
+    "Obwod": 303,
+    "Total": 710,
+    "Kandydatka": 59,
+    "Procent": 8.31,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280987"
+  },
+  {
+    "Obwod": 304,
+    "Total": 698,
+    "Kandydatka": 19,
+    "Procent": 2.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280988"
+  },
+  {
+    "Obwod": 305,
+    "Total": 702,
+    "Kandydatka": 33,
+    "Procent": 4.7,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280989"
+  },
+  {
+    "Obwod": 306,
+    "Total": 542,
+    "Kandydatka": 20,
+    "Procent": 3.69,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280990"
+  },
+  {
+    "Obwod": 307,
+    "Total": 703,
+    "Kandydatka": 22,
+    "Procent": 3.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280991"
+  },
+  {
+    "Obwod": 308,
+    "Total": 702,
+    "Kandydatka": 39,
+    "Procent": 5.56,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280992"
+  },
+  {
+    "Obwod": 309,
+    "Total": 652,
+    "Kandydatka": 53,
+    "Procent": 8.13,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280993"
+  },
+  {
+    "Obwod": 310,
+    "Total": 916,
+    "Kandydatka": 30,
+    "Procent": 3.28,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280994"
+  },
+  {
+    "Obwod": 311,
+    "Total": 790,
+    "Kandydatka": 19,
+    "Procent": 2.41,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280995"
+  },
+  {
+    "Obwod": 312,
+    "Total": 865,
+    "Kandydatka": 40,
+    "Procent": 4.62,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280996"
+  },
+  {
+    "Obwod": 313,
+    "Total": 869,
+    "Kandydatka": 43,
+    "Procent": 4.95,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280997"
+  },
+  {
+    "Obwod": 314,
+    "Total": 724,
+    "Kandydatka": 25,
+    "Procent": 3.45,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280998"
+  },
+  {
+    "Obwod": 315,
+    "Total": 799,
+    "Kandydatka": 35,
+    "Procent": 4.38,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1280999"
+  },
+  {
+    "Obwod": 316,
+    "Total": 715,
+    "Kandydatka": 20,
+    "Procent": 2.8,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281000"
+  },
+  {
+    "Obwod": 317,
+    "Total": 776,
+    "Kandydatka": 23,
+    "Procent": 2.96,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281001"
+  },
+  {
+    "Obwod": 318,
+    "Total": 812,
+    "Kandydatka": 23,
+    "Procent": 2.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281002"
+  },
+  {
+    "Obwod": 319,
+    "Total": 824,
+    "Kandydatka": 26,
+    "Procent": 3.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281003"
+  },
+  {
+    "Obwod": 320,
+    "Total": 605,
+    "Kandydatka": 20,
+    "Procent": 3.31,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281004"
+  },
+  {
+    "Obwod": 321,
+    "Total": 933,
+    "Kandydatka": 45,
+    "Procent": 4.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281005"
+  },
+  {
+    "Obwod": 322,
+    "Total": 758,
+    "Kandydatka": 19,
+    "Procent": 2.51,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281006"
+  },
+  {
+    "Obwod": 323,
+    "Total": 683,
+    "Kandydatka": 25,
+    "Procent": 3.66,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281007"
+  },
+  {
+    "Obwod": 324,
+    "Total": 893,
+    "Kandydatka": 32,
+    "Procent": 3.58,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281008"
+  },
+  {
+    "Obwod": 325,
+    "Total": 602,
+    "Kandydatka": 18,
+    "Procent": 2.99,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281009"
+  },
+  {
+    "Obwod": 326,
+    "Total": 650,
+    "Kandydatka": 13,
+    "Procent": 2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281010"
+  },
+  {
+    "Obwod": 327,
+    "Total": 780,
+    "Kandydatka": 22,
+    "Procent": 2.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281011"
+  },
+  {
+    "Obwod": 328,
+    "Total": 550,
+    "Kandydatka": 11,
+    "Procent": 2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281012"
+  },
+  {
+    "Obwod": 329,
+    "Total": 735,
+    "Kandydatka": 20,
+    "Procent": 2.72,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281013"
+  },
+  {
+    "Obwod": 330,
+    "Total": 597,
+    "Kandydatka": 16,
+    "Procent": 2.68,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281014"
+  },
+  {
+    "Obwod": 331,
+    "Total": 650,
+    "Kandydatka": 23,
+    "Procent": 3.54,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281015"
+  },
+  {
+    "Obwod": 332,
+    "Total": 761,
+    "Kandydatka": 19,
+    "Procent": 2.5,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281016"
+  },
+  {
+    "Obwod": 333,
+    "Total": 807,
+    "Kandydatka": 32,
+    "Procent": 3.97,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281017"
+  },
+  {
+    "Obwod": 334,
+    "Total": 863,
+    "Kandydatka": 53,
+    "Procent": 6.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281018"
+  },
+  {
+    "Obwod": 335,
+    "Total": 803,
+    "Kandydatka": 31,
+    "Procent": 3.86,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281019"
+  },
+  {
+    "Obwod": 336,
+    "Total": 628,
+    "Kandydatka": 42,
+    "Procent": 6.69,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281020"
+  },
+  {
+    "Obwod": 337,
+    "Total": 444,
+    "Kandydatka": 15,
+    "Procent": 3.38,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281021"
+  },
+  {
+    "Obwod": 338,
+    "Total": 582,
+    "Kandydatka": 18,
+    "Procent": 3.09,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281022"
+  },
+  {
+    "Obwod": 339,
+    "Total": 541,
+    "Kandydatka": 32,
+    "Procent": 5.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281023"
+  },
+  {
+    "Obwod": 340,
+    "Total": 654,
+    "Kandydatka": 24,
+    "Procent": 3.67,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281024"
+  },
+  {
+    "Obwod": 341,
+    "Total": 408,
+    "Kandydatka": 18,
+    "Procent": 4.41,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281025"
+  },
+  {
+    "Obwod": 342,
+    "Total": 825,
+    "Kandydatka": 32,
+    "Procent": 3.88,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281026"
+  },
+  {
+    "Obwod": 343,
+    "Total": 686,
+    "Kandydatka": 16,
+    "Procent": 2.33,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281027"
+  },
+  {
+    "Obwod": 344,
+    "Total": 493,
+    "Kandydatka": 18,
+    "Procent": 3.65,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281028"
+  },
+  {
+    "Obwod": 345,
+    "Total": 588,
+    "Kandydatka": 25,
+    "Procent": 4.25,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281029"
+  },
+  {
+    "Obwod": 346,
+    "Total": 632,
+    "Kandydatka": 14,
+    "Procent": 2.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281030"
+  },
+  {
+    "Obwod": 347,
+    "Total": 542,
+    "Kandydatka": 21,
+    "Procent": 3.87,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281031"
+  },
+  {
+    "Obwod": 348,
+    "Total": 498,
+    "Kandydatka": 22,
+    "Procent": 4.42,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281032"
+  },
+  {
+    "Obwod": 349,
+    "Total": 975,
+    "Kandydatka": 27,
+    "Procent": 2.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281033"
+  },
+  {
+    "Obwod": 350,
+    "Total": 447,
+    "Kandydatka": 12,
+    "Procent": 2.68,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281034"
+  },
+  {
+    "Obwod": 351,
+    "Total": 486,
+    "Kandydatka": 9,
+    "Procent": 1.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281035"
+  },
+  {
+    "Obwod": 352,
+    "Total": 617,
+    "Kandydatka": 36,
+    "Procent": 5.83,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281036"
+  },
+  {
+    "Obwod": 353,
+    "Total": 447,
+    "Kandydatka": 13,
+    "Procent": 2.91,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281037"
+  },
+  {
+    "Obwod": 354,
+    "Total": 633,
+    "Kandydatka": 24,
+    "Procent": 3.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281038"
+  },
+  {
+    "Obwod": 355,
+    "Total": 644,
+    "Kandydatka": 8,
+    "Procent": 1.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281039"
+  },
+  {
+    "Obwod": 356,
+    "Total": 453,
+    "Kandydatka": 22,
+    "Procent": 4.86,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281040"
+  },
+  {
+    "Obwod": 357,
+    "Total": 442,
+    "Kandydatka": 6,
+    "Procent": 1.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281041"
+  },
+  {
+    "Obwod": 358,
+    "Total": 603,
+    "Kandydatka": 23,
+    "Procent": 3.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281042"
+  },
+  {
+    "Obwod": 359,
+    "Total": 542,
+    "Kandydatka": 20,
+    "Procent": 3.69,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281043"
+  },
+  {
+    "Obwod": 360,
+    "Total": 724,
+    "Kandydatka": 20,
+    "Procent": 2.76,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281044"
+  },
+  {
+    "Obwod": 361,
+    "Total": 546,
+    "Kandydatka": 24,
+    "Procent": 4.4,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281045"
+  },
+  {
+    "Obwod": 362,
+    "Total": 601,
+    "Kandydatka": 18,
+    "Procent": 3,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281046"
+  },
+  {
+    "Obwod": 363,
+    "Total": 548,
+    "Kandydatka": 12,
+    "Procent": 2.19,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281047"
+  },
+  {
+    "Obwod": 364,
+    "Total": 538,
+    "Kandydatka": 15,
+    "Procent": 2.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281048"
+  },
+  {
+    "Obwod": 365,
+    "Total": 778,
+    "Kandydatka": 25,
+    "Procent": 3.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281049"
+  },
+  {
+    "Obwod": 366,
+    "Total": 258,
+    "Kandydatka": 6,
+    "Procent": 2.33,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281050"
+  },
+  {
+    "Obwod": 367,
+    "Total": 839,
+    "Kandydatka": 24,
+    "Procent": 2.86,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281051"
+  },
+  {
+    "Obwod": 368,
+    "Total": 955,
+    "Kandydatka": 15,
+    "Procent": 1.57,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281052"
+  },
+  {
+    "Obwod": 369,
+    "Total": 323,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281053"
+  },
+  {
+    "Obwod": 370,
+    "Total": 380,
+    "Kandydatka": 8,
+    "Procent": 2.11,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281054"
+  },
+  {
+    "Obwod": 371,
+    "Total": 528,
+    "Kandydatka": 32,
+    "Procent": 6.06,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281055"
+  },
+  {
+    "Obwod": 372,
+    "Total": 380,
+    "Kandydatka": 25,
+    "Procent": 6.58,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281056"
+  },
+  {
+    "Obwod": 373,
+    "Total": 302,
+    "Kandydatka": 10,
+    "Procent": 3.31,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281057"
+  },
+  {
+    "Obwod": 374,
+    "Total": 723,
+    "Kandydatka": 49,
+    "Procent": 6.78,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281058"
+  },
+  {
+    "Obwod": 375,
+    "Total": 531,
+    "Kandydatka": 22,
+    "Procent": 4.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281059"
+  },
+  {
+    "Obwod": 376,
+    "Total": 619,
+    "Kandydatka": 38,
+    "Procent": 6.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281060"
+  },
+  {
+    "Obwod": 377,
+    "Total": 361,
+    "Kandydatka": 22,
+    "Procent": 6.09,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281061"
+  },
+  {
+    "Obwod": 378,
+    "Total": 451,
+    "Kandydatka": 14,
+    "Procent": 3.1,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281062"
+  },
+  {
+    "Obwod": 379,
+    "Total": 394,
+    "Kandydatka": 15,
+    "Procent": 3.81,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281063"
+  },
+  {
+    "Obwod": 380,
+    "Total": 475,
+    "Kandydatka": 12,
+    "Procent": 2.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281064"
+  },
+  {
+    "Obwod": 381,
+    "Total": 515,
+    "Kandydatka": 37,
+    "Procent": 7.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281065"
+  },
+  {
+    "Obwod": 382,
+    "Total": 330,
+    "Kandydatka": 15,
+    "Procent": 4.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281066"
+  },
+  {
+    "Obwod": 383,
+    "Total": 461,
+    "Kandydatka": 17,
+    "Procent": 3.69,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281067"
+  },
+  {
+    "Obwod": 384,
+    "Total": 451,
+    "Kandydatka": 20,
+    "Procent": 4.43,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281068"
+  },
+  {
+    "Obwod": 385,
+    "Total": 680,
+    "Kandydatka": 25,
+    "Procent": 3.68,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281069"
+  },
+  {
+    "Obwod": 386,
+    "Total": 561,
+    "Kandydatka": 31,
+    "Procent": 5.53,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281070"
+  },
+  {
+    "Obwod": 387,
+    "Total": 405,
+    "Kandydatka": 29,
+    "Procent": 7.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281071"
+  },
+  {
+    "Obwod": 388,
+    "Total": 499,
+    "Kandydatka": 31,
+    "Procent": 6.21,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281072"
+  },
+  {
+    "Obwod": 389,
+    "Total": 452,
+    "Kandydatka": 22,
+    "Procent": 4.87,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281073"
+  },
+  {
+    "Obwod": 390,
+    "Total": 470,
+    "Kandydatka": 37,
+    "Procent": 7.87,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281074"
+  },
+  {
+    "Obwod": 391,
+    "Total": 711,
+    "Kandydatka": 34,
+    "Procent": 4.78,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281075"
+  },
+  {
+    "Obwod": 392,
+    "Total": 494,
+    "Kandydatka": 19,
+    "Procent": 3.85,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281076"
+  },
+  {
+    "Obwod": 393,
+    "Total": 608,
+    "Kandydatka": 24,
+    "Procent": 3.95,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281077"
+  },
+  {
+    "Obwod": 394,
+    "Total": 535,
+    "Kandydatka": 28,
+    "Procent": 5.23,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281078"
+  },
+  {
+    "Obwod": 395,
+    "Total": 466,
+    "Kandydatka": 24,
+    "Procent": 5.15,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281079"
+  },
+  {
+    "Obwod": 396,
+    "Total": 559,
+    "Kandydatka": 30,
+    "Procent": 5.37,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281080"
+  },
+  {
+    "Obwod": 397,
+    "Total": 410,
+    "Kandydatka": 20,
+    "Procent": 4.88,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281081"
+  },
+  {
+    "Obwod": 398,
+    "Total": 377,
+    "Kandydatka": 21,
+    "Procent": 5.57,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281082"
+  },
+  {
+    "Obwod": 399,
+    "Total": 646,
+    "Kandydatka": 52,
+    "Procent": 8.05,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281083"
+  },
+  {
+    "Obwod": 400,
+    "Total": 776,
+    "Kandydatka": 25,
+    "Procent": 3.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281084"
+  },
+  {
+    "Obwod": 401,
+    "Total": 114,
+    "Kandydatka": 1,
+    "Procent": 0.88,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281085"
+  },
+  {
+    "Obwod": 402,
+    "Total": 338,
+    "Kandydatka": 2,
+    "Procent": 0.59,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281086"
+  },
+  {
+    "Obwod": 403,
+    "Total": 507,
+    "Kandydatka": 6,
+    "Procent": 1.18,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281087"
+  },
+  {
+    "Obwod": 404,
+    "Total": 545,
+    "Kandydatka": 3,
+    "Procent": 0.55,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281088"
+  },
+  {
+    "Obwod": 405,
+    "Total": 435,
+    "Kandydatka": 4,
+    "Procent": 0.92,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281089"
+  },
+  {
+    "Obwod": 406,
+    "Total": 786,
+    "Kandydatka": 50,
+    "Procent": 6.36,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281090"
+  },
+  {
+    "Obwod": 407,
+    "Total": 878,
+    "Kandydatka": 77,
+    "Procent": 8.77,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281091"
+  },
+  {
+    "Obwod": 408,
+    "Total": 808,
+    "Kandydatka": 30,
+    "Procent": 3.71,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281092"
+  },
+  {
+    "Obwod": 409,
+    "Total": 796,
+    "Kandydatka": 57,
+    "Procent": 7.16,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281093"
+  },
+  {
+    "Obwod": 410,
+    "Total": 788,
+    "Kandydatka": 76,
+    "Procent": 9.64,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281094"
+  },
+  {
+    "Obwod": 411,
+    "Total": 241,
+    "Kandydatka": 3,
+    "Procent": 1.24,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1281095"
+  },
+  {
+    "Obwod": 412,
+    "Total": 18,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300136"
+  },
+  {
+    "Obwod": 413,
+    "Total": 56,
+    "Kandydatka": 1,
+    "Procent": 1.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300137"
+  },
+  {
+    "Obwod": 414,
+    "Total": 32,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300138"
+  },
+  {
+    "Obwod": 415,
+    "Total": 55,
+    "Kandydatka": 1,
+    "Procent": 1.82,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300139"
+  },
+  {
+    "Obwod": 416,
+    "Total": 6,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300140"
+  },
+  {
+    "Obwod": 417,
+    "Total": 77,
+    "Kandydatka": 2,
+    "Procent": 2.6,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300141"
+  },
+  {
+    "Obwod": 418,
+    "Total": 180,
+    "Kandydatka": 5,
+    "Procent": 2.78,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300142"
+  },
+  {
+    "Obwod": 419,
+    "Total": 12,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300143"
+  },
+  {
+    "Obwod": 420,
+    "Total": 40,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300144"
+  },
+  {
+    "Obwod": 421,
+    "Total": 37,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300145"
+  },
+  {
+    "Obwod": 422,
+    "Total": 6,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300146"
+  },
+  {
+    "Obwod": 423,
+    "Total": 11,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300147"
+  },
+  {
+    "Obwod": 424,
+    "Total": 142,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300148"
+  },
+  {
+    "Obwod": 425,
+    "Total": 45,
+    "Kandydatka": 1,
+    "Procent": 2.22,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300149"
+  },
+  {
+    "Obwod": 426,
+    "Total": 22,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300150"
+  },
+  {
+    "Obwod": 427,
+    "Total": 6,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300151"
+  },
+  {
+    "Obwod": 428,
+    "Total": 82,
+    "Kandydatka": 5,
+    "Procent": 6.1,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300152"
+  },
+  {
+    "Obwod": 429,
+    "Total": 30,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300153"
+  },
+  {
+    "Obwod": 430,
+    "Total": 44,
+    "Kandydatka": 1,
+    "Procent": 2.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300154"
+  },
+  {
+    "Obwod": 431,
+    "Total": 56,
+    "Kandydatka": 1,
+    "Procent": 1.79,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300155"
+  },
+  {
+    "Obwod": 432,
+    "Total": 14,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300156"
+  },
+  {
+    "Obwod": 433,
+    "Total": 46,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300157"
+  },
+  {
+    "Obwod": 434,
+    "Total": 24,
+    "Kandydatka": 1,
+    "Procent": 4.17,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300158"
+  },
+  {
+    "Obwod": 435,
+    "Total": 17,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300159"
+  },
+  {
+    "Obwod": 436,
+    "Total": 146,
+    "Kandydatka": 13,
+    "Procent": 8.9,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300160"
+  },
+  {
+    "Obwod": 437,
+    "Total": 12,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300161"
+  },
+  {
+    "Obwod": 438,
+    "Total": 79,
+    "Kandydatka": 1,
+    "Procent": 1.27,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300162"
+  },
+  {
+    "Obwod": 439,
+    "Total": 72,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300163"
+  },
+  {
+    "Obwod": 440,
+    "Total": 95,
+    "Kandydatka": 2,
+    "Procent": 2.11,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300164"
+  },
+  {
+    "Obwod": 441,
+    "Total": 89,
+    "Kandydatka": 1,
+    "Procent": 1.12,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300165"
+  },
+  {
+    "Obwod": 442,
+    "Total": 18,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300166"
+  },
+  {
+    "Obwod": 443,
+    "Total": 23,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300167"
+  },
+  {
+    "Obwod": 444,
+    "Total": 75,
+    "Kandydatka": 1,
+    "Procent": 1.33,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300168"
+  },
+  {
+    "Obwod": 445,
+    "Total": 41,
+    "Kandydatka": 3,
+    "Procent": 7.32,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300169"
+  },
+  {
+    "Obwod": 446,
+    "Total": 84,
+    "Kandydatka": 2,
+    "Procent": 2.38,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300170"
+  },
+  {
+    "Obwod": 447,
+    "Total": 85,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300171"
+  },
+  {
+    "Obwod": 448,
+    "Total": 8,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300172"
+  },
+  {
+    "Obwod": 449,
+    "Total": 165,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300173"
+  },
+  {
+    "Obwod": 450,
+    "Total": 10,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300174"
+  },
+  {
+    "Obwod": 451,
+    "Total": 18,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300175"
+  },
+  {
+    "Obwod": 452,
+    "Total": 28,
+    "Kandydatka": 2,
+    "Procent": 7.14,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300176"
+  },
+  {
+    "Obwod": 453,
+    "Total": 60,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300177"
+  },
+  {
+    "Obwod": 454,
+    "Total": 16,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1300178"
+  },
+  {
+    "Obwod": 455,
+    "Total": 164,
+    "Kandydatka": 61,
+    "Procent": 37.2,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1343467"
+  },
+  {
+    "Obwod": 456,
+    "Total": 454,
+    "Kandydatka": 78,
+    "Procent": 17.1,
+    "url": "https://pe2024.pkw.gov.pl/pe2024/pl/obkw/1343468"
+  }
 ]

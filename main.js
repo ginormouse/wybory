@@ -226,6 +226,7 @@ ${data.Procent.toFixed(2)}%
 ${data.Kandydatka}
 <h4>Wszystkie głosy ważne</h4>
 ${data.Total}
+<h4><a href="${data.url}" target=_blank>PKW</a></h4>
 `;
   layer.bindPopup(content);
 }

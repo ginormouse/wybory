@@ -1,0 +1,92 @@
+{
+    "Dzielnica I": {
+        "Kandydatka": 213,
+        "Total": 12232,
+        "Procent": 1.74
+    },
+    "Dzielnica II": {
+        "Kandydatka": 235,
+        "Total": 13193,
+        "Procent": 1.78
+    },
+    "Dzielnica III": {
+        "Kandydatka": 231,
+        "Total": 19334,
+        "Procent": 1.19
+    },
+    "Dzielnica IV": {
+        "Kandydatka": 380,
+        "Total": 30372,
+        "Procent": 1.25
+    },
+    "Dzielnica V": {
+        "Kandydatka": 276,
+        "Total": 13912,
+        "Procent": 1.98
+    },
+    "Dzielnica VI": {
+        "Kandydatka": 164,
+        "Total": 10873,
+        "Procent": 1.51
+    },
+    "Dzielnica VII": {
+        "Kandydatka": 133,
+        "Total": 9691,
+        "Procent": 1.37
+    },
+    "Dzielnica VIII": {
+        "Kandydatka": 377,
+        "Total": 25935,
+        "Procent": 1.45
+    },
+    "Dzielnica IX": {
+        "Kandydatka": 79,
+        "Total": 6675,
+        "Procent": 1.18
+    },
+    "Dzielnica X": {
+        "Kandydatka": 109,
+        "Total": 11938,
+        "Procent": 0.91
+    },
+    "Dzielnica XI": {
+        "Kandydatka": 224,
+        "Total": 22362,
+        "Procent": 1
+    },
+    "Dzielnica XII": {
+        "Kandydatka": 201,
+        "Total": 24144,
+        "Procent": 0.83
+    },
+    "Dzielnica XIII": {
+        "Kandydatka": 324,
+        "Total": 16812,
+        "Procent": 1.93
+    },
+    "Dzielnica XIV": {
+        "Kandydatka": 155,
+        "Total": 13095,
+        "Procent": 1.18
+    },
+    "Dzielnica XV": {
+        "Kandydatka": 147,
+        "Total": 20368,
+        "Procent": 0.72
+    },
+    "Dzielnica XVI": {
+        "Kandydatka": 108,
+        "Total": 13533,
+        "Procent": 0.8
+    },
+    "Dzielnica XVII": {
+        "Kandydatka": 42,
+        "Total": 6924,
+        "Procent": 0.61
+    },
+    "Dzielnica XVIII": {
+        "Kandydatka": 190,
+        "Total": 17739,
+        "Procent": 1.07
+    }
+}

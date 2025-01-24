@@ -45,15 +45,19 @@ const layers = {
     },
   }).addTo(map),
   KolarskaDistricts: L.geoJSON(),
-  KolarskaCircuits: L.geoJSON().addTo(map),
+  KolarskaCircuits: L.geoJSON(),
+  SladekDistricts: L.geoJSON(),
+  SladekCircuits: L.geoJSON().addTo(map),
 };
 var layerControl = L.control
   .layers(
     {
       "Dzielnice ": layers.districts,
       "Obwody ": layers.circuits,
-      "Kolarska 2024 Dzielnice": layers.KolarskaDistricts,
-      "Kolarska 2024 Obwody": layers.KolarskaCircuits,
+      "Kolarska 2024 (PE) Dzielnice": layers.KolarskaDistricts,
+      "Kolarska 2024 (PE) Obwody": layers.KolarskaCircuits,
+      "Sładek 2024 (Sejmik) Dzielnice": layers.SladekDistricts,
+      "Sładek 2024 (Sejmik) Obwody": layers.SladekCircuits,
     },
     {
       "Okręg 33": layers.constituency33,
@@ -81,12 +85,16 @@ async function loadAll() {
     constituency33,
     KolarskaDistricts,
     KolarskaCircuits,
+    SladekDistricts,
+    SladekCircuits,
   ] = await Promise.all([
     loadJson("geo/dzielnice.geojson"),
     loadJson("geo/obwody.geojson"),
     loadJson("geo/okreg33.geojson"),
     loadJson("data/Kolarska2024Dzielnice.json"),
     loadJson("data/Kolarska2024Obwody.json"),
+    loadJson("data/Sladek2024Dzielnice.json"),
+    loadJson("data/Sladek2024Obwody.json"),
   ]);
   layers.districts.addData(districts);
   layers.circuits.addData(circuits);
@@ -95,7 +103,6 @@ async function loadAll() {
   layers.KolarskaDistricts.options.style = (f) => {
     const data = KolarskaDistricts[f.properties.official_name];
     const ind = KolarskaDistrictsRanges.findIndex((x) => x > data.Procent);
-    console.log(f.properties.official_name, ind);
     return {
       weight: 1,
       color: "#333",
@@ -130,6 +137,48 @@ async function loadAll() {
   };
   layers.KolarskaCircuits.addData(circuits);
 
+  const SladekDistrictsRanges = [1, 2, 3, 4, 5, 6, 7, 8].map(
+    (i) => (i * 2) / 8
+  );
+  layers.SladekDistricts.options.style = (f) => {
+    const data = SladekDistricts[f.properties.official_name];
+    const ind = SladekDistrictsRanges.findIndex((x) => x > data.Procent);
+    return {
+      weight: 1,
+      color: "#333",
+      fillOpacity: 0.65,
+      fillColor: colorPalette[ind],
+    };
+  };
+  layers.SladekDistricts.options.onEachFeature = (f, l) => {
+    return districtResultPopup(
+      f.properties,
+      SladekDistricts[f.properties.official_name],
+      l
+    );
+  };
+  layers.SladekDistricts.addData(districts);
+
+  const SladekCircuitsRanges = [1, 2, 3, 4, 5, 6, 7, 100].map(
+    (i) => (i * 3) / 8
+  );
+  const getSladekCircuit = (feature) =>
+    SladekCircuits.find((c) => c.Obwod === feature.properties.Obwod);
+  layers.SladekCircuits.options.style = (f) => {
+    const data = getSladekCircuit(f);
+    const ind = SladekCircuitsRanges.findIndex((x) => x > data.Procent);
+    return {
+      weight: 1,
+      color: "#333",
+      fillOpacity: 0.65,
+      fillColor: colorPalette[ind],
+    };
+  };
+  layers.SladekCircuits.options.onEachFeature = (f, l) => {
+    return circuitResultPopup(f.properties, getSladekCircuit(f), l);
+  };
+  layers.SladekCircuits.addData(circuits);
+
   layers.constituency33.addData(constituency33);
 }
 
@@ -160,7 +209,7 @@ function districtResultPopup(p, data, layer) {
   <h4>Procent</h4>
   ${data.Procent.toFixed(2)}%
   <h4>Głosy na kandydatkę</h4>
-  ${data.Kolarska}
+  ${data.Kandydatka}
   <h4>Wszystkie głosy ważne</h4>
   ${data.Total}
   `;
@@ -174,7 +223,7 @@ function circuitResultPopup(p, data, layer) {
 <h4>Procent</h4>
 ${data.Procent.toFixed(2)}%
 <h4>Głosy na kandydatkę</h4>
-${data.Kolarska}
+${data.Kandydatka}
 <h4>Wszystkie głosy ważne</h4>
 ${data.Total}
 `;

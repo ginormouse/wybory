@@ -49,24 +49,11 @@ const layers = {
     },
     pane: "constituency33",
   }).addTo(map),
-  KolarskaDistricts: L.geoJSON(),
-  KolarskaCircuits: L.geoJSON(),
-  SladekDistricts: L.geoJSON(),
-  SladekCircuits: L.geoJSON().addTo(map),
 };
 var layerControl = L.control
   .layers(
-    {
-      "Dzielnice ": layers.districts,
-      "Obwody ": layers.circuits,
-      "Kolarska 2024 (PE) Dzielnice": layers.KolarskaDistricts,
-      "Kolarska 2024 (PE) Obwody": layers.KolarskaCircuits,
-      "Sładek 2024 (Sejmik) Dzielnice": layers.SladekDistricts,
-      "Sładek 2024 (Sejmik) Obwody": layers.SladekCircuits,
-    },
-    {
-      "Okręg 33": layers.constituency33,
-    },
+    { "Dzielnice ": layers.districts, "Obwody ": layers.circuits },
+    { "Okręg 33": layers.constituency33 },
     { collapsed: false }
   )
   .addTo(map);
@@ -81,114 +68,176 @@ const colorPalette = [
   "rgb(226,94,88)",
   "rgb(202,0,32)",
 ];
+const districtPalette = colorPalette.slice(3);
+const stdDevRanges = [
+  "< -1.5 σ",
+  "-1.5 σ — -1.0 σ",
+  "-1.0 σ — -0.5 σ",
+  "-0.5 σ — 0.0 σ",
+  "0.0 σ — +0.5 σ",
+  "+0.5 σ — +1.0 σ",
+  "+1.0 σ — +1.5 σ",
+  "> +1.5 σ",
+];
 
 loadAll();
 async function loadAll() {
-  const [
-    districts,
-    circuits,
-    constituency33,
-    KolarskaDistricts,
-    KolarskaCircuits,
-    SladekDistricts,
-    SladekCircuits,
-  ] = await Promise.all([
-    loadJson("geo/dzielnice.geojson"),
-    loadJson("geo/obwody.geojson"),
-    loadJson("geo/okreg33.geojson"),
-    loadJson("data/Kolarska2024Dzielnice.json"),
-    loadJson("data/Kolarska2024Obwody.json"),
-    loadJson("data/Sladek2024Dzielnice.json"),
-    loadJson("data/Sladek2024Obwody.json"),
+  const [electionsLayers, districtMapping] = await Promise.all([
+    loadJson("data/wybory.json"),
+    loadJson("data/ObwodyDzielnice.json"),
   ]);
+  const electionsPromises = Object.entries(electionsLayers).map(
+    async ([electionName, fileName]) => {
+      const data = await loadJson("data/" + fileName);
+      return { electionName, data };
+    }
+  );
+  const [districts, circuits, constituency33, ...elections] = await Promise.all(
+    [
+      loadJson("geo/dzielnice.geojson"),
+      loadJson("geo/obwody.geojson"),
+      loadJson("geo/okreg33.geojson"),
+      ...electionsPromises,
+    ]
+  );
   layers.districts.addData(districts);
   layers.circuits.addData(circuits);
   layers.constituency33.addData(constituency33);
-
-  const KolarskaDistrictsRanges = [0, 0, 0, 3, 5, 7, 9, 11];
-  layers.KolarskaDistricts.options.style = (f) => {
-    const data = KolarskaDistricts[f.properties.official_name];
-    const ind = KolarskaDistrictsRanges.findIndex((x) => x > data.Procent);
-    return {
-      weight: 1,
-      color: "#333",
-      fillOpacity: 0.65,
-      fillColor: colorPalette[ind],
-    };
-  };
-  layers.KolarskaDistricts.options.onEachFeature = (f, l) => {
-    return districtResultPopup(
-      f.properties,
-      KolarskaDistricts[f.properties.official_name],
-      l
+  let last;
+  for (const { electionName, data } of elections) {
+    const filteredData = data.filter((d) =>
+      districtMapping.some((m) => m.Obwod == d.Obwod)
     );
-  };
-  layers.KolarskaDistricts.addData(districts);
+    const districtData = getDistrictData(filteredData, districtMapping);
+    addDistrictsLayer(electionName, districts, districtData);
+    last = addCircuitsLayer(electionName, circuits, filteredData);
+  }
+  last.addTo(map);
+}
 
-  const KolarskaCircuitsRanges = [3, 5, 7, 9, 11, 13, 15, 17];
-  const getKolarskaCircuit = (feature) =>
-    KolarskaCircuits.find((c) => c.Obwod === feature.properties.Obwod);
-  layers.KolarskaCircuits.options.style = (f) => {
-    const data = getKolarskaCircuit(f);
-    const ind = KolarskaCircuitsRanges.findIndex((x) => x > data.Procent);
-    return {
-      weight: 1,
-      color: "#333",
-      fillOpacity: 0.65,
-      fillColor: colorPalette[ind],
-    };
-  };
-  layers.KolarskaCircuits.options.onEachFeature = (f, l) => {
-    return circuitResultPopup(f.properties, getKolarskaCircuit(f), l);
-  };
-  layers.KolarskaCircuits.addData(circuits);
-
-  const SladekDistrictsRanges = [1, 2, 3, 4, 5, 6, 7, 8].map(
-    (i) => (i * 2) / 8
+function addCircuitsLayer(name, geo, data) {
+  const { mean, stdDev } = getStatistics(data);
+  const values = data.map((d) => d.Procent);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const boundaries = [min];
+  let boundary = mean - 2 * stdDev;
+  for (let i = 0; i < 7; i++) {
+    boundary += stdDev / 2;
+    boundaries.push(boundary);
+  }
+  boundaries.push(max);
+  const lBounds = boundaries.map((n) => n.toFixed(2));
+  const labels = stdDevRanges.map(
+    (text, i) => `${lBounds[i]}% — ${lBounds[i + 1]}% (${text})`
   );
-  layers.SladekDistricts.options.style = (f) => {
-    const data = SladekDistricts[f.properties.official_name];
-    const ind = SladekDistrictsRanges.findIndex((x) => x > data.Procent);
-    return {
-      weight: 1,
-      color: "#333",
-      fillOpacity: 0.65,
-      fillColor: colorPalette[ind],
-    };
-  };
-  layers.SladekDistricts.options.onEachFeature = (f, l) => {
-    return districtResultPopup(
-      f.properties,
-      SladekDistricts[f.properties.official_name],
-      l
-    );
-  };
-  layers.SladekDistricts.addData(districts);
+  return addElectionLayer({
+    name: name + " Obwody",
+    geo,
+    getData: (feature) =>
+      data.find((c) => c.Obwod === feature.properties.Obwod),
+    boundaries,
+    colors: colorPalette,
+    labels,
+    popup: circuitResultPopup,
+  });
+}
 
-  const SladekCircuitsRanges = [1, 2, 3, 4, 5, 6, 7, 100].map(
-    (i) => (i * 3) / 8
+function addDistrictsLayer(name, geo, districtData) {
+  const values = Object.values(districtData).map((d) => d.Procent);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const step = (max - min) / 5;
+  const boundaries = [min];
+  for (let i = 1; i < 5; i++) boundaries.push(min + step * i);
+  boundaries.push(max);
+  const lBounds = boundaries.map((n) => n.toFixed(2));
+  const labels = districtPalette.map(
+    (_, i) => `${lBounds[i]}% — ${lBounds[i + 1]}%`
   );
-  const getSladekCircuit = (feature) =>
-    SladekCircuits.find((c) => c.Obwod === feature.properties.Obwod);
-  layers.SladekCircuits.options.style = (f) => {
-    const data = getSladekCircuit(f);
-    const ind = SladekCircuitsRanges.findIndex((x) => x > data.Procent);
-    return {
-      weight: 1,
-      color: "#333",
-      fillOpacity: 0.65,
-      fillColor: colorPalette[ind],
-    };
-  };
-  layers.SladekCircuits.options.onEachFeature = (f, l) => {
-    return circuitResultPopup(f.properties, getSladekCircuit(f), l);
-  };
-  layers.SladekCircuits.addData(circuits);
+  return addElectionLayer({
+    name: name + " Dzielnice",
+    geo,
+    getData: (feature) => districtData[feature.properties.official_name],
+    boundaries,
+    colors: districtPalette,
+    labels,
+    popup: districtResultPopup,
+  });
+}
+
+function addElectionLayer({
+  geo,
+  colors, // n
+  labels, // n
+  boundaries, // n+1
+  getData, // returns object with `Procent` for feature, passed to popup
+  popup,
+  name,
+}) {
+  const layer = L.geoJSON(geo, {
+    onEachFeature: (feature, layer) =>
+      popup(feature.properties, getData(feature), layer),
+    style: (feature) => {
+      const value = getData(feature).Procent;
+      let ind = boundaries.findIndex((i) => value <= i) - 1;
+      ind = Math.max(0, ind);
+      return {
+        weight: 1,
+        color: "#333",
+        fillOpacity: 0.65,
+        fillColor: colors[ind],
+      };
+    },
+  });
+  const legend = createLegend(colors, labels);
+  layer.on("add", () => legend.addTo(map));
+  layer.on("remove", () => legend.remove());
+  layerControl.addBaseLayer(layer, name);
+  return layer;
+}
+
+function getDistrictData(filteredData, districtMapping) {
+  const districts = {};
+  filteredData.forEach((d) => {
+    const name = districtMapping.find((m) => m.Obwod === d.Obwod).Dzielnica;
+    if (!districts[name]) districts[name] = { Total: 0, Kandydatka: 0 };
+    districts[name].Total += d.Total;
+    districts[name].Kandydatka += d.Kandydatka;
+  });
+  Object.values(districts).forEach(
+    (d) => (d.Procent = Number(((d.Kandydatka / d.Total) * 100).toFixed(2)))
+  );
+  return districts;
+}
+
+function getStatistics(data) {
+  const mean = data.reduce((acc, cur) => acc + cur.Procent, 0) / data.length;
+  const variance =
+    data.reduce((acc, cur) => acc + Math.pow(cur.Procent - mean, 2), 0) /
+    data.length;
+  const stdDev = Math.sqrt(variance);
+  return { mean, stdDev };
 }
 
 async function loadJson(url) {
   const resp = await fetch(url);
   return await resp.json();
+}
+
+function createLegend(colors, labels) {
+  const legend = L.control({ position: "bottomright" });
+  legend.onAdd = function () {
+    const div = L.DomUtil.create(
+      "div",
+      "legend leaflet-control-layers leaflet-control-layers-expanded"
+    );
+    colors.forEach((col, i) => {
+      div.innerHTML += `<div><i style="background: ${col}"></i> ${labels[i]}</div>`;
+    });
+    return div;
+  };
+  return legend;
 }
 
 function districtPopup({ properties: p }, layer) {

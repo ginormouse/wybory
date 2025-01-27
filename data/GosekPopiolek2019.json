@@ -1,0 +1,3145 @@
+[
+  {
+    "Obwod": 1,
+    "Total": 1331,
+    "Kandydatka": 76,
+    "Procent": 5.71,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547841"
+  },
+  {
+    "Obwod": 2,
+    "Total": 953,
+    "Kandydatka": 72,
+    "Procent": 7.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547842"
+  },
+  {
+    "Obwod": 3,
+    "Total": 1179,
+    "Kandydatka": 68,
+    "Procent": 5.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547843"
+  },
+  {
+    "Obwod": 4,
+    "Total": 861,
+    "Kandydatka": 39,
+    "Procent": 4.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547844"
+  },
+  {
+    "Obwod": 5,
+    "Total": 735,
+    "Kandydatka": 44,
+    "Procent": 5.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547845"
+  },
+  {
+    "Obwod": 6,
+    "Total": 1027,
+    "Kandydatka": 44,
+    "Procent": 4.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547846"
+  },
+  {
+    "Obwod": 7,
+    "Total": 1027,
+    "Kandydatka": 44,
+    "Procent": 4.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547847"
+  },
+  {
+    "Obwod": 8,
+    "Total": 784,
+    "Kandydatka": 45,
+    "Procent": 5.74,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547848"
+  },
+  {
+    "Obwod": 9,
+    "Total": 1150,
+    "Kandydatka": 56,
+    "Procent": 4.87,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547849"
+  },
+  {
+    "Obwod": 10,
+    "Total": 1138,
+    "Kandydatka": 46,
+    "Procent": 4.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547850"
+  },
+  {
+    "Obwod": 11,
+    "Total": 590,
+    "Kandydatka": 26,
+    "Procent": 4.41,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547851"
+  },
+  {
+    "Obwod": 12,
+    "Total": 1273,
+    "Kandydatka": 68,
+    "Procent": 5.34,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547852"
+  },
+  {
+    "Obwod": 13,
+    "Total": 462,
+    "Kandydatka": 29,
+    "Procent": 6.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547853"
+  },
+  {
+    "Obwod": 14,
+    "Total": 702,
+    "Kandydatka": 28,
+    "Procent": 3.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547854"
+  },
+  {
+    "Obwod": 15,
+    "Total": 978,
+    "Kandydatka": 81,
+    "Procent": 8.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547855"
+  },
+  {
+    "Obwod": 16,
+    "Total": 679,
+    "Kandydatka": 23,
+    "Procent": 3.39,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547856"
+  },
+  {
+    "Obwod": 17,
+    "Total": 1017,
+    "Kandydatka": 53,
+    "Procent": 5.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547857"
+  },
+  {
+    "Obwod": 18,
+    "Total": 746,
+    "Kandydatka": 32,
+    "Procent": 4.29,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547858"
+  },
+  {
+    "Obwod": 19,
+    "Total": 920,
+    "Kandydatka": 49,
+    "Procent": 5.33,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547859"
+  },
+  {
+    "Obwod": 20,
+    "Total": 566,
+    "Kandydatka": 44,
+    "Procent": 7.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547860"
+  },
+  {
+    "Obwod": 21,
+    "Total": 1157,
+    "Kandydatka": 39,
+    "Procent": 3.37,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547861"
+  },
+  {
+    "Obwod": 22,
+    "Total": 932,
+    "Kandydatka": 31,
+    "Procent": 3.33,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547862"
+  },
+  {
+    "Obwod": 23,
+    "Total": 757,
+    "Kandydatka": 51,
+    "Procent": 6.74,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547863"
+  },
+  {
+    "Obwod": 24,
+    "Total": 1095,
+    "Kandydatka": 41,
+    "Procent": 3.74,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547864"
+  },
+  {
+    "Obwod": 25,
+    "Total": 806,
+    "Kandydatka": 26,
+    "Procent": 3.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547865"
+  },
+  {
+    "Obwod": 26,
+    "Total": 1269,
+    "Kandydatka": 67,
+    "Procent": 5.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547866"
+  },
+  {
+    "Obwod": 27,
+    "Total": 856,
+    "Kandydatka": 36,
+    "Procent": 4.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547867"
+  },
+  {
+    "Obwod": 28,
+    "Total": 899,
+    "Kandydatka": 39,
+    "Procent": 4.34,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547868"
+  },
+  {
+    "Obwod": 29,
+    "Total": 873,
+    "Kandydatka": 35,
+    "Procent": 4.01,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547869"
+  },
+  {
+    "Obwod": 30,
+    "Total": 1783,
+    "Kandydatka": 85,
+    "Procent": 4.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547870"
+  },
+  {
+    "Obwod": 31,
+    "Total": 1572,
+    "Kandydatka": 70,
+    "Procent": 4.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547871"
+  },
+  {
+    "Obwod": 32,
+    "Total": 1165,
+    "Kandydatka": 67,
+    "Procent": 5.75,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547872"
+  },
+  {
+    "Obwod": 33,
+    "Total": 1227,
+    "Kandydatka": 66,
+    "Procent": 5.38,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547873"
+  },
+  {
+    "Obwod": 34,
+    "Total": 736,
+    "Kandydatka": 28,
+    "Procent": 3.8,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547874"
+  },
+  {
+    "Obwod": 35,
+    "Total": 951,
+    "Kandydatka": 46,
+    "Procent": 4.84,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547875"
+  },
+  {
+    "Obwod": 36,
+    "Total": 879,
+    "Kandydatka": 54,
+    "Procent": 6.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547876"
+  },
+  {
+    "Obwod": 37,
+    "Total": 930,
+    "Kandydatka": 46,
+    "Procent": 4.95,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547877"
+  },
+  {
+    "Obwod": 38,
+    "Total": 1215,
+    "Kandydatka": 63,
+    "Procent": 5.19,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547878"
+  },
+  {
+    "Obwod": 39,
+    "Total": 796,
+    "Kandydatka": 27,
+    "Procent": 3.39,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547879"
+  },
+  {
+    "Obwod": 40,
+    "Total": 1435,
+    "Kandydatka": 59,
+    "Procent": 4.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547880"
+  },
+  {
+    "Obwod": 41,
+    "Total": 1232,
+    "Kandydatka": 66,
+    "Procent": 5.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547881"
+  },
+  {
+    "Obwod": 42,
+    "Total": 1231,
+    "Kandydatka": 59,
+    "Procent": 4.79,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547882"
+  },
+  {
+    "Obwod": 43,
+    "Total": 1243,
+    "Kandydatka": 64,
+    "Procent": 5.15,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547883"
+  },
+  {
+    "Obwod": 44,
+    "Total": 727,
+    "Kandydatka": 26,
+    "Procent": 3.58,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547884"
+  },
+  {
+    "Obwod": 45,
+    "Total": 774,
+    "Kandydatka": 29,
+    "Procent": 3.75,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547885"
+  },
+  {
+    "Obwod": 46,
+    "Total": 926,
+    "Kandydatka": 26,
+    "Procent": 2.81,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547886"
+  },
+  {
+    "Obwod": 47,
+    "Total": 814,
+    "Kandydatka": 24,
+    "Procent": 2.95,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547887"
+  },
+  {
+    "Obwod": 48,
+    "Total": 1500,
+    "Kandydatka": 60,
+    "Procent": 4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547888"
+  },
+  {
+    "Obwod": 49,
+    "Total": 952,
+    "Kandydatka": 29,
+    "Procent": 3.05,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547889"
+  },
+  {
+    "Obwod": 50,
+    "Total": 1137,
+    "Kandydatka": 30,
+    "Procent": 2.64,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547890"
+  },
+  {
+    "Obwod": 51,
+    "Total": 843,
+    "Kandydatka": 24,
+    "Procent": 2.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547891"
+  },
+  {
+    "Obwod": 52,
+    "Total": 697,
+    "Kandydatka": 13,
+    "Procent": 1.87,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547892"
+  },
+  {
+    "Obwod": 53,
+    "Total": 1189,
+    "Kandydatka": 21,
+    "Procent": 1.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547893"
+  },
+  {
+    "Obwod": 54,
+    "Total": 1021,
+    "Kandydatka": 48,
+    "Procent": 4.7,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547894"
+  },
+  {
+    "Obwod": 55,
+    "Total": 738,
+    "Kandydatka": 19,
+    "Procent": 2.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547895"
+  },
+  {
+    "Obwod": 56,
+    "Total": 1454,
+    "Kandydatka": 47,
+    "Procent": 3.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547896"
+  },
+  {
+    "Obwod": 57,
+    "Total": 1830,
+    "Kandydatka": 57,
+    "Procent": 3.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547897"
+  },
+  {
+    "Obwod": 58,
+    "Total": 1107,
+    "Kandydatka": 27,
+    "Procent": 2.44,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547898"
+  },
+  {
+    "Obwod": 59,
+    "Total": 1214,
+    "Kandydatka": 19,
+    "Procent": 1.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547899"
+  },
+  {
+    "Obwod": 60,
+    "Total": 1224,
+    "Kandydatka": 25,
+    "Procent": 2.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547900"
+  },
+  {
+    "Obwod": 61,
+    "Total": 1372,
+    "Kandydatka": 38,
+    "Procent": 2.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547901"
+  },
+  {
+    "Obwod": 62,
+    "Total": 904,
+    "Kandydatka": 23,
+    "Procent": 2.54,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547902"
+  },
+  {
+    "Obwod": 63,
+    "Total": 1025,
+    "Kandydatka": 29,
+    "Procent": 2.83,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547903"
+  },
+  {
+    "Obwod": 64,
+    "Total": 1008,
+    "Kandydatka": 43,
+    "Procent": 4.27,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547904"
+  },
+  {
+    "Obwod": 65,
+    "Total": 899,
+    "Kandydatka": 25,
+    "Procent": 2.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547905"
+  },
+  {
+    "Obwod": 66,
+    "Total": 1112,
+    "Kandydatka": 41,
+    "Procent": 3.69,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547906"
+  },
+  {
+    "Obwod": 67,
+    "Total": 1206,
+    "Kandydatka": 41,
+    "Procent": 3.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547907"
+  },
+  {
+    "Obwod": 68,
+    "Total": 757,
+    "Kandydatka": 36,
+    "Procent": 4.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547908"
+  },
+  {
+    "Obwod": 69,
+    "Total": 1479,
+    "Kandydatka": 59,
+    "Procent": 3.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547909"
+  },
+  {
+    "Obwod": 70,
+    "Total": 853,
+    "Kandydatka": 46,
+    "Procent": 5.39,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547910"
+  },
+  {
+    "Obwod": 71,
+    "Total": 832,
+    "Kandydatka": 38,
+    "Procent": 4.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547911"
+  },
+  {
+    "Obwod": 72,
+    "Total": 908,
+    "Kandydatka": 23,
+    "Procent": 2.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547912"
+  },
+  {
+    "Obwod": 73,
+    "Total": 1068,
+    "Kandydatka": 21,
+    "Procent": 1.97,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547913"
+  },
+  {
+    "Obwod": 74,
+    "Total": 1263,
+    "Kandydatka": 35,
+    "Procent": 2.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547914"
+  },
+  {
+    "Obwod": 75,
+    "Total": 1276,
+    "Kandydatka": 56,
+    "Procent": 4.39,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547915"
+  },
+  {
+    "Obwod": 76,
+    "Total": 1133,
+    "Kandydatka": 32,
+    "Procent": 2.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547916"
+  },
+  {
+    "Obwod": 77,
+    "Total": 1085,
+    "Kandydatka": 43,
+    "Procent": 3.96,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547917"
+  },
+  {
+    "Obwod": 78,
+    "Total": 804,
+    "Kandydatka": 36,
+    "Procent": 4.48,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547918"
+  },
+  {
+    "Obwod": 79,
+    "Total": 1160,
+    "Kandydatka": 60,
+    "Procent": 5.17,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547919"
+  },
+  {
+    "Obwod": 80,
+    "Total": 1299,
+    "Kandydatka": 48,
+    "Procent": 3.7,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547920"
+  },
+  {
+    "Obwod": 81,
+    "Total": 1572,
+    "Kandydatka": 93,
+    "Procent": 5.92,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547921"
+  },
+  {
+    "Obwod": 82,
+    "Total": 1057,
+    "Kandydatka": 53,
+    "Procent": 5.01,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547922"
+  },
+  {
+    "Obwod": 83,
+    "Total": 1228,
+    "Kandydatka": 65,
+    "Procent": 5.29,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547923"
+  },
+  {
+    "Obwod": 84,
+    "Total": 1580,
+    "Kandydatka": 78,
+    "Procent": 4.94,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547924"
+  },
+  {
+    "Obwod": 85,
+    "Total": 1208,
+    "Kandydatka": 63,
+    "Procent": 5.22,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547925"
+  },
+  {
+    "Obwod": 86,
+    "Total": 940,
+    "Kandydatka": 19,
+    "Procent": 2.02,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547926"
+  },
+  {
+    "Obwod": 87,
+    "Total": 1293,
+    "Kandydatka": 53,
+    "Procent": 4.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547927"
+  },
+  {
+    "Obwod": 88,
+    "Total": 1049,
+    "Kandydatka": 34,
+    "Procent": 3.24,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547928"
+  },
+  {
+    "Obwod": 89,
+    "Total": 1107,
+    "Kandydatka": 35,
+    "Procent": 3.16,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547929"
+  },
+  {
+    "Obwod": 90,
+    "Total": 1352,
+    "Kandydatka": 41,
+    "Procent": 3.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547930"
+  },
+  {
+    "Obwod": 91,
+    "Total": 1558,
+    "Kandydatka": 51,
+    "Procent": 3.27,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547931"
+  },
+  {
+    "Obwod": 92,
+    "Total": 1327,
+    "Kandydatka": 27,
+    "Procent": 2.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547932"
+  },
+  {
+    "Obwod": 93,
+    "Total": 1372,
+    "Kandydatka": 33,
+    "Procent": 2.41,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547933"
+  },
+  {
+    "Obwod": 94,
+    "Total": 1407,
+    "Kandydatka": 40,
+    "Procent": 2.84,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547934"
+  },
+  {
+    "Obwod": 95,
+    "Total": 1111,
+    "Kandydatka": 37,
+    "Procent": 3.33,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547935"
+  },
+  {
+    "Obwod": 96,
+    "Total": 1435,
+    "Kandydatka": 73,
+    "Procent": 5.09,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547936"
+  },
+  {
+    "Obwod": 97,
+    "Total": 1122,
+    "Kandydatka": 53,
+    "Procent": 4.72,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547937"
+  },
+  {
+    "Obwod": 98,
+    "Total": 1045,
+    "Kandydatka": 56,
+    "Procent": 5.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547938"
+  },
+  {
+    "Obwod": 99,
+    "Total": 977,
+    "Kandydatka": 22,
+    "Procent": 2.25,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547939"
+  },
+  {
+    "Obwod": 100,
+    "Total": 675,
+    "Kandydatka": 21,
+    "Procent": 3.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547940"
+  },
+  {
+    "Obwod": 101,
+    "Total": 936,
+    "Kandydatka": 28,
+    "Procent": 2.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547941"
+  },
+  {
+    "Obwod": 102,
+    "Total": 1131,
+    "Kandydatka": 39,
+    "Procent": 3.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547942"
+  },
+  {
+    "Obwod": 103,
+    "Total": 1364,
+    "Kandydatka": 49,
+    "Procent": 3.59,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547943"
+  },
+  {
+    "Obwod": 104,
+    "Total": 1042,
+    "Kandydatka": 27,
+    "Procent": 2.59,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547944"
+  },
+  {
+    "Obwod": 105,
+    "Total": 1215,
+    "Kandydatka": 39,
+    "Procent": 3.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547945"
+  },
+  {
+    "Obwod": 106,
+    "Total": 1333,
+    "Kandydatka": 72,
+    "Procent": 5.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547946"
+  },
+  {
+    "Obwod": 107,
+    "Total": 1269,
+    "Kandydatka": 57,
+    "Procent": 4.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547947"
+  },
+  {
+    "Obwod": 108,
+    "Total": 959,
+    "Kandydatka": 54,
+    "Procent": 5.63,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547948"
+  },
+  {
+    "Obwod": 109,
+    "Total": 948,
+    "Kandydatka": 52,
+    "Procent": 5.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547949"
+  },
+  {
+    "Obwod": 110,
+    "Total": 1739,
+    "Kandydatka": 108,
+    "Procent": 6.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547950"
+  },
+  {
+    "Obwod": 111,
+    "Total": 1263,
+    "Kandydatka": 58,
+    "Procent": 4.59,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547951"
+  },
+  {
+    "Obwod": 112,
+    "Total": 953,
+    "Kandydatka": 54,
+    "Procent": 5.67,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547952"
+  },
+  {
+    "Obwod": 113,
+    "Total": 1267,
+    "Kandydatka": 51,
+    "Procent": 4.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547953"
+  },
+  {
+    "Obwod": 114,
+    "Total": 1047,
+    "Kandydatka": 50,
+    "Procent": 4.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547954"
+  },
+  {
+    "Obwod": 115,
+    "Total": 1547,
+    "Kandydatka": 68,
+    "Procent": 4.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547955"
+  },
+  {
+    "Obwod": 116,
+    "Total": 535,
+    "Kandydatka": 43,
+    "Procent": 8.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547956"
+  },
+  {
+    "Obwod": 117,
+    "Total": 863,
+    "Kandydatka": 48,
+    "Procent": 5.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547957"
+  },
+  {
+    "Obwod": 118,
+    "Total": 1205,
+    "Kandydatka": 56,
+    "Procent": 4.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547958"
+  },
+  {
+    "Obwod": 119,
+    "Total": 1005,
+    "Kandydatka": 55,
+    "Procent": 5.47,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547959"
+  },
+  {
+    "Obwod": 120,
+    "Total": 925,
+    "Kandydatka": 33,
+    "Procent": 3.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547960"
+  },
+  {
+    "Obwod": 121,
+    "Total": 604,
+    "Kandydatka": 25,
+    "Procent": 4.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547961"
+  },
+  {
+    "Obwod": 122,
+    "Total": 1017,
+    "Kandydatka": 60,
+    "Procent": 5.9,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547962"
+  },
+  {
+    "Obwod": 123,
+    "Total": 1100,
+    "Kandydatka": 39,
+    "Procent": 3.55,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547963"
+  },
+  {
+    "Obwod": 124,
+    "Total": 1203,
+    "Kandydatka": 42,
+    "Procent": 3.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547964"
+  },
+  {
+    "Obwod": 125,
+    "Total": 1175,
+    "Kandydatka": 48,
+    "Procent": 4.09,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547965"
+  },
+  {
+    "Obwod": 126,
+    "Total": 991,
+    "Kandydatka": 45,
+    "Procent": 4.54,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547966"
+  },
+  {
+    "Obwod": 127,
+    "Total": 1236,
+    "Kandydatka": 63,
+    "Procent": 5.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547967"
+  },
+  {
+    "Obwod": 128,
+    "Total": 1197,
+    "Kandydatka": 35,
+    "Procent": 2.92,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547968"
+  },
+  {
+    "Obwod": 129,
+    "Total": 1278,
+    "Kandydatka": 47,
+    "Procent": 3.68,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547969"
+  },
+  {
+    "Obwod": 130,
+    "Total": 1291,
+    "Kandydatka": 56,
+    "Procent": 4.34,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547970"
+  },
+  {
+    "Obwod": 131,
+    "Total": 1389,
+    "Kandydatka": 40,
+    "Procent": 2.88,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547971"
+  },
+  {
+    "Obwod": 132,
+    "Total": 1434,
+    "Kandydatka": 44,
+    "Procent": 3.07,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547972"
+  },
+  {
+    "Obwod": 133,
+    "Total": 1115,
+    "Kandydatka": 36,
+    "Procent": 3.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547973"
+  },
+  {
+    "Obwod": 134,
+    "Total": 1226,
+    "Kandydatka": 35,
+    "Procent": 2.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547974"
+  },
+  {
+    "Obwod": 135,
+    "Total": 1395,
+    "Kandydatka": 63,
+    "Procent": 4.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547975"
+  },
+  {
+    "Obwod": 136,
+    "Total": 989,
+    "Kandydatka": 25,
+    "Procent": 2.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547976"
+  },
+  {
+    "Obwod": 137,
+    "Total": 806,
+    "Kandydatka": 28,
+    "Procent": 3.47,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547977"
+  },
+  {
+    "Obwod": 138,
+    "Total": 798,
+    "Kandydatka": 11,
+    "Procent": 1.38,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547978"
+  },
+  {
+    "Obwod": 139,
+    "Total": 1428,
+    "Kandydatka": 51,
+    "Procent": 3.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547979"
+  },
+  {
+    "Obwod": 140,
+    "Total": 1377,
+    "Kandydatka": 21,
+    "Procent": 1.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547980"
+  },
+  {
+    "Obwod": 141,
+    "Total": 745,
+    "Kandydatka": 19,
+    "Procent": 2.55,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547981"
+  },
+  {
+    "Obwod": 142,
+    "Total": 1392,
+    "Kandydatka": 53,
+    "Procent": 3.81,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547982"
+  },
+  {
+    "Obwod": 143,
+    "Total": 1270,
+    "Kandydatka": 38,
+    "Procent": 2.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547983"
+  },
+  {
+    "Obwod": 144,
+    "Total": 962,
+    "Kandydatka": 24,
+    "Procent": 2.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547984"
+  },
+  {
+    "Obwod": 145,
+    "Total": 896,
+    "Kandydatka": 35,
+    "Procent": 3.91,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547985"
+  },
+  {
+    "Obwod": 146,
+    "Total": 1205,
+    "Kandydatka": 51,
+    "Procent": 4.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547986"
+  },
+  {
+    "Obwod": 147,
+    "Total": 1358,
+    "Kandydatka": 70,
+    "Procent": 5.15,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547987"
+  },
+  {
+    "Obwod": 148,
+    "Total": 1446,
+    "Kandydatka": 54,
+    "Procent": 3.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547988"
+  },
+  {
+    "Obwod": 149,
+    "Total": 904,
+    "Kandydatka": 43,
+    "Procent": 4.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547989"
+  },
+  {
+    "Obwod": 150,
+    "Total": 1081,
+    "Kandydatka": 54,
+    "Procent": 5,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547990"
+  },
+  {
+    "Obwod": 151,
+    "Total": 1243,
+    "Kandydatka": 41,
+    "Procent": 3.3,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547991"
+  },
+  {
+    "Obwod": 152,
+    "Total": 1193,
+    "Kandydatka": 38,
+    "Procent": 3.19,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547992"
+  },
+  {
+    "Obwod": 153,
+    "Total": 1112,
+    "Kandydatka": 34,
+    "Procent": 3.06,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547993"
+  },
+  {
+    "Obwod": 154,
+    "Total": 1244,
+    "Kandydatka": 69,
+    "Procent": 5.55,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547994"
+  },
+  {
+    "Obwod": 155,
+    "Total": 1466,
+    "Kandydatka": 76,
+    "Procent": 5.18,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547995"
+  },
+  {
+    "Obwod": 156,
+    "Total": 1624,
+    "Kandydatka": 88,
+    "Procent": 5.42,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547996"
+  },
+  {
+    "Obwod": 157,
+    "Total": 720,
+    "Kandydatka": 23,
+    "Procent": 3.19,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547997"
+  },
+  {
+    "Obwod": 158,
+    "Total": 802,
+    "Kandydatka": 52,
+    "Procent": 6.48,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547998"
+  },
+  {
+    "Obwod": 159,
+    "Total": 806,
+    "Kandydatka": 31,
+    "Procent": 3.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/547999"
+  },
+  {
+    "Obwod": 160,
+    "Total": 1125,
+    "Kandydatka": 13,
+    "Procent": 1.16,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548000"
+  },
+  {
+    "Obwod": 161,
+    "Total": 858,
+    "Kandydatka": 11,
+    "Procent": 1.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548001"
+  },
+  {
+    "Obwod": 162,
+    "Total": 703,
+    "Kandydatka": 10,
+    "Procent": 1.42,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548002"
+  },
+  {
+    "Obwod": 163,
+    "Total": 865,
+    "Kandydatka": 14,
+    "Procent": 1.62,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548003"
+  },
+  {
+    "Obwod": 164,
+    "Total": 771,
+    "Kandydatka": 10,
+    "Procent": 1.3,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548004"
+  },
+  {
+    "Obwod": 165,
+    "Total": 1101,
+    "Kandydatka": 20,
+    "Procent": 1.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548005"
+  },
+  {
+    "Obwod": 166,
+    "Total": 928,
+    "Kandydatka": 10,
+    "Procent": 1.08,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548006"
+  },
+  {
+    "Obwod": 167,
+    "Total": 1478,
+    "Kandydatka": 80,
+    "Procent": 5.41,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548007"
+  },
+  {
+    "Obwod": 168,
+    "Total": 1567,
+    "Kandydatka": 78,
+    "Procent": 4.98,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548008"
+  },
+  {
+    "Obwod": 169,
+    "Total": 1260,
+    "Kandydatka": 48,
+    "Procent": 3.81,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548009"
+  },
+  {
+    "Obwod": 170,
+    "Total": 907,
+    "Kandydatka": 61,
+    "Procent": 6.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548010"
+  },
+  {
+    "Obwod": 171,
+    "Total": 1200,
+    "Kandydatka": 55,
+    "Procent": 4.58,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548011"
+  },
+  {
+    "Obwod": 172,
+    "Total": 1329,
+    "Kandydatka": 55,
+    "Procent": 4.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548012"
+  },
+  {
+    "Obwod": 173,
+    "Total": 873,
+    "Kandydatka": 50,
+    "Procent": 5.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548013"
+  },
+  {
+    "Obwod": 174,
+    "Total": 1232,
+    "Kandydatka": 64,
+    "Procent": 5.19,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548014"
+  },
+  {
+    "Obwod": 175,
+    "Total": 1538,
+    "Kandydatka": 77,
+    "Procent": 5.01,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548015"
+  },
+  {
+    "Obwod": 176,
+    "Total": 1173,
+    "Kandydatka": 41,
+    "Procent": 3.5,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548016"
+  },
+  {
+    "Obwod": 177,
+    "Total": 1068,
+    "Kandydatka": 29,
+    "Procent": 2.72,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548017"
+  },
+  {
+    "Obwod": 178,
+    "Total": 977,
+    "Kandydatka": 46,
+    "Procent": 4.71,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548018"
+  },
+  {
+    "Obwod": 179,
+    "Total": 1336,
+    "Kandydatka": 45,
+    "Procent": 3.37,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548019"
+  },
+  {
+    "Obwod": 180,
+    "Total": 1031,
+    "Kandydatka": 33,
+    "Procent": 3.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548020"
+  },
+  {
+    "Obwod": 181,
+    "Total": 1019,
+    "Kandydatka": 51,
+    "Procent": 5,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548021"
+  },
+  {
+    "Obwod": 182,
+    "Total": 903,
+    "Kandydatka": 33,
+    "Procent": 3.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548022"
+  },
+  {
+    "Obwod": 183,
+    "Total": 1214,
+    "Kandydatka": 48,
+    "Procent": 3.95,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548023"
+  },
+  {
+    "Obwod": 184,
+    "Total": 1097,
+    "Kandydatka": 40,
+    "Procent": 3.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548024"
+  },
+  {
+    "Obwod": 185,
+    "Total": 932,
+    "Kandydatka": 19,
+    "Procent": 2.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548025"
+  },
+  {
+    "Obwod": 186,
+    "Total": 1028,
+    "Kandydatka": 32,
+    "Procent": 3.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548026"
+  },
+  {
+    "Obwod": 187,
+    "Total": 1189,
+    "Kandydatka": 36,
+    "Procent": 3.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548027"
+  },
+  {
+    "Obwod": 188,
+    "Total": 946,
+    "Kandydatka": 19,
+    "Procent": 2.01,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548028"
+  },
+  {
+    "Obwod": 189,
+    "Total": 461,
+    "Kandydatka": 15,
+    "Procent": 3.25,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548029"
+  },
+  {
+    "Obwod": 190,
+    "Total": 1254,
+    "Kandydatka": 49,
+    "Procent": 3.91,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548030"
+  },
+  {
+    "Obwod": 191,
+    "Total": 1119,
+    "Kandydatka": 30,
+    "Procent": 2.68,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548031"
+  },
+  {
+    "Obwod": 192,
+    "Total": 1201,
+    "Kandydatka": 39,
+    "Procent": 3.25,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548032"
+  },
+  {
+    "Obwod": 193,
+    "Total": 937,
+    "Kandydatka": 23,
+    "Procent": 2.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548033"
+  },
+  {
+    "Obwod": 194,
+    "Total": 1112,
+    "Kandydatka": 28,
+    "Procent": 2.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548034"
+  },
+  {
+    "Obwod": 195,
+    "Total": 1128,
+    "Kandydatka": 44,
+    "Procent": 3.9,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548035"
+  },
+  {
+    "Obwod": 196,
+    "Total": 1386,
+    "Kandydatka": 42,
+    "Procent": 3.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548036"
+  },
+  {
+    "Obwod": 197,
+    "Total": 1279,
+    "Kandydatka": 55,
+    "Procent": 4.3,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548037"
+  },
+  {
+    "Obwod": 198,
+    "Total": 1328,
+    "Kandydatka": 46,
+    "Procent": 3.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548038"
+  },
+  {
+    "Obwod": 199,
+    "Total": 854,
+    "Kandydatka": 13,
+    "Procent": 1.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548039"
+  },
+  {
+    "Obwod": 200,
+    "Total": 1349,
+    "Kandydatka": 20,
+    "Procent": 1.48,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548040"
+  },
+  {
+    "Obwod": 201,
+    "Total": 1330,
+    "Kandydatka": 27,
+    "Procent": 2.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548041"
+  },
+  {
+    "Obwod": 202,
+    "Total": 1368,
+    "Kandydatka": 39,
+    "Procent": 2.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548042"
+  },
+  {
+    "Obwod": 203,
+    "Total": 925,
+    "Kandydatka": 15,
+    "Procent": 1.62,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548043"
+  },
+  {
+    "Obwod": 204,
+    "Total": 744,
+    "Kandydatka": 9,
+    "Procent": 1.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548044"
+  },
+  {
+    "Obwod": 205,
+    "Total": 335,
+    "Kandydatka": 1,
+    "Procent": 0.3,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548045"
+  },
+  {
+    "Obwod": 206,
+    "Total": 647,
+    "Kandydatka": 9,
+    "Procent": 1.39,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548046"
+  },
+  {
+    "Obwod": 207,
+    "Total": 488,
+    "Kandydatka": 9,
+    "Procent": 1.84,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548047"
+  },
+  {
+    "Obwod": 208,
+    "Total": 529,
+    "Kandydatka": 10,
+    "Procent": 1.89,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548048"
+  },
+  {
+    "Obwod": 209,
+    "Total": 1112,
+    "Kandydatka": 24,
+    "Procent": 2.16,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548049"
+  },
+  {
+    "Obwod": 210,
+    "Total": 1118,
+    "Kandydatka": 31,
+    "Procent": 2.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548050"
+  },
+  {
+    "Obwod": 211,
+    "Total": 1435,
+    "Kandydatka": 52,
+    "Procent": 3.62,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548051"
+  },
+  {
+    "Obwod": 212,
+    "Total": 916,
+    "Kandydatka": 26,
+    "Procent": 2.84,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548052"
+  },
+  {
+    "Obwod": 213,
+    "Total": 1125,
+    "Kandydatka": 25,
+    "Procent": 2.22,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548053"
+  },
+  {
+    "Obwod": 214,
+    "Total": 1186,
+    "Kandydatka": 22,
+    "Procent": 1.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548054"
+  },
+  {
+    "Obwod": 215,
+    "Total": 1075,
+    "Kandydatka": 22,
+    "Procent": 2.05,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548055"
+  },
+  {
+    "Obwod": 216,
+    "Total": 1260,
+    "Kandydatka": 31,
+    "Procent": 2.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548056"
+  },
+  {
+    "Obwod": 217,
+    "Total": 1170,
+    "Kandydatka": 36,
+    "Procent": 3.08,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548057"
+  },
+  {
+    "Obwod": 218,
+    "Total": 1140,
+    "Kandydatka": 39,
+    "Procent": 3.42,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548058"
+  },
+  {
+    "Obwod": 219,
+    "Total": 1138,
+    "Kandydatka": 43,
+    "Procent": 3.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548059"
+  },
+  {
+    "Obwod": 220,
+    "Total": 1218,
+    "Kandydatka": 38,
+    "Procent": 3.12,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548060"
+  },
+  {
+    "Obwod": 221,
+    "Total": 1295,
+    "Kandydatka": 38,
+    "Procent": 2.93,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548061"
+  },
+  {
+    "Obwod": 222,
+    "Total": 1237,
+    "Kandydatka": 35,
+    "Procent": 2.83,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548062"
+  },
+  {
+    "Obwod": 223,
+    "Total": 1166,
+    "Kandydatka": 24,
+    "Procent": 2.06,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548063"
+  },
+  {
+    "Obwod": 224,
+    "Total": 1224,
+    "Kandydatka": 37,
+    "Procent": 3.02,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548064"
+  },
+  {
+    "Obwod": 225,
+    "Total": 916,
+    "Kandydatka": 22,
+    "Procent": 2.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548065"
+  },
+  {
+    "Obwod": 226,
+    "Total": 694,
+    "Kandydatka": 32,
+    "Procent": 4.61,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548066"
+  },
+  {
+    "Obwod": 227,
+    "Total": 1115,
+    "Kandydatka": 35,
+    "Procent": 3.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548067"
+  },
+  {
+    "Obwod": 228,
+    "Total": 1157,
+    "Kandydatka": 44,
+    "Procent": 3.8,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548068"
+  },
+  {
+    "Obwod": 229,
+    "Total": 641,
+    "Kandydatka": 9,
+    "Procent": 1.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548069"
+  },
+  {
+    "Obwod": 230,
+    "Total": 1223,
+    "Kandydatka": 34,
+    "Procent": 2.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548070"
+  },
+  {
+    "Obwod": 231,
+    "Total": 1018,
+    "Kandydatka": 27,
+    "Procent": 2.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548071"
+  },
+  {
+    "Obwod": 232,
+    "Total": 985,
+    "Kandydatka": 36,
+    "Procent": 3.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548072"
+  },
+  {
+    "Obwod": 233,
+    "Total": 1302,
+    "Kandydatka": 40,
+    "Procent": 3.07,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548073"
+  },
+  {
+    "Obwod": 234,
+    "Total": 1340,
+    "Kandydatka": 20,
+    "Procent": 1.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548074"
+  },
+  {
+    "Obwod": 235,
+    "Total": 1307,
+    "Kandydatka": 36,
+    "Procent": 2.75,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548075"
+  },
+  {
+    "Obwod": 236,
+    "Total": 1460,
+    "Kandydatka": 52,
+    "Procent": 3.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548076"
+  },
+  {
+    "Obwod": 237,
+    "Total": 874,
+    "Kandydatka": 20,
+    "Procent": 2.29,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548077"
+  },
+  {
+    "Obwod": 238,
+    "Total": 1078,
+    "Kandydatka": 22,
+    "Procent": 2.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548078"
+  },
+  {
+    "Obwod": 239,
+    "Total": 835,
+    "Kandydatka": 14,
+    "Procent": 1.68,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548079"
+  },
+  {
+    "Obwod": 240,
+    "Total": 906,
+    "Kandydatka": 20,
+    "Procent": 2.21,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548080"
+  },
+  {
+    "Obwod": 241,
+    "Total": 640,
+    "Kandydatka": 20,
+    "Procent": 3.13,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548081"
+  },
+  {
+    "Obwod": 242,
+    "Total": 1115,
+    "Kandydatka": 50,
+    "Procent": 4.48,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548082"
+  },
+  {
+    "Obwod": 243,
+    "Total": 882,
+    "Kandydatka": 28,
+    "Procent": 3.17,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548083"
+  },
+  {
+    "Obwod": 244,
+    "Total": 1246,
+    "Kandydatka": 33,
+    "Procent": 2.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548084"
+  },
+  {
+    "Obwod": 245,
+    "Total": 968,
+    "Kandydatka": 18,
+    "Procent": 1.86,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548085"
+  },
+  {
+    "Obwod": 246,
+    "Total": 867,
+    "Kandydatka": 18,
+    "Procent": 2.08,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548086"
+  },
+  {
+    "Obwod": 247,
+    "Total": 1488,
+    "Kandydatka": 44,
+    "Procent": 2.96,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548087"
+  },
+  {
+    "Obwod": 248,
+    "Total": 1188,
+    "Kandydatka": 34,
+    "Procent": 2.86,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548088"
+  },
+  {
+    "Obwod": 249,
+    "Total": 1162,
+    "Kandydatka": 38,
+    "Procent": 3.27,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548089"
+  },
+  {
+    "Obwod": 250,
+    "Total": 1130,
+    "Kandydatka": 34,
+    "Procent": 3.01,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548090"
+  },
+  {
+    "Obwod": 251,
+    "Total": 831,
+    "Kandydatka": 21,
+    "Procent": 2.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548091"
+  },
+  {
+    "Obwod": 252,
+    "Total": 880,
+    "Kandydatka": 22,
+    "Procent": 2.5,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548092"
+  },
+  {
+    "Obwod": 253,
+    "Total": 1009,
+    "Kandydatka": 18,
+    "Procent": 1.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548093"
+  },
+  {
+    "Obwod": 254,
+    "Total": 735,
+    "Kandydatka": 18,
+    "Procent": 2.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548094"
+  },
+  {
+    "Obwod": 255,
+    "Total": 755,
+    "Kandydatka": 16,
+    "Procent": 2.12,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548095"
+  },
+  {
+    "Obwod": 256,
+    "Total": 1016,
+    "Kandydatka": 13,
+    "Procent": 1.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548096"
+  },
+  {
+    "Obwod": 257,
+    "Total": 978,
+    "Kandydatka": 24,
+    "Procent": 2.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548097"
+  },
+  {
+    "Obwod": 258,
+    "Total": 922,
+    "Kandydatka": 14,
+    "Procent": 1.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548098"
+  },
+  {
+    "Obwod": 259,
+    "Total": 1227,
+    "Kandydatka": 20,
+    "Procent": 1.63,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548099"
+  },
+  {
+    "Obwod": 260,
+    "Total": 1107,
+    "Kandydatka": 35,
+    "Procent": 3.16,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548100"
+  },
+  {
+    "Obwod": 261,
+    "Total": 1174,
+    "Kandydatka": 16,
+    "Procent": 1.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548101"
+  },
+  {
+    "Obwod": 262,
+    "Total": 1249,
+    "Kandydatka": 20,
+    "Procent": 1.6,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548102"
+  },
+  {
+    "Obwod": 263,
+    "Total": 1311,
+    "Kandydatka": 31,
+    "Procent": 2.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548103"
+  },
+  {
+    "Obwod": 264,
+    "Total": 1381,
+    "Kandydatka": 42,
+    "Procent": 3.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548104"
+  },
+  {
+    "Obwod": 265,
+    "Total": 1078,
+    "Kandydatka": 24,
+    "Procent": 2.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548105"
+  },
+  {
+    "Obwod": 266,
+    "Total": 1050,
+    "Kandydatka": 31,
+    "Procent": 2.95,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548106"
+  },
+  {
+    "Obwod": 267,
+    "Total": 1223,
+    "Kandydatka": 18,
+    "Procent": 1.47,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548107"
+  },
+  {
+    "Obwod": 268,
+    "Total": 1203,
+    "Kandydatka": 27,
+    "Procent": 2.24,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548108"
+  },
+  {
+    "Obwod": 269,
+    "Total": 1133,
+    "Kandydatka": 27,
+    "Procent": 2.38,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548109"
+  },
+  {
+    "Obwod": 270,
+    "Total": 1198,
+    "Kandydatka": 37,
+    "Procent": 3.09,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548110"
+  },
+  {
+    "Obwod": 271,
+    "Total": 729,
+    "Kandydatka": 8,
+    "Procent": 1.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548111"
+  },
+  {
+    "Obwod": 272,
+    "Total": 780,
+    "Kandydatka": 11,
+    "Procent": 1.41,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548112"
+  },
+  {
+    "Obwod": 273,
+    "Total": 1257,
+    "Kandydatka": 69,
+    "Procent": 5.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548113"
+  },
+  {
+    "Obwod": 274,
+    "Total": 911,
+    "Kandydatka": 24,
+    "Procent": 2.63,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548114"
+  },
+  {
+    "Obwod": 275,
+    "Total": 1766,
+    "Kandydatka": 78,
+    "Procent": 4.42,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548115"
+  },
+  {
+    "Obwod": 276,
+    "Total": 1321,
+    "Kandydatka": 30,
+    "Procent": 2.27,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548116"
+  },
+  {
+    "Obwod": 277,
+    "Total": 1392,
+    "Kandydatka": 63,
+    "Procent": 4.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548117"
+  },
+  {
+    "Obwod": 278,
+    "Total": 1370,
+    "Kandydatka": 61,
+    "Procent": 4.45,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548118"
+  },
+  {
+    "Obwod": 279,
+    "Total": 982,
+    "Kandydatka": 33,
+    "Procent": 3.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548119"
+  },
+  {
+    "Obwod": 280,
+    "Total": 878,
+    "Kandydatka": 46,
+    "Procent": 5.24,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548120"
+  },
+  {
+    "Obwod": 281,
+    "Total": 1222,
+    "Kandydatka": 48,
+    "Procent": 3.93,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548121"
+  },
+  {
+    "Obwod": 282,
+    "Total": 1654,
+    "Kandydatka": 63,
+    "Procent": 3.81,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548122"
+  },
+  {
+    "Obwod": 283,
+    "Total": 1198,
+    "Kandydatka": 71,
+    "Procent": 5.93,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548123"
+  },
+  {
+    "Obwod": 284,
+    "Total": 1182,
+    "Kandydatka": 68,
+    "Procent": 5.75,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548124"
+  },
+  {
+    "Obwod": 285,
+    "Total": 658,
+    "Kandydatka": 44,
+    "Procent": 6.69,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548125"
+  },
+  {
+    "Obwod": 286,
+    "Total": 1106,
+    "Kandydatka": 92,
+    "Procent": 8.32,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548126"
+  },
+  {
+    "Obwod": 287,
+    "Total": 655,
+    "Kandydatka": 40,
+    "Procent": 6.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548127"
+  },
+  {
+    "Obwod": 288,
+    "Total": 880,
+    "Kandydatka": 64,
+    "Procent": 7.27,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548128"
+  },
+  {
+    "Obwod": 289,
+    "Total": 986,
+    "Kandydatka": 69,
+    "Procent": 7,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548129"
+  },
+  {
+    "Obwod": 290,
+    "Total": 1076,
+    "Kandydatka": 96,
+    "Procent": 8.92,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548130"
+  },
+  {
+    "Obwod": 291,
+    "Total": 847,
+    "Kandydatka": 61,
+    "Procent": 7.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548131"
+  },
+  {
+    "Obwod": 292,
+    "Total": 1272,
+    "Kandydatka": 91,
+    "Procent": 7.15,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548132"
+  },
+  {
+    "Obwod": 293,
+    "Total": 444,
+    "Kandydatka": 9,
+    "Procent": 2.03,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548133"
+  },
+  {
+    "Obwod": 294,
+    "Total": 1403,
+    "Kandydatka": 41,
+    "Procent": 2.92,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548134"
+  },
+  {
+    "Obwod": 295,
+    "Total": 1299,
+    "Kandydatka": 51,
+    "Procent": 3.93,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548135"
+  },
+  {
+    "Obwod": 296,
+    "Total": 1192,
+    "Kandydatka": 33,
+    "Procent": 2.77,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548136"
+  },
+  {
+    "Obwod": 297,
+    "Total": 1176,
+    "Kandydatka": 41,
+    "Procent": 3.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548137"
+  },
+  {
+    "Obwod": 298,
+    "Total": 912,
+    "Kandydatka": 32,
+    "Procent": 3.51,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548138"
+  },
+  {
+    "Obwod": 299,
+    "Total": 707,
+    "Kandydatka": 28,
+    "Procent": 3.96,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548139"
+  },
+  {
+    "Obwod": 300,
+    "Total": 1184,
+    "Kandydatka": 44,
+    "Procent": 3.72,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548140"
+  },
+  {
+    "Obwod": 301,
+    "Total": 1397,
+    "Kandydatka": 37,
+    "Procent": 2.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548141"
+  },
+  {
+    "Obwod": 302,
+    "Total": 1348,
+    "Kandydatka": 50,
+    "Procent": 3.71,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548142"
+  },
+  {
+    "Obwod": 303,
+    "Total": 2110,
+    "Kandydatka": 113,
+    "Procent": 5.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548143"
+  },
+  {
+    "Obwod": 304,
+    "Total": 1087,
+    "Kandydatka": 13,
+    "Procent": 1.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548144"
+  },
+  {
+    "Obwod": 305,
+    "Total": 937,
+    "Kandydatka": 25,
+    "Procent": 2.67,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548145"
+  },
+  {
+    "Obwod": 306,
+    "Total": 822,
+    "Kandydatka": 17,
+    "Procent": 2.07,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548146"
+  },
+  {
+    "Obwod": 307,
+    "Total": 1017,
+    "Kandydatka": 25,
+    "Procent": 2.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548147"
+  },
+  {
+    "Obwod": 308,
+    "Total": 963,
+    "Kandydatka": 19,
+    "Procent": 1.97,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548148"
+  },
+  {
+    "Obwod": 309,
+    "Total": 812,
+    "Kandydatka": 29,
+    "Procent": 3.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548149"
+  },
+  {
+    "Obwod": 310,
+    "Total": 1324,
+    "Kandydatka": 38,
+    "Procent": 2.87,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548150"
+  },
+  {
+    "Obwod": 311,
+    "Total": 1272,
+    "Kandydatka": 29,
+    "Procent": 2.28,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548151"
+  },
+  {
+    "Obwod": 312,
+    "Total": 1381,
+    "Kandydatka": 35,
+    "Procent": 2.53,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548152"
+  },
+  {
+    "Obwod": 313,
+    "Total": 1268,
+    "Kandydatka": 50,
+    "Procent": 3.94,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548153"
+  },
+  {
+    "Obwod": 314,
+    "Total": 1170,
+    "Kandydatka": 25,
+    "Procent": 2.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548154"
+  },
+  {
+    "Obwod": 315,
+    "Total": 1223,
+    "Kandydatka": 34,
+    "Procent": 2.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548155"
+  },
+  {
+    "Obwod": 316,
+    "Total": 1137,
+    "Kandydatka": 19,
+    "Procent": 1.67,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548156"
+  },
+  {
+    "Obwod": 317,
+    "Total": 1272,
+    "Kandydatka": 40,
+    "Procent": 3.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548157"
+  },
+  {
+    "Obwod": 318,
+    "Total": 1220,
+    "Kandydatka": 15,
+    "Procent": 1.23,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548158"
+  },
+  {
+    "Obwod": 319,
+    "Total": 1260,
+    "Kandydatka": 29,
+    "Procent": 2.3,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548159"
+  },
+  {
+    "Obwod": 320,
+    "Total": 1001,
+    "Kandydatka": 22,
+    "Procent": 2.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548160"
+  },
+  {
+    "Obwod": 321,
+    "Total": 1293,
+    "Kandydatka": 47,
+    "Procent": 3.63,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548161"
+  },
+  {
+    "Obwod": 322,
+    "Total": 1146,
+    "Kandydatka": 24,
+    "Procent": 2.09,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548162"
+  },
+  {
+    "Obwod": 323,
+    "Total": 1021,
+    "Kandydatka": 31,
+    "Procent": 3.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548163"
+  },
+  {
+    "Obwod": 324,
+    "Total": 1116,
+    "Kandydatka": 24,
+    "Procent": 2.15,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548164"
+  },
+  {
+    "Obwod": 325,
+    "Total": 969,
+    "Kandydatka": 23,
+    "Procent": 2.37,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548165"
+  },
+  {
+    "Obwod": 326,
+    "Total": 968,
+    "Kandydatka": 17,
+    "Procent": 1.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548166"
+  },
+  {
+    "Obwod": 327,
+    "Total": 1166,
+    "Kandydatka": 22,
+    "Procent": 1.89,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548167"
+  },
+  {
+    "Obwod": 328,
+    "Total": 925,
+    "Kandydatka": 11,
+    "Procent": 1.19,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548168"
+  },
+  {
+    "Obwod": 329,
+    "Total": 1204,
+    "Kandydatka": 25,
+    "Procent": 2.08,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548169"
+  },
+  {
+    "Obwod": 330,
+    "Total": 1068,
+    "Kandydatka": 20,
+    "Procent": 1.87,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548170"
+  },
+  {
+    "Obwod": 331,
+    "Total": 1108,
+    "Kandydatka": 40,
+    "Procent": 3.61,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548171"
+  },
+  {
+    "Obwod": 332,
+    "Total": 1220,
+    "Kandydatka": 23,
+    "Procent": 1.89,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548172"
+  },
+  {
+    "Obwod": 333,
+    "Total": 904,
+    "Kandydatka": 14,
+    "Procent": 1.55,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548173"
+  },
+  {
+    "Obwod": 334,
+    "Total": 1047,
+    "Kandydatka": 27,
+    "Procent": 2.58,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548174"
+  },
+  {
+    "Obwod": 335,
+    "Total": 1211,
+    "Kandydatka": 21,
+    "Procent": 1.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548175"
+  },
+  {
+    "Obwod": 336,
+    "Total": 1003,
+    "Kandydatka": 59,
+    "Procent": 5.88,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548176"
+  },
+  {
+    "Obwod": 337,
+    "Total": 761,
+    "Kandydatka": 21,
+    "Procent": 2.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548177"
+  },
+  {
+    "Obwod": 338,
+    "Total": 978,
+    "Kandydatka": 20,
+    "Procent": 2.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548178"
+  },
+  {
+    "Obwod": 339,
+    "Total": 892,
+    "Kandydatka": 19,
+    "Procent": 2.13,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548179"
+  },
+  {
+    "Obwod": 340,
+    "Total": 1024,
+    "Kandydatka": 18,
+    "Procent": 1.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548180"
+  },
+  {
+    "Obwod": 341,
+    "Total": 786,
+    "Kandydatka": 15,
+    "Procent": 1.91,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548181"
+  },
+  {
+    "Obwod": 342,
+    "Total": 1301,
+    "Kandydatka": 32,
+    "Procent": 2.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548182"
+  },
+  {
+    "Obwod": 343,
+    "Total": 1104,
+    "Kandydatka": 13,
+    "Procent": 1.18,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548183"
+  },
+  {
+    "Obwod": 344,
+    "Total": 763,
+    "Kandydatka": 19,
+    "Procent": 2.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548184"
+  },
+  {
+    "Obwod": 345,
+    "Total": 1058,
+    "Kandydatka": 21,
+    "Procent": 1.98,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548185"
+  },
+  {
+    "Obwod": 346,
+    "Total": 1076,
+    "Kandydatka": 23,
+    "Procent": 2.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548186"
+  },
+  {
+    "Obwod": 347,
+    "Total": 867,
+    "Kandydatka": 23,
+    "Procent": 2.65,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548187"
+  },
+  {
+    "Obwod": 348,
+    "Total": 860,
+    "Kandydatka": 13,
+    "Procent": 1.51,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548188"
+  },
+  {
+    "Obwod": 349,
+    "Total": 1424,
+    "Kandydatka": 28,
+    "Procent": 1.97,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548189"
+  },
+  {
+    "Obwod": 350,
+    "Total": 774,
+    "Kandydatka": 24,
+    "Procent": 3.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548190"
+  },
+  {
+    "Obwod": 351,
+    "Total": 857,
+    "Kandydatka": 12,
+    "Procent": 1.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548191"
+  },
+  {
+    "Obwod": 352,
+    "Total": 1000,
+    "Kandydatka": 36,
+    "Procent": 3.6,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548192"
+  },
+  {
+    "Obwod": 353,
+    "Total": 687,
+    "Kandydatka": 13,
+    "Procent": 1.89,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548193"
+  },
+  {
+    "Obwod": 354,
+    "Total": 893,
+    "Kandydatka": 29,
+    "Procent": 3.25,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548194"
+  },
+  {
+    "Obwod": 355,
+    "Total": 1003,
+    "Kandydatka": 14,
+    "Procent": 1.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548195"
+  },
+  {
+    "Obwod": 356,
+    "Total": 765,
+    "Kandydatka": 12,
+    "Procent": 1.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548196"
+  },
+  {
+    "Obwod": 357,
+    "Total": 747,
+    "Kandydatka": 16,
+    "Procent": 2.14,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548197"
+  },
+  {
+    "Obwod": 358,
+    "Total": 859,
+    "Kandydatka": 22,
+    "Procent": 2.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548198"
+  },
+  {
+    "Obwod": 359,
+    "Total": 814,
+    "Kandydatka": 20,
+    "Procent": 2.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548199"
+  },
+  {
+    "Obwod": 360,
+    "Total": 1075,
+    "Kandydatka": 33,
+    "Procent": 3.07,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548200"
+  },
+  {
+    "Obwod": 361,
+    "Total": 1032,
+    "Kandydatka": 27,
+    "Procent": 2.62,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548201"
+  },
+  {
+    "Obwod": 362,
+    "Total": 998,
+    "Kandydatka": 14,
+    "Procent": 1.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548202"
+  },
+  {
+    "Obwod": 363,
+    "Total": 982,
+    "Kandydatka": 14,
+    "Procent": 1.43,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548203"
+  },
+  {
+    "Obwod": 364,
+    "Total": 998,
+    "Kandydatka": 18,
+    "Procent": 1.8,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548204"
+  },
+  {
+    "Obwod": 365,
+    "Total": 1014,
+    "Kandydatka": 30,
+    "Procent": 2.96,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548205"
+  },
+  {
+    "Obwod": 366,
+    "Total": 796,
+    "Kandydatka": 18,
+    "Procent": 2.26,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548206"
+  },
+  {
+    "Obwod": 367,
+    "Total": 1219,
+    "Kandydatka": 10,
+    "Procent": 0.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548207"
+  },
+  {
+    "Obwod": 368,
+    "Total": 1459,
+    "Kandydatka": 16,
+    "Procent": 1.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548208"
+  },
+  {
+    "Obwod": 369,
+    "Total": 465,
+    "Kandydatka": 6,
+    "Procent": 1.29,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548209"
+  },
+  {
+    "Obwod": 370,
+    "Total": 489,
+    "Kandydatka": 10,
+    "Procent": 2.04,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548210"
+  },
+  {
+    "Obwod": 371,
+    "Total": 863,
+    "Kandydatka": 24,
+    "Procent": 2.78,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548211"
+  },
+  {
+    "Obwod": 372,
+    "Total": 567,
+    "Kandydatka": 19,
+    "Procent": 3.35,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548212"
+  },
+  {
+    "Obwod": 373,
+    "Total": 439,
+    "Kandydatka": 12,
+    "Procent": 2.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548213"
+  },
+  {
+    "Obwod": 374,
+    "Total": 1119,
+    "Kandydatka": 45,
+    "Procent": 4.02,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548214"
+  },
+  {
+    "Obwod": 375,
+    "Total": 800,
+    "Kandydatka": 19,
+    "Procent": 2.38,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548215"
+  },
+  {
+    "Obwod": 376,
+    "Total": 994,
+    "Kandydatka": 28,
+    "Procent": 2.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548216"
+  },
+  {
+    "Obwod": 377,
+    "Total": 544,
+    "Kandydatka": 17,
+    "Procent": 3.13,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548217"
+  },
+  {
+    "Obwod": 378,
+    "Total": 659,
+    "Kandydatka": 12,
+    "Procent": 1.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548218"
+  },
+  {
+    "Obwod": 379,
+    "Total": 604,
+    "Kandydatka": 20,
+    "Procent": 3.31,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548219"
+  },
+  {
+    "Obwod": 380,
+    "Total": 701,
+    "Kandydatka": 20,
+    "Procent": 2.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548220"
+  },
+  {
+    "Obwod": 381,
+    "Total": 876,
+    "Kandydatka": 34,
+    "Procent": 3.88,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548221"
+  },
+  {
+    "Obwod": 382,
+    "Total": 561,
+    "Kandydatka": 25,
+    "Procent": 4.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548222"
+  },
+  {
+    "Obwod": 383,
+    "Total": 792,
+    "Kandydatka": 12,
+    "Procent": 1.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548223"
+  },
+  {
+    "Obwod": 384,
+    "Total": 675,
+    "Kandydatka": 20,
+    "Procent": 2.96,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548224"
+  },
+  {
+    "Obwod": 385,
+    "Total": 957,
+    "Kandydatka": 16,
+    "Procent": 1.67,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548225"
+  },
+  {
+    "Obwod": 386,
+    "Total": 969,
+    "Kandydatka": 30,
+    "Procent": 3.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548226"
+  },
+  {
+    "Obwod": 387,
+    "Total": 636,
+    "Kandydatka": 19,
+    "Procent": 2.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548227"
+  },
+  {
+    "Obwod": 388,
+    "Total": 749,
+    "Kandydatka": 24,
+    "Procent": 3.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548228"
+  },
+  {
+    "Obwod": 389,
+    "Total": 819,
+    "Kandydatka": 26,
+    "Procent": 3.17,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548229"
+  },
+  {
+    "Obwod": 390,
+    "Total": 837,
+    "Kandydatka": 30,
+    "Procent": 3.58,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548230"
+  },
+  {
+    "Obwod": 391,
+    "Total": 1111,
+    "Kandydatka": 48,
+    "Procent": 4.32,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548231"
+  },
+  {
+    "Obwod": 392,
+    "Total": 706,
+    "Kandydatka": 25,
+    "Procent": 3.54,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548232"
+  },
+  {
+    "Obwod": 393,
+    "Total": 935,
+    "Kandydatka": 36,
+    "Procent": 3.85,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548233"
+  },
+  {
+    "Obwod": 394,
+    "Total": 937,
+    "Kandydatka": 24,
+    "Procent": 2.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548234"
+  },
+  {
+    "Obwod": 395,
+    "Total": 782,
+    "Kandydatka": 37,
+    "Procent": 4.73,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548235"
+  },
+  {
+    "Obwod": 396,
+    "Total": 858,
+    "Kandydatka": 37,
+    "Procent": 4.31,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548236"
+  },
+  {
+    "Obwod": 397,
+    "Total": 666,
+    "Kandydatka": 8,
+    "Procent": 1.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548237"
+  },
+  {
+    "Obwod": 398,
+    "Total": 580,
+    "Kandydatka": 17,
+    "Procent": 2.93,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548238"
+  },
+  {
+    "Obwod": 399,
+    "Total": 950,
+    "Kandydatka": 42,
+    "Procent": 4.42,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548239"
+  },
+  {
+    "Obwod": 400,
+    "Total": 1139,
+    "Kandydatka": 19,
+    "Procent": 1.67,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548240"
+  },
+  {
+    "Obwod": 401,
+    "Total": 162,
+    "Kandydatka": 4,
+    "Procent": 2.47,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548241"
+  },
+  {
+    "Obwod": 402,
+    "Total": 500,
+    "Kandydatka": 6,
+    "Procent": 1.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548242"
+  },
+  {
+    "Obwod": 403,
+    "Total": 806,
+    "Kandydatka": 5,
+    "Procent": 0.62,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548243"
+  },
+  {
+    "Obwod": 404,
+    "Total": 829,
+    "Kandydatka": 9,
+    "Procent": 1.09,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548244"
+  },
+  {
+    "Obwod": 405,
+    "Total": 620,
+    "Kandydatka": 3,
+    "Procent": 0.48,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/548245"
+  },
+  {
+    "Obwod": 406,
+    "Total": 66,
+    "Kandydatka": 1,
+    "Procent": 1.52,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564589"
+  },
+  {
+    "Obwod": 407,
+    "Total": 26,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564590"
+  },
+  {
+    "Obwod": 408,
+    "Total": 93,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564591"
+  },
+  {
+    "Obwod": 409,
+    "Total": 84,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564592"
+  },
+  {
+    "Obwod": 410,
+    "Total": 125,
+    "Kandydatka": 3,
+    "Procent": 2.4,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564593"
+  },
+  {
+    "Obwod": 411,
+    "Total": 9,
+    "Kandydatka": 1,
+    "Procent": 11.11,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564594"
+  },
+  {
+    "Obwod": 412,
+    "Total": 130,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564595"
+  },
+  {
+    "Obwod": 413,
+    "Total": 406,
+    "Kandydatka": 2,
+    "Procent": 0.49,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564596"
+  },
+  {
+    "Obwod": 414,
+    "Total": 18,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564597"
+  },
+  {
+    "Obwod": 415,
+    "Total": 120,
+    "Kandydatka": 1,
+    "Procent": 0.83,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564598"
+  },
+  {
+    "Obwod": 416,
+    "Total": 143,
+    "Kandydatka": 3,
+    "Procent": 2.1,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564599"
+  },
+  {
+    "Obwod": 417,
+    "Total": 132,
+    "Kandydatka": 1,
+    "Procent": 0.76,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564600"
+  },
+  {
+    "Obwod": 418,
+    "Total": 24,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564601"
+  },
+  {
+    "Obwod": 419,
+    "Total": 16,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564602"
+  },
+  {
+    "Obwod": 420,
+    "Total": 168,
+    "Kandydatka": 3,
+    "Procent": 1.79,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564603"
+  },
+  {
+    "Obwod": 421,
+    "Total": 113,
+    "Kandydatka": 1,
+    "Procent": 0.88,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564604"
+  },
+  {
+    "Obwod": 422,
+    "Total": 47,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564605"
+  },
+  {
+    "Obwod": 423,
+    "Total": 19,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564606"
+  },
+  {
+    "Obwod": 424,
+    "Total": 101,
+    "Kandydatka": 1,
+    "Procent": 0.99,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564607"
+  },
+  {
+    "Obwod": 425,
+    "Total": 42,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564608"
+  },
+  {
+    "Obwod": 426,
+    "Total": 144,
+    "Kandydatka": 17,
+    "Procent": 11.81,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564609"
+  },
+  {
+    "Obwod": 427,
+    "Total": 810,
+    "Kandydatka": 45,
+    "Procent": 5.56,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564610"
+  },
+  {
+    "Obwod": 428,
+    "Total": 55,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564611"
+  },
+  {
+    "Obwod": 429,
+    "Total": 63,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564612"
+  },
+  {
+    "Obwod": 430,
+    "Total": 39,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564614"
+  },
+  {
+    "Obwod": 431,
+    "Total": 55,
+    "Kandydatka": 1,
+    "Procent": 1.82,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564615"
+  },
+  {
+    "Obwod": 432,
+    "Total": 36,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564616"
+  },
+  {
+    "Obwod": 433,
+    "Total": 28,
+    "Kandydatka": 1,
+    "Procent": 3.57,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564617"
+  },
+  {
+    "Obwod": 434,
+    "Total": 276,
+    "Kandydatka": 1,
+    "Procent": 0.36,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564618"
+  },
+  {
+    "Obwod": 435,
+    "Total": 50,
+    "Kandydatka": 1,
+    "Procent": 2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564619"
+  },
+  {
+    "Obwod": 436,
+    "Total": 30,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564620"
+  },
+  {
+    "Obwod": 437,
+    "Total": 73,
+    "Kandydatka": 1,
+    "Procent": 1.37,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564621"
+  },
+  {
+    "Obwod": 438,
+    "Total": 19,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564622"
+  },
+  {
+    "Obwod": 439,
+    "Total": 57,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564623"
+  },
+  {
+    "Obwod": 440,
+    "Total": 74,
+    "Kandydatka": 1,
+    "Procent": 1.35,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564624"
+  },
+  {
+    "Obwod": 441,
+    "Total": 39,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564625"
+  },
+  {
+    "Obwod": 442,
+    "Total": 112,
+    "Kandydatka": 1,
+    "Procent": 0.89,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564626"
+  },
+  {
+    "Obwod": 443,
+    "Total": 102,
+    "Kandydatka": 1,
+    "Procent": 0.98,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564627"
+  },
+  {
+    "Obwod": 444,
+    "Total": 167,
+    "Kandydatka": 2,
+    "Procent": 1.2,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564628"
+  },
+  {
+    "Obwod": 445,
+    "Total": 22,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564629"
+  },
+  {
+    "Obwod": 446,
+    "Total": 22,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564630"
+  },
+  {
+    "Obwod": 447,
+    "Total": 23,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564631"
+  },
+  {
+    "Obwod": 448,
+    "Total": 82,
+    "Kandydatka": 1,
+    "Procent": 1.22,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564632"
+  },
+  {
+    "Obwod": 449,
+    "Total": 122,
+    "Kandydatka": 3,
+    "Procent": 2.46,
+    "url": "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/wyniki/protokol/sejm/564633"
+  }
+]

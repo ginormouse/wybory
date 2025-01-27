@@ -59,14 +59,14 @@ var layerControl = L.control
   .addTo(map);
 
 const colorPalette = [
-  "rgb(64,64,64)",
-  "rgb(134,134,134)",
-  "rgb(196,196,196)",
-  "rgb(235,235,235)",
-  "rgb(252,229,219)",
-  "rgb(246,178,148)",
-  "rgb(226,94,88)",
-  "rgb(202,0,32)",
+  "rgb(255,247,243)",
+  "rgb(253,224,221)",
+  "rgb(252,197,192)",
+  "rgb(250,159,181)",
+  "rgb(247,104,161)",
+  "rgb(221,52,151)",
+  "rgb(174,1,126)",
+  "rgb(122,1,119)",
 ];
 const districtPalette = colorPalette.slice(3);
 const stdDevRanges = [
@@ -185,7 +185,7 @@ function addElectionLayer({
       return {
         weight: 1,
         color: "#333",
-        fillOpacity: 0.65,
+        fillOpacity: 0.75,
         fillColor: colors[ind],
       };
     },

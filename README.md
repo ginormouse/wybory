@@ -8,3 +8,6 @@ Webowy interfejs: scalanie kształtów, upraszczanie, usuwanie - operuje na .geo
 
 Dostępny także jako npm package.
 
+https://colorbrewer2.org/
+
+Wybór dobrej palety kolorów dla mapy.

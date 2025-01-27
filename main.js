@@ -52,7 +52,7 @@ const layers = {
 };
 var layerControl = L.control
   .layers(
-    { "Dzielnice ": layers.districts, "Obwody ": layers.circuits },
+    { "Dzielnice ": layers.districts, "Obwody 2025": layers.circuits },
     { "Okręg 33": layers.constituency33 },
     { collapsed: false }
   )
@@ -84,7 +84,7 @@ loadAll();
 async function loadAll() {
   const [electionsLayers, districtMapping] = await Promise.all([
     loadJson("data/wybory.json"),
-    loadJson("data/ObwodyDzielnice.json"),
+    loadJson("data/ObwodyDzielnice2025.json"),
   ]);
   const electionsPromises = Object.entries(electionsLayers).map(
     async ([electionName, fileName]) => {
@@ -95,11 +95,15 @@ async function loadAll() {
   const [districts, circuits, constituency33, ...elections] = await Promise.all(
     [
       loadJson("geo/dzielnice.geojson"),
-      loadJson("geo/obwody.geojson"),
+      loadJson("geo/obwody2025.geojson"),
       loadJson("geo/okreg33.geojson"),
       ...electionsPromises,
     ]
   );
+  // Add numerical `Obwod` property.
+  circuits.features.forEach((f) => {
+    f.properties.Obwod = Number(f.properties.Nr_obszaru);
+  });
   layers.districts.addData(districts);
   layers.circuits.addData(circuits);
   layers.constituency33.addData(constituency33);
@@ -171,7 +175,7 @@ function addElectionLayer({
   colors, // n
   labels, // n
   boundaries, // n+1
-  getData, // returns object with `Procent` for feature, passed to popup
+  getData, // returns object with `Procent` for feature, passed as context to popup.
   popup,
   name,
 }) {
@@ -248,10 +252,6 @@ function circuitPopup({ properties: p }, layer) {
   const content = `
 <h3>Obwód ${p.Obwod}</h3>
 <h4>${p.Dzielnica}</h4>
-<h4>Granice</h4>
-${p.Granice}
-<h4>Siedziba</h4>
-${p.Siedziba}
 `;
   layer.bindPopup(content);
 }

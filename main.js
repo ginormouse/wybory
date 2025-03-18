@@ -180,17 +180,21 @@ function addElectionLayer({
   name,
 }) {
   const layer = L.geoJSON(geo, {
-    onEachFeature: (feature, layer) =>
-      popup(feature.properties, getData(feature), layer),
+    onEachFeature: (feature, layer) => {
+      if (getData(feature)) popup(feature.properties, getData(feature), layer);
+    },
     style: (feature) => {
-      const value = getData(feature).Procent;
+      const data = getData(feature);
+      const value = data?.Procent ?? 0;
       let ind = boundaries.findIndex((i) => value <= i) - 1;
       ind = Math.max(0, ind);
+      const fillColor = colors[ind];
+      // If there's no data for feature, paint it "invisible"
       return {
-        weight: 1,
+        weight: data ? 1 : 0,
         color: "#333",
-        fillOpacity: 0.75,
-        fillColor: colors[ind],
+        fillOpacity: data ? 0.75 : 0,
+        fillColor,
       };
     },
   });

@@ -1,0 +1,3194 @@
+[
+  {
+    "Obwod": 1,
+    "Total": 1315,
+    "Kandydatka": 220,
+    "Procent": 16.73,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415281"
+  },
+  {
+    "Obwod": 2,
+    "Total": 929,
+    "Kandydatka": 138,
+    "Procent": 14.85,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415282"
+  },
+  {
+    "Obwod": 3,
+    "Total": 1026,
+    "Kandydatka": 155,
+    "Procent": 15.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415283"
+  },
+  {
+    "Obwod": 4,
+    "Total": 911,
+    "Kandydatka": 122,
+    "Procent": 13.39,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415284"
+  },
+  {
+    "Obwod": 5,
+    "Total": 746,
+    "Kandydatka": 103,
+    "Procent": 13.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415285"
+  },
+  {
+    "Obwod": 6,
+    "Total": 946,
+    "Kandydatka": 82,
+    "Procent": 8.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415286"
+  },
+  {
+    "Obwod": 7,
+    "Total": 1022,
+    "Kandydatka": 158,
+    "Procent": 15.46,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415287"
+  },
+  {
+    "Obwod": 8,
+    "Total": 730,
+    "Kandydatka": 107,
+    "Procent": 14.66,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415288"
+  },
+  {
+    "Obwod": 9,
+    "Total": 1050,
+    "Kandydatka": 121,
+    "Procent": 11.52,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415289"
+  },
+  {
+    "Obwod": 10,
+    "Total": 912,
+    "Kandydatka": 88,
+    "Procent": 9.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415290"
+  },
+  {
+    "Obwod": 11,
+    "Total": 546,
+    "Kandydatka": 64,
+    "Procent": 11.72,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415291"
+  },
+  {
+    "Obwod": 12,
+    "Total": 1311,
+    "Kandydatka": 173,
+    "Procent": 13.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415292"
+  },
+  {
+    "Obwod": 13,
+    "Total": 407,
+    "Kandydatka": 61,
+    "Procent": 14.99,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415293"
+  },
+  {
+    "Obwod": 14,
+    "Total": 683,
+    "Kandydatka": 83,
+    "Procent": 12.15,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415294"
+  },
+  {
+    "Obwod": 15,
+    "Total": 990,
+    "Kandydatka": 168,
+    "Procent": 16.97,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415295"
+  },
+  {
+    "Obwod": 16,
+    "Total": 627,
+    "Kandydatka": 107,
+    "Procent": 17.07,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415296"
+  },
+  {
+    "Obwod": 17,
+    "Total": 1000,
+    "Kandydatka": 135,
+    "Procent": 13.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415297"
+  },
+  {
+    "Obwod": 18,
+    "Total": 752,
+    "Kandydatka": 96,
+    "Procent": 12.77,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415298"
+  },
+  {
+    "Obwod": 19,
+    "Total": 884,
+    "Kandydatka": 129,
+    "Procent": 14.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415299"
+  },
+  {
+    "Obwod": 20,
+    "Total": 553,
+    "Kandydatka": 107,
+    "Procent": 19.35,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415300"
+  },
+  {
+    "Obwod": 21,
+    "Total": 1289,
+    "Kandydatka": 210,
+    "Procent": 16.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415301"
+  },
+  {
+    "Obwod": 22,
+    "Total": 1414,
+    "Kandydatka": 212,
+    "Procent": 14.99,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415302"
+  },
+  {
+    "Obwod": 23,
+    "Total": 768,
+    "Kandydatka": 156,
+    "Procent": 20.31,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415303"
+  },
+  {
+    "Obwod": 24,
+    "Total": 1013,
+    "Kandydatka": 110,
+    "Procent": 10.86,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415304"
+  },
+  {
+    "Obwod": 25,
+    "Total": 759,
+    "Kandydatka": 69,
+    "Procent": 9.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415305"
+  },
+  {
+    "Obwod": 26,
+    "Total": 1312,
+    "Kandydatka": 204,
+    "Procent": 15.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415306"
+  },
+  {
+    "Obwod": 27,
+    "Total": 880,
+    "Kandydatka": 111,
+    "Procent": 12.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415307"
+  },
+  {
+    "Obwod": 28,
+    "Total": 957,
+    "Kandydatka": 116,
+    "Procent": 12.12,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415308"
+  },
+  {
+    "Obwod": 29,
+    "Total": 840,
+    "Kandydatka": 123,
+    "Procent": 14.64,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415309"
+  },
+  {
+    "Obwod": 30,
+    "Total": 2225,
+    "Kandydatka": 315,
+    "Procent": 14.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415310"
+  },
+  {
+    "Obwod": 31,
+    "Total": 1803,
+    "Kandydatka": 231,
+    "Procent": 12.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415311"
+  },
+  {
+    "Obwod": 32,
+    "Total": 1333,
+    "Kandydatka": 206,
+    "Procent": 15.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415312"
+  },
+  {
+    "Obwod": 33,
+    "Total": 1600,
+    "Kandydatka": 241,
+    "Procent": 15.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415313"
+  },
+  {
+    "Obwod": 34,
+    "Total": 784,
+    "Kandydatka": 107,
+    "Procent": 13.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415314"
+  },
+  {
+    "Obwod": 35,
+    "Total": 870,
+    "Kandydatka": 129,
+    "Procent": 14.83,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415315"
+  },
+  {
+    "Obwod": 36,
+    "Total": 867,
+    "Kandydatka": 130,
+    "Procent": 14.99,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415316"
+  },
+  {
+    "Obwod": 37,
+    "Total": 939,
+    "Kandydatka": 124,
+    "Procent": 13.21,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415317"
+  },
+  {
+    "Obwod": 38,
+    "Total": 1320,
+    "Kandydatka": 187,
+    "Procent": 14.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415318"
+  },
+  {
+    "Obwod": 39,
+    "Total": 757,
+    "Kandydatka": 64,
+    "Procent": 8.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415319"
+  },
+  {
+    "Obwod": 40,
+    "Total": 1266,
+    "Kandydatka": 189,
+    "Procent": 14.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415320"
+  },
+  {
+    "Obwod": 41,
+    "Total": 1822,
+    "Kandydatka": 251,
+    "Procent": 13.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415321"
+  },
+  {
+    "Obwod": 42,
+    "Total": 1637,
+    "Kandydatka": 310,
+    "Procent": 18.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415322"
+  },
+  {
+    "Obwod": 43,
+    "Total": 1431,
+    "Kandydatka": 212,
+    "Procent": 14.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415323"
+  },
+  {
+    "Obwod": 44,
+    "Total": 753,
+    "Kandydatka": 74,
+    "Procent": 9.83,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415324"
+  },
+  {
+    "Obwod": 45,
+    "Total": 712,
+    "Kandydatka": 90,
+    "Procent": 12.64,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415325"
+  },
+  {
+    "Obwod": 46,
+    "Total": 883,
+    "Kandydatka": 86,
+    "Procent": 9.74,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415326"
+  },
+  {
+    "Obwod": 47,
+    "Total": 816,
+    "Kandydatka": 90,
+    "Procent": 11.03,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415327"
+  },
+  {
+    "Obwod": 48,
+    "Total": 1398,
+    "Kandydatka": 155,
+    "Procent": 11.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415328"
+  },
+  {
+    "Obwod": 49,
+    "Total": 1000,
+    "Kandydatka": 100,
+    "Procent": 10,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415329"
+  },
+  {
+    "Obwod": 50,
+    "Total": 1012,
+    "Kandydatka": 127,
+    "Procent": 12.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415330"
+  },
+  {
+    "Obwod": 51,
+    "Total": 758,
+    "Kandydatka": 98,
+    "Procent": 12.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415331"
+  },
+  {
+    "Obwod": 52,
+    "Total": 710,
+    "Kandydatka": 63,
+    "Procent": 8.87,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415332"
+  },
+  {
+    "Obwod": 53,
+    "Total": 1196,
+    "Kandydatka": 117,
+    "Procent": 9.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415333"
+  },
+  {
+    "Obwod": 54,
+    "Total": 961,
+    "Kandydatka": 113,
+    "Procent": 11.76,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415334"
+  },
+  {
+    "Obwod": 55,
+    "Total": 759,
+    "Kandydatka": 60,
+    "Procent": 7.91,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415335"
+  },
+  {
+    "Obwod": 56,
+    "Total": 1599,
+    "Kandydatka": 183,
+    "Procent": 11.44,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415336"
+  },
+  {
+    "Obwod": 57,
+    "Total": 1693,
+    "Kandydatka": 210,
+    "Procent": 12.4,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415337"
+  },
+  {
+    "Obwod": 58,
+    "Total": 1503,
+    "Kandydatka": 136,
+    "Procent": 9.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415338"
+  },
+  {
+    "Obwod": 59,
+    "Total": 1103,
+    "Kandydatka": 65,
+    "Procent": 5.89,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415339"
+  },
+  {
+    "Obwod": 60,
+    "Total": 1399,
+    "Kandydatka": 112,
+    "Procent": 8.01,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415340"
+  },
+  {
+    "Obwod": 61,
+    "Total": 1186,
+    "Kandydatka": 108,
+    "Procent": 9.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415341"
+  },
+  {
+    "Obwod": 62,
+    "Total": 995,
+    "Kandydatka": 73,
+    "Procent": 7.34,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415342"
+  },
+  {
+    "Obwod": 63,
+    "Total": 1008,
+    "Kandydatka": 105,
+    "Procent": 10.42,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415343"
+  },
+  {
+    "Obwod": 64,
+    "Total": 1169,
+    "Kandydatka": 120,
+    "Procent": 10.27,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415344"
+  },
+  {
+    "Obwod": 65,
+    "Total": 981,
+    "Kandydatka": 129,
+    "Procent": 13.15,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415345"
+  },
+  {
+    "Obwod": 66,
+    "Total": 1225,
+    "Kandydatka": 219,
+    "Procent": 17.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415346"
+  },
+  {
+    "Obwod": 67,
+    "Total": 1185,
+    "Kandydatka": 113,
+    "Procent": 9.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415347"
+  },
+  {
+    "Obwod": 68,
+    "Total": 874,
+    "Kandydatka": 116,
+    "Procent": 13.27,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415348"
+  },
+  {
+    "Obwod": 69,
+    "Total": 1851,
+    "Kandydatka": 238,
+    "Procent": 12.86,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415349"
+  },
+  {
+    "Obwod": 70,
+    "Total": 1209,
+    "Kandydatka": 135,
+    "Procent": 11.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415350"
+  },
+  {
+    "Obwod": 71,
+    "Total": 1028,
+    "Kandydatka": 142,
+    "Procent": 13.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415351"
+  },
+  {
+    "Obwod": 72,
+    "Total": 1777,
+    "Kandydatka": 239,
+    "Procent": 13.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415352"
+  },
+  {
+    "Obwod": 73,
+    "Total": 1796,
+    "Kandydatka": 201,
+    "Procent": 11.19,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415353"
+  },
+  {
+    "Obwod": 74,
+    "Total": 1832,
+    "Kandydatka": 216,
+    "Procent": 11.79,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415354"
+  },
+  {
+    "Obwod": 75,
+    "Total": 1373,
+    "Kandydatka": 176,
+    "Procent": 12.82,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415355"
+  },
+  {
+    "Obwod": 76,
+    "Total": 1169,
+    "Kandydatka": 91,
+    "Procent": 7.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415356"
+  },
+  {
+    "Obwod": 77,
+    "Total": 1438,
+    "Kandydatka": 184,
+    "Procent": 12.8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415357"
+  },
+  {
+    "Obwod": 78,
+    "Total": 750,
+    "Kandydatka": 74,
+    "Procent": 9.87,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415358"
+  },
+  {
+    "Obwod": 79,
+    "Total": 1150,
+    "Kandydatka": 105,
+    "Procent": 9.13,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415359"
+  },
+  {
+    "Obwod": 80,
+    "Total": 1200,
+    "Kandydatka": 84,
+    "Procent": 7,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415360"
+  },
+  {
+    "Obwod": 81,
+    "Total": 2039,
+    "Kandydatka": 367,
+    "Procent": 18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415361"
+  },
+  {
+    "Obwod": 82,
+    "Total": 1091,
+    "Kandydatka": 137,
+    "Procent": 12.56,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415362"
+  },
+  {
+    "Obwod": 83,
+    "Total": 1206,
+    "Kandydatka": 188,
+    "Procent": 15.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415363"
+  },
+  {
+    "Obwod": 84,
+    "Total": 1624,
+    "Kandydatka": 268,
+    "Procent": 16.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415364"
+  },
+  {
+    "Obwod": 85,
+    "Total": 1263,
+    "Kandydatka": 206,
+    "Procent": 16.31,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415365"
+  },
+  {
+    "Obwod": 86,
+    "Total": 870,
+    "Kandydatka": 82,
+    "Procent": 9.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415366"
+  },
+  {
+    "Obwod": 87,
+    "Total": 1420,
+    "Kandydatka": 177,
+    "Procent": 12.46,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415367"
+  },
+  {
+    "Obwod": 88,
+    "Total": 962,
+    "Kandydatka": 111,
+    "Procent": 11.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415368"
+  },
+  {
+    "Obwod": 89,
+    "Total": 1496,
+    "Kandydatka": 183,
+    "Procent": 12.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415369"
+  },
+  {
+    "Obwod": 90,
+    "Total": 1475,
+    "Kandydatka": 173,
+    "Procent": 11.73,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415370"
+  },
+  {
+    "Obwod": 91,
+    "Total": 1585,
+    "Kandydatka": 254,
+    "Procent": 16.03,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415371"
+  },
+  {
+    "Obwod": 92,
+    "Total": 1350,
+    "Kandydatka": 143,
+    "Procent": 10.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415372"
+  },
+  {
+    "Obwod": 93,
+    "Total": 997,
+    "Kandydatka": 93,
+    "Procent": 9.33,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415373"
+  },
+  {
+    "Obwod": 94,
+    "Total": 1710,
+    "Kandydatka": 118,
+    "Procent": 6.9,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415374"
+  },
+  {
+    "Obwod": 95,
+    "Total": 1569,
+    "Kandydatka": 163,
+    "Procent": 10.39,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415375"
+  },
+  {
+    "Obwod": 96,
+    "Total": 1931,
+    "Kandydatka": 190,
+    "Procent": 9.84,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415376"
+  },
+  {
+    "Obwod": 97,
+    "Total": 1249,
+    "Kandydatka": 169,
+    "Procent": 13.53,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415377"
+  },
+  {
+    "Obwod": 98,
+    "Total": 1143,
+    "Kandydatka": 195,
+    "Procent": 17.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415378"
+  },
+  {
+    "Obwod": 99,
+    "Total": 962,
+    "Kandydatka": 108,
+    "Procent": 11.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415379"
+  },
+  {
+    "Obwod": 100,
+    "Total": 737,
+    "Kandydatka": 94,
+    "Procent": 12.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415380"
+  },
+  {
+    "Obwod": 101,
+    "Total": 912,
+    "Kandydatka": 113,
+    "Procent": 12.39,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415381"
+  },
+  {
+    "Obwod": 102,
+    "Total": 1120,
+    "Kandydatka": 127,
+    "Procent": 11.34,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415382"
+  },
+  {
+    "Obwod": 103,
+    "Total": 1056,
+    "Kandydatka": 97,
+    "Procent": 9.19,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415383"
+  },
+  {
+    "Obwod": 104,
+    "Total": 1304,
+    "Kandydatka": 141,
+    "Procent": 10.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415384"
+  },
+  {
+    "Obwod": 105,
+    "Total": 1412,
+    "Kandydatka": 198,
+    "Procent": 14.02,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415385"
+  },
+  {
+    "Obwod": 106,
+    "Total": 1460,
+    "Kandydatka": 249,
+    "Procent": 17.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415386"
+  },
+  {
+    "Obwod": 107,
+    "Total": 1293,
+    "Kandydatka": 191,
+    "Procent": 14.77,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415387"
+  },
+  {
+    "Obwod": 108,
+    "Total": 1076,
+    "Kandydatka": 148,
+    "Procent": 13.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415388"
+  },
+  {
+    "Obwod": 109,
+    "Total": 980,
+    "Kandydatka": 143,
+    "Procent": 14.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415389"
+  },
+  {
+    "Obwod": 110,
+    "Total": 2497,
+    "Kandydatka": 545,
+    "Procent": 21.83,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415390"
+  },
+  {
+    "Obwod": 111,
+    "Total": 1212,
+    "Kandydatka": 181,
+    "Procent": 14.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415391"
+  },
+  {
+    "Obwod": 112,
+    "Total": 1152,
+    "Kandydatka": 228,
+    "Procent": 19.79,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415392"
+  },
+  {
+    "Obwod": 113,
+    "Total": 1188,
+    "Kandydatka": 149,
+    "Procent": 12.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415393"
+  },
+  {
+    "Obwod": 114,
+    "Total": 1150,
+    "Kandydatka": 212,
+    "Procent": 18.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415394"
+  },
+  {
+    "Obwod": 115,
+    "Total": 1708,
+    "Kandydatka": 303,
+    "Procent": 17.74,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415395"
+  },
+  {
+    "Obwod": 116,
+    "Total": 547,
+    "Kandydatka": 109,
+    "Procent": 19.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415396"
+  },
+  {
+    "Obwod": 117,
+    "Total": 884,
+    "Kandydatka": 154,
+    "Procent": 17.42,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415397"
+  },
+  {
+    "Obwod": 118,
+    "Total": 1288,
+    "Kandydatka": 234,
+    "Procent": 18.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415398"
+  },
+  {
+    "Obwod": 119,
+    "Total": 1150,
+    "Kandydatka": 196,
+    "Procent": 17.04,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415399"
+  },
+  {
+    "Obwod": 120,
+    "Total": 986,
+    "Kandydatka": 161,
+    "Procent": 16.33,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415400"
+  },
+  {
+    "Obwod": 121,
+    "Total": 1460,
+    "Kandydatka": 468,
+    "Procent": 32.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415401"
+  },
+  {
+    "Obwod": 122,
+    "Total": 1329,
+    "Kandydatka": 247,
+    "Procent": 18.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415402"
+  },
+  {
+    "Obwod": 123,
+    "Total": 1304,
+    "Kandydatka": 207,
+    "Procent": 15.87,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415403"
+  },
+  {
+    "Obwod": 124,
+    "Total": 1405,
+    "Kandydatka": 297,
+    "Procent": 21.14,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415404"
+  },
+  {
+    "Obwod": 125,
+    "Total": 1250,
+    "Kandydatka": 195,
+    "Procent": 15.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415405"
+  },
+  {
+    "Obwod": 126,
+    "Total": 1085,
+    "Kandydatka": 161,
+    "Procent": 14.84,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415406"
+  },
+  {
+    "Obwod": 127,
+    "Total": 1571,
+    "Kandydatka": 254,
+    "Procent": 16.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415407"
+  },
+  {
+    "Obwod": 128,
+    "Total": 1179,
+    "Kandydatka": 154,
+    "Procent": 13.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415408"
+  },
+  {
+    "Obwod": 129,
+    "Total": 1789,
+    "Kandydatka": 315,
+    "Procent": 17.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415409"
+  },
+  {
+    "Obwod": 130,
+    "Total": 1356,
+    "Kandydatka": 152,
+    "Procent": 11.21,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415410"
+  },
+  {
+    "Obwod": 131,
+    "Total": 1535,
+    "Kandydatka": 132,
+    "Procent": 8.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415411"
+  },
+  {
+    "Obwod": 132,
+    "Total": 1384,
+    "Kandydatka": 152,
+    "Procent": 10.98,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415412"
+  },
+  {
+    "Obwod": 133,
+    "Total": 1115,
+    "Kandydatka": 133,
+    "Procent": 11.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415413"
+  },
+  {
+    "Obwod": 134,
+    "Total": 1157,
+    "Kandydatka": 92,
+    "Procent": 7.95,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415414"
+  },
+  {
+    "Obwod": 135,
+    "Total": 1387,
+    "Kandydatka": 233,
+    "Procent": 16.8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415415"
+  },
+  {
+    "Obwod": 136,
+    "Total": 1169,
+    "Kandydatka": 100,
+    "Procent": 8.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415416"
+  },
+  {
+    "Obwod": 137,
+    "Total": 848,
+    "Kandydatka": 76,
+    "Procent": 8.96,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415417"
+  },
+  {
+    "Obwod": 138,
+    "Total": 939,
+    "Kandydatka": 42,
+    "Procent": 4.47,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415418"
+  },
+  {
+    "Obwod": 139,
+    "Total": 1627,
+    "Kandydatka": 98,
+    "Procent": 6.02,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415419"
+  },
+  {
+    "Obwod": 140,
+    "Total": 1419,
+    "Kandydatka": 65,
+    "Procent": 4.58,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415420"
+  },
+  {
+    "Obwod": 141,
+    "Total": 739,
+    "Kandydatka": 45,
+    "Procent": 6.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415421"
+  },
+  {
+    "Obwod": 142,
+    "Total": 1447,
+    "Kandydatka": 93,
+    "Procent": 6.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415422"
+  },
+  {
+    "Obwod": 143,
+    "Total": 1395,
+    "Kandydatka": 99,
+    "Procent": 7.1,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415423"
+  },
+  {
+    "Obwod": 144,
+    "Total": 1012,
+    "Kandydatka": 72,
+    "Procent": 7.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415424"
+  },
+  {
+    "Obwod": 145,
+    "Total": 939,
+    "Kandydatka": 76,
+    "Procent": 8.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415425"
+  },
+  {
+    "Obwod": 146,
+    "Total": 1246,
+    "Kandydatka": 148,
+    "Procent": 11.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415426"
+  },
+  {
+    "Obwod": 147,
+    "Total": 1329,
+    "Kandydatka": 189,
+    "Procent": 14.22,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415427"
+  },
+  {
+    "Obwod": 148,
+    "Total": 1509,
+    "Kandydatka": 231,
+    "Procent": 15.31,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415428"
+  },
+  {
+    "Obwod": 149,
+    "Total": 921,
+    "Kandydatka": 135,
+    "Procent": 14.66,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415429"
+  },
+  {
+    "Obwod": 150,
+    "Total": 1048,
+    "Kandydatka": 138,
+    "Procent": 13.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415430"
+  },
+  {
+    "Obwod": 151,
+    "Total": 1282,
+    "Kandydatka": 206,
+    "Procent": 16.07,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415431"
+  },
+  {
+    "Obwod": 152,
+    "Total": 1065,
+    "Kandydatka": 113,
+    "Procent": 10.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415432"
+  },
+  {
+    "Obwod": 153,
+    "Total": 982,
+    "Kandydatka": 129,
+    "Procent": 13.14,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415433"
+  },
+  {
+    "Obwod": 154,
+    "Total": 1134,
+    "Kandydatka": 167,
+    "Procent": 14.73,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415434"
+  },
+  {
+    "Obwod": 155,
+    "Total": 1520,
+    "Kandydatka": 179,
+    "Procent": 11.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415435"
+  },
+  {
+    "Obwod": 156,
+    "Total": 1802,
+    "Kandydatka": 245,
+    "Procent": 13.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415436"
+  },
+  {
+    "Obwod": 157,
+    "Total": 685,
+    "Kandydatka": 48,
+    "Procent": 7.01,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415437"
+  },
+  {
+    "Obwod": 158,
+    "Total": 947,
+    "Kandydatka": 103,
+    "Procent": 10.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415438"
+  },
+  {
+    "Obwod": 159,
+    "Total": 949,
+    "Kandydatka": 76,
+    "Procent": 8.01,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415439"
+  },
+  {
+    "Obwod": 160,
+    "Total": 1356,
+    "Kandydatka": 67,
+    "Procent": 4.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415440"
+  },
+  {
+    "Obwod": 161,
+    "Total": 905,
+    "Kandydatka": 40,
+    "Procent": 4.42,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415441"
+  },
+  {
+    "Obwod": 162,
+    "Total": 850,
+    "Kandydatka": 28,
+    "Procent": 3.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415442"
+  },
+  {
+    "Obwod": 163,
+    "Total": 1213,
+    "Kandydatka": 72,
+    "Procent": 5.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415443"
+  },
+  {
+    "Obwod": 164,
+    "Total": 936,
+    "Kandydatka": 53,
+    "Procent": 5.66,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415444"
+  },
+  {
+    "Obwod": 165,
+    "Total": 1420,
+    "Kandydatka": 103,
+    "Procent": 7.25,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415445"
+  },
+  {
+    "Obwod": 166,
+    "Total": 1022,
+    "Kandydatka": 70,
+    "Procent": 6.85,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415446"
+  },
+  {
+    "Obwod": 167,
+    "Total": 776,
+    "Kandydatka": 45,
+    "Procent": 5.8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415447"
+  },
+  {
+    "Obwod": 168,
+    "Total": 1784,
+    "Kandydatka": 300,
+    "Procent": 16.82,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415448"
+  },
+  {
+    "Obwod": 169,
+    "Total": 1359,
+    "Kandydatka": 142,
+    "Procent": 10.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415449"
+  },
+  {
+    "Obwod": 170,
+    "Total": 1040,
+    "Kandydatka": 180,
+    "Procent": 17.31,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415450"
+  },
+  {
+    "Obwod": 171,
+    "Total": 1272,
+    "Kandydatka": 203,
+    "Procent": 15.96,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415451"
+  },
+  {
+    "Obwod": 172,
+    "Total": 1478,
+    "Kandydatka": 206,
+    "Procent": 13.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415452"
+  },
+  {
+    "Obwod": 173,
+    "Total": 1076,
+    "Kandydatka": 168,
+    "Procent": 15.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415453"
+  },
+  {
+    "Obwod": 174,
+    "Total": 1561,
+    "Kandydatka": 217,
+    "Procent": 13.9,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415454"
+  },
+  {
+    "Obwod": 175,
+    "Total": 1661,
+    "Kandydatka": 321,
+    "Procent": 19.33,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415455"
+  },
+  {
+    "Obwod": 176,
+    "Total": 1104,
+    "Kandydatka": 125,
+    "Procent": 11.32,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415456"
+  },
+  {
+    "Obwod": 177,
+    "Total": 1029,
+    "Kandydatka": 92,
+    "Procent": 8.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415457"
+  },
+  {
+    "Obwod": 178,
+    "Total": 860,
+    "Kandydatka": 93,
+    "Procent": 10.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415458"
+  },
+  {
+    "Obwod": 179,
+    "Total": 1602,
+    "Kandydatka": 226,
+    "Procent": 14.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415459"
+  },
+  {
+    "Obwod": 180,
+    "Total": 1026,
+    "Kandydatka": 123,
+    "Procent": 11.99,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415460"
+  },
+  {
+    "Obwod": 181,
+    "Total": 1122,
+    "Kandydatka": 136,
+    "Procent": 12.12,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415461"
+  },
+  {
+    "Obwod": 182,
+    "Total": 886,
+    "Kandydatka": 103,
+    "Procent": 11.63,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415462"
+  },
+  {
+    "Obwod": 183,
+    "Total": 1287,
+    "Kandydatka": 186,
+    "Procent": 14.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415463"
+  },
+  {
+    "Obwod": 184,
+    "Total": 1034,
+    "Kandydatka": 103,
+    "Procent": 9.96,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415464"
+  },
+  {
+    "Obwod": 185,
+    "Total": 924,
+    "Kandydatka": 93,
+    "Procent": 10.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415465"
+  },
+  {
+    "Obwod": 186,
+    "Total": 1014,
+    "Kandydatka": 97,
+    "Procent": 9.57,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415466"
+  },
+  {
+    "Obwod": 187,
+    "Total": 1626,
+    "Kandydatka": 188,
+    "Procent": 11.56,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415467"
+  },
+  {
+    "Obwod": 188,
+    "Total": 998,
+    "Kandydatka": 51,
+    "Procent": 5.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415468"
+  },
+  {
+    "Obwod": 189,
+    "Total": 445,
+    "Kandydatka": 22,
+    "Procent": 4.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415469"
+  },
+  {
+    "Obwod": 190,
+    "Total": 1306,
+    "Kandydatka": 136,
+    "Procent": 10.41,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415470"
+  },
+  {
+    "Obwod": 191,
+    "Total": 1298,
+    "Kandydatka": 127,
+    "Procent": 9.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415471"
+  },
+  {
+    "Obwod": 192,
+    "Total": 1299,
+    "Kandydatka": 129,
+    "Procent": 9.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415472"
+  },
+  {
+    "Obwod": 193,
+    "Total": 945,
+    "Kandydatka": 53,
+    "Procent": 5.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415473"
+  },
+  {
+    "Obwod": 194,
+    "Total": 1183,
+    "Kandydatka": 66,
+    "Procent": 5.58,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415474"
+  },
+  {
+    "Obwod": 195,
+    "Total": 1100,
+    "Kandydatka": 90,
+    "Procent": 8.18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415475"
+  },
+  {
+    "Obwod": 196,
+    "Total": 1448,
+    "Kandydatka": 122,
+    "Procent": 8.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415476"
+  },
+  {
+    "Obwod": 197,
+    "Total": 1849,
+    "Kandydatka": 193,
+    "Procent": 10.44,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415477"
+  },
+  {
+    "Obwod": 198,
+    "Total": 1690,
+    "Kandydatka": 111,
+    "Procent": 6.57,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415478"
+  },
+  {
+    "Obwod": 199,
+    "Total": 959,
+    "Kandydatka": 43,
+    "Procent": 4.48,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415479"
+  },
+  {
+    "Obwod": 200,
+    "Total": 1361,
+    "Kandydatka": 89,
+    "Procent": 6.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415480"
+  },
+  {
+    "Obwod": 201,
+    "Total": 1373,
+    "Kandydatka": 92,
+    "Procent": 6.7,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415481"
+  },
+  {
+    "Obwod": 202,
+    "Total": 1502,
+    "Kandydatka": 84,
+    "Procent": 5.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415482"
+  },
+  {
+    "Obwod": 203,
+    "Total": 1014,
+    "Kandydatka": 58,
+    "Procent": 5.72,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415483"
+  },
+  {
+    "Obwod": 204,
+    "Total": 831,
+    "Kandydatka": 44,
+    "Procent": 5.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415484"
+  },
+  {
+    "Obwod": 205,
+    "Total": 375,
+    "Kandydatka": 7,
+    "Procent": 1.87,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415485"
+  },
+  {
+    "Obwod": 206,
+    "Total": 770,
+    "Kandydatka": 33,
+    "Procent": 4.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415486"
+  },
+  {
+    "Obwod": 207,
+    "Total": 581,
+    "Kandydatka": 36,
+    "Procent": 6.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415487"
+  },
+  {
+    "Obwod": 208,
+    "Total": 593,
+    "Kandydatka": 29,
+    "Procent": 4.89,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415488"
+  },
+  {
+    "Obwod": 209,
+    "Total": 1341,
+    "Kandydatka": 89,
+    "Procent": 6.64,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415489"
+  },
+  {
+    "Obwod": 210,
+    "Total": 1153,
+    "Kandydatka": 71,
+    "Procent": 6.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415490"
+  },
+  {
+    "Obwod": 211,
+    "Total": 1534,
+    "Kandydatka": 149,
+    "Procent": 9.71,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415491"
+  },
+  {
+    "Obwod": 212,
+    "Total": 955,
+    "Kandydatka": 58,
+    "Procent": 6.07,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415492"
+  },
+  {
+    "Obwod": 213,
+    "Total": 1075,
+    "Kandydatka": 63,
+    "Procent": 5.86,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415493"
+  },
+  {
+    "Obwod": 214,
+    "Total": 1117,
+    "Kandydatka": 80,
+    "Procent": 7.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415494"
+  },
+  {
+    "Obwod": 215,
+    "Total": 1065,
+    "Kandydatka": 77,
+    "Procent": 7.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415495"
+  },
+  {
+    "Obwod": 216,
+    "Total": 1204,
+    "Kandydatka": 90,
+    "Procent": 7.48,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415496"
+  },
+  {
+    "Obwod": 217,
+    "Total": 1175,
+    "Kandydatka": 94,
+    "Procent": 8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415497"
+  },
+  {
+    "Obwod": 218,
+    "Total": 1184,
+    "Kandydatka": 117,
+    "Procent": 9.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415498"
+  },
+  {
+    "Obwod": 219,
+    "Total": 1278,
+    "Kandydatka": 177,
+    "Procent": 13.85,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415499"
+  },
+  {
+    "Obwod": 220,
+    "Total": 1132,
+    "Kandydatka": 77,
+    "Procent": 6.8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415500"
+  },
+  {
+    "Obwod": 221,
+    "Total": 1492,
+    "Kandydatka": 177,
+    "Procent": 11.86,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415501"
+  },
+  {
+    "Obwod": 222,
+    "Total": 1205,
+    "Kandydatka": 82,
+    "Procent": 6.8,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415502"
+  },
+  {
+    "Obwod": 223,
+    "Total": 1149,
+    "Kandydatka": 66,
+    "Procent": 5.74,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415503"
+  },
+  {
+    "Obwod": 224,
+    "Total": 1165,
+    "Kandydatka": 95,
+    "Procent": 8.15,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415504"
+  },
+  {
+    "Obwod": 225,
+    "Total": 1069,
+    "Kandydatka": 109,
+    "Procent": 10.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415505"
+  },
+  {
+    "Obwod": 226,
+    "Total": 831,
+    "Kandydatka": 98,
+    "Procent": 11.79,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415506"
+  },
+  {
+    "Obwod": 227,
+    "Total": 1071,
+    "Kandydatka": 59,
+    "Procent": 5.51,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415507"
+  },
+  {
+    "Obwod": 228,
+    "Total": 1593,
+    "Kandydatka": 168,
+    "Procent": 10.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415508"
+  },
+  {
+    "Obwod": 229,
+    "Total": 776,
+    "Kandydatka": 68,
+    "Procent": 8.76,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415509"
+  },
+  {
+    "Obwod": 230,
+    "Total": 1097,
+    "Kandydatka": 87,
+    "Procent": 7.93,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415510"
+  },
+  {
+    "Obwod": 231,
+    "Total": 1082,
+    "Kandydatka": 123,
+    "Procent": 11.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415511"
+  },
+  {
+    "Obwod": 232,
+    "Total": 1075,
+    "Kandydatka": 89,
+    "Procent": 8.28,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415512"
+  },
+  {
+    "Obwod": 233,
+    "Total": 1221,
+    "Kandydatka": 94,
+    "Procent": 7.7,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415513"
+  },
+  {
+    "Obwod": 234,
+    "Total": 1283,
+    "Kandydatka": 93,
+    "Procent": 7.25,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415514"
+  },
+  {
+    "Obwod": 235,
+    "Total": 1178,
+    "Kandydatka": 68,
+    "Procent": 5.77,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415515"
+  },
+  {
+    "Obwod": 236,
+    "Total": 1878,
+    "Kandydatka": 172,
+    "Procent": 9.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415516"
+  },
+  {
+    "Obwod": 237,
+    "Total": 796,
+    "Kandydatka": 70,
+    "Procent": 8.79,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415517"
+  },
+  {
+    "Obwod": 238,
+    "Total": 969,
+    "Kandydatka": 85,
+    "Procent": 8.77,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415518"
+  },
+  {
+    "Obwod": 239,
+    "Total": 779,
+    "Kandydatka": 61,
+    "Procent": 7.83,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415519"
+  },
+  {
+    "Obwod": 240,
+    "Total": 858,
+    "Kandydatka": 77,
+    "Procent": 8.97,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415520"
+  },
+  {
+    "Obwod": 241,
+    "Total": 636,
+    "Kandydatka": 52,
+    "Procent": 8.18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415521"
+  },
+  {
+    "Obwod": 242,
+    "Total": 1231,
+    "Kandydatka": 138,
+    "Procent": 11.21,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415522"
+  },
+  {
+    "Obwod": 243,
+    "Total": 872,
+    "Kandydatka": 78,
+    "Procent": 8.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415523"
+  },
+  {
+    "Obwod": 244,
+    "Total": 1159,
+    "Kandydatka": 83,
+    "Procent": 7.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415524"
+  },
+  {
+    "Obwod": 245,
+    "Total": 994,
+    "Kandydatka": 92,
+    "Procent": 9.26,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415525"
+  },
+  {
+    "Obwod": 246,
+    "Total": 963,
+    "Kandydatka": 63,
+    "Procent": 6.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415526"
+  },
+  {
+    "Obwod": 247,
+    "Total": 1560,
+    "Kandydatka": 182,
+    "Procent": 11.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415527"
+  },
+  {
+    "Obwod": 248,
+    "Total": 1148,
+    "Kandydatka": 81,
+    "Procent": 7.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415528"
+  },
+  {
+    "Obwod": 249,
+    "Total": 1081,
+    "Kandydatka": 75,
+    "Procent": 6.94,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415529"
+  },
+  {
+    "Obwod": 250,
+    "Total": 1224,
+    "Kandydatka": 126,
+    "Procent": 10.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415530"
+  },
+  {
+    "Obwod": 251,
+    "Total": 774,
+    "Kandydatka": 44,
+    "Procent": 5.68,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415531"
+  },
+  {
+    "Obwod": 252,
+    "Total": 883,
+    "Kandydatka": 108,
+    "Procent": 12.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415532"
+  },
+  {
+    "Obwod": 253,
+    "Total": 936,
+    "Kandydatka": 52,
+    "Procent": 5.56,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415533"
+  },
+  {
+    "Obwod": 254,
+    "Total": 715,
+    "Kandydatka": 62,
+    "Procent": 8.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415534"
+  },
+  {
+    "Obwod": 255,
+    "Total": 768,
+    "Kandydatka": 72,
+    "Procent": 9.38,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415535"
+  },
+  {
+    "Obwod": 256,
+    "Total": 955,
+    "Kandydatka": 74,
+    "Procent": 7.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415536"
+  },
+  {
+    "Obwod": 257,
+    "Total": 1028,
+    "Kandydatka": 53,
+    "Procent": 5.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415537"
+  },
+  {
+    "Obwod": 258,
+    "Total": 902,
+    "Kandydatka": 49,
+    "Procent": 5.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415538"
+  },
+  {
+    "Obwod": 259,
+    "Total": 1162,
+    "Kandydatka": 80,
+    "Procent": 6.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415539"
+  },
+  {
+    "Obwod": 260,
+    "Total": 1225,
+    "Kandydatka": 111,
+    "Procent": 9.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415540"
+  },
+  {
+    "Obwod": 261,
+    "Total": 1122,
+    "Kandydatka": 60,
+    "Procent": 5.35,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415541"
+  },
+  {
+    "Obwod": 262,
+    "Total": 1188,
+    "Kandydatka": 58,
+    "Procent": 4.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415542"
+  },
+  {
+    "Obwod": 263,
+    "Total": 1369,
+    "Kandydatka": 116,
+    "Procent": 8.47,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415543"
+  },
+  {
+    "Obwod": 264,
+    "Total": 1433,
+    "Kandydatka": 106,
+    "Procent": 7.4,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415544"
+  },
+  {
+    "Obwod": 265,
+    "Total": 1072,
+    "Kandydatka": 74,
+    "Procent": 6.9,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415545"
+  },
+  {
+    "Obwod": 266,
+    "Total": 1090,
+    "Kandydatka": 70,
+    "Procent": 6.42,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415546"
+  },
+  {
+    "Obwod": 267,
+    "Total": 1341,
+    "Kandydatka": 72,
+    "Procent": 5.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415547"
+  },
+  {
+    "Obwod": 268,
+    "Total": 1293,
+    "Kandydatka": 78,
+    "Procent": 6.03,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415548"
+  },
+  {
+    "Obwod": 269,
+    "Total": 1465,
+    "Kandydatka": 149,
+    "Procent": 10.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415549"
+  },
+  {
+    "Obwod": 270,
+    "Total": 1588,
+    "Kandydatka": 191,
+    "Procent": 12.03,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415550"
+  },
+  {
+    "Obwod": 271,
+    "Total": 839,
+    "Kandydatka": 39,
+    "Procent": 4.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415551"
+  },
+  {
+    "Obwod": 272,
+    "Total": 877,
+    "Kandydatka": 57,
+    "Procent": 6.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415552"
+  },
+  {
+    "Obwod": 273,
+    "Total": 1539,
+    "Kandydatka": 175,
+    "Procent": 11.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415553"
+  },
+  {
+    "Obwod": 274,
+    "Total": 1181,
+    "Kandydatka": 135,
+    "Procent": 11.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415554"
+  },
+  {
+    "Obwod": 275,
+    "Total": 1783,
+    "Kandydatka": 269,
+    "Procent": 15.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415555"
+  },
+  {
+    "Obwod": 276,
+    "Total": 1648,
+    "Kandydatka": 154,
+    "Procent": 9.34,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415556"
+  },
+  {
+    "Obwod": 277,
+    "Total": 1936,
+    "Kandydatka": 296,
+    "Procent": 15.29,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415557"
+  },
+  {
+    "Obwod": 278,
+    "Total": 1479,
+    "Kandydatka": 195,
+    "Procent": 13.18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415558"
+  },
+  {
+    "Obwod": 279,
+    "Total": 1488,
+    "Kandydatka": 186,
+    "Procent": 12.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415559"
+  },
+  {
+    "Obwod": 280,
+    "Total": 1384,
+    "Kandydatka": 199,
+    "Procent": 14.38,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415560"
+  },
+  {
+    "Obwod": 281,
+    "Total": 1250,
+    "Kandydatka": 142,
+    "Procent": 11.36,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415561"
+  },
+  {
+    "Obwod": 282,
+    "Total": 1806,
+    "Kandydatka": 221,
+    "Procent": 12.24,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415562"
+  },
+  {
+    "Obwod": 283,
+    "Total": 1184,
+    "Kandydatka": 180,
+    "Procent": 15.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415563"
+  },
+  {
+    "Obwod": 284,
+    "Total": 1925,
+    "Kandydatka": 348,
+    "Procent": 18.08,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415564"
+  },
+  {
+    "Obwod": 285,
+    "Total": 751,
+    "Kandydatka": 127,
+    "Procent": 16.91,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415565"
+  },
+  {
+    "Obwod": 286,
+    "Total": 1194,
+    "Kandydatka": 188,
+    "Procent": 15.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415566"
+  },
+  {
+    "Obwod": 287,
+    "Total": 688,
+    "Kandydatka": 110,
+    "Procent": 15.99,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415567"
+  },
+  {
+    "Obwod": 288,
+    "Total": 849,
+    "Kandydatka": 132,
+    "Procent": 15.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415568"
+  },
+  {
+    "Obwod": 289,
+    "Total": 968,
+    "Kandydatka": 149,
+    "Procent": 15.39,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415569"
+  },
+  {
+    "Obwod": 290,
+    "Total": 1316,
+    "Kandydatka": 204,
+    "Procent": 15.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415570"
+  },
+  {
+    "Obwod": 291,
+    "Total": 920,
+    "Kandydatka": 142,
+    "Procent": 15.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415571"
+  },
+  {
+    "Obwod": 292,
+    "Total": 1883,
+    "Kandydatka": 368,
+    "Procent": 19.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415572"
+  },
+  {
+    "Obwod": 293,
+    "Total": 865,
+    "Kandydatka": 79,
+    "Procent": 9.13,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415573"
+  },
+  {
+    "Obwod": 294,
+    "Total": 1932,
+    "Kandydatka": 260,
+    "Procent": 13.46,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415574"
+  },
+  {
+    "Obwod": 295,
+    "Total": 1852,
+    "Kandydatka": 235,
+    "Procent": 12.69,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415575"
+  },
+  {
+    "Obwod": 296,
+    "Total": 1670,
+    "Kandydatka": 203,
+    "Procent": 12.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415576"
+  },
+  {
+    "Obwod": 297,
+    "Total": 1625,
+    "Kandydatka": 193,
+    "Procent": 11.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415577"
+  },
+  {
+    "Obwod": 298,
+    "Total": 922,
+    "Kandydatka": 94,
+    "Procent": 10.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415578"
+  },
+  {
+    "Obwod": 299,
+    "Total": 1104,
+    "Kandydatka": 173,
+    "Procent": 15.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415579"
+  },
+  {
+    "Obwod": 300,
+    "Total": 1140,
+    "Kandydatka": 92,
+    "Procent": 8.07,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415580"
+  },
+  {
+    "Obwod": 301,
+    "Total": 1525,
+    "Kandydatka": 111,
+    "Procent": 7.28,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415581"
+  },
+  {
+    "Obwod": 302,
+    "Total": 1332,
+    "Kandydatka": 93,
+    "Procent": 6.98,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415582"
+  },
+  {
+    "Obwod": 303,
+    "Total": 1228,
+    "Kandydatka": 161,
+    "Procent": 13.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415583"
+  },
+  {
+    "Obwod": 304,
+    "Total": 1011,
+    "Kandydatka": 67,
+    "Procent": 6.63,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415584"
+  },
+  {
+    "Obwod": 305,
+    "Total": 1091,
+    "Kandydatka": 90,
+    "Procent": 8.25,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415585"
+  },
+  {
+    "Obwod": 306,
+    "Total": 752,
+    "Kandydatka": 44,
+    "Procent": 5.85,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415586"
+  },
+  {
+    "Obwod": 307,
+    "Total": 976,
+    "Kandydatka": 63,
+    "Procent": 6.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415587"
+  },
+  {
+    "Obwod": 308,
+    "Total": 1004,
+    "Kandydatka": 86,
+    "Procent": 8.57,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415588"
+  },
+  {
+    "Obwod": 309,
+    "Total": 991,
+    "Kandydatka": 137,
+    "Procent": 13.82,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415589"
+  },
+  {
+    "Obwod": 310,
+    "Total": 1392,
+    "Kandydatka": 99,
+    "Procent": 7.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415590"
+  },
+  {
+    "Obwod": 311,
+    "Total": 1186,
+    "Kandydatka": 58,
+    "Procent": 4.89,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415591"
+  },
+  {
+    "Obwod": 312,
+    "Total": 1263,
+    "Kandydatka": 92,
+    "Procent": 7.28,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415592"
+  },
+  {
+    "Obwod": 313,
+    "Total": 1354,
+    "Kandydatka": 140,
+    "Procent": 10.34,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415593"
+  },
+  {
+    "Obwod": 314,
+    "Total": 1108,
+    "Kandydatka": 84,
+    "Procent": 7.58,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415594"
+  },
+  {
+    "Obwod": 315,
+    "Total": 1123,
+    "Kandydatka": 62,
+    "Procent": 5.52,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415595"
+  },
+  {
+    "Obwod": 316,
+    "Total": 1058,
+    "Kandydatka": 79,
+    "Procent": 7.47,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415596"
+  },
+  {
+    "Obwod": 317,
+    "Total": 1108,
+    "Kandydatka": 71,
+    "Procent": 6.41,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415597"
+  },
+  {
+    "Obwod": 318,
+    "Total": 1173,
+    "Kandydatka": 65,
+    "Procent": 5.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415598"
+  },
+  {
+    "Obwod": 319,
+    "Total": 1166,
+    "Kandydatka": 80,
+    "Procent": 6.86,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415599"
+  },
+  {
+    "Obwod": 320,
+    "Total": 900,
+    "Kandydatka": 52,
+    "Procent": 5.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415600"
+  },
+  {
+    "Obwod": 321,
+    "Total": 1334,
+    "Kandydatka": 114,
+    "Procent": 8.55,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415601"
+  },
+  {
+    "Obwod": 322,
+    "Total": 1061,
+    "Kandydatka": 57,
+    "Procent": 5.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415602"
+  },
+  {
+    "Obwod": 323,
+    "Total": 1021,
+    "Kandydatka": 65,
+    "Procent": 6.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415603"
+  },
+  {
+    "Obwod": 324,
+    "Total": 1547,
+    "Kandydatka": 149,
+    "Procent": 9.63,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415604"
+  },
+  {
+    "Obwod": 325,
+    "Total": 889,
+    "Kandydatka": 68,
+    "Procent": 7.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415605"
+  },
+  {
+    "Obwod": 326,
+    "Total": 900,
+    "Kandydatka": 43,
+    "Procent": 4.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415606"
+  },
+  {
+    "Obwod": 327,
+    "Total": 1147,
+    "Kandydatka": 70,
+    "Procent": 6.1,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415607"
+  },
+  {
+    "Obwod": 328,
+    "Total": 884,
+    "Kandydatka": 59,
+    "Procent": 6.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415608"
+  },
+  {
+    "Obwod": 329,
+    "Total": 1099,
+    "Kandydatka": 63,
+    "Procent": 5.73,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415609"
+  },
+  {
+    "Obwod": 330,
+    "Total": 1008,
+    "Kandydatka": 51,
+    "Procent": 5.06,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415610"
+  },
+  {
+    "Obwod": 331,
+    "Total": 1031,
+    "Kandydatka": 64,
+    "Procent": 6.21,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415611"
+  },
+  {
+    "Obwod": 332,
+    "Total": 1174,
+    "Kandydatka": 72,
+    "Procent": 6.13,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415612"
+  },
+  {
+    "Obwod": 333,
+    "Total": 1370,
+    "Kandydatka": 92,
+    "Procent": 6.72,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415613"
+  },
+  {
+    "Obwod": 334,
+    "Total": 1748,
+    "Kandydatka": 185,
+    "Procent": 10.58,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415614"
+  },
+  {
+    "Obwod": 335,
+    "Total": 1204,
+    "Kandydatka": 86,
+    "Procent": 7.14,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415615"
+  },
+  {
+    "Obwod": 336,
+    "Total": 1113,
+    "Kandydatka": 127,
+    "Procent": 11.41,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415616"
+  },
+  {
+    "Obwod": 337,
+    "Total": 632,
+    "Kandydatka": 44,
+    "Procent": 6.96,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415617"
+  },
+  {
+    "Obwod": 338,
+    "Total": 920,
+    "Kandydatka": 76,
+    "Procent": 8.26,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415618"
+  },
+  {
+    "Obwod": 339,
+    "Total": 780,
+    "Kandydatka": 45,
+    "Procent": 5.77,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415619"
+  },
+  {
+    "Obwod": 340,
+    "Total": 963,
+    "Kandydatka": 49,
+    "Procent": 5.09,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415620"
+  },
+  {
+    "Obwod": 341,
+    "Total": 672,
+    "Kandydatka": 30,
+    "Procent": 4.46,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415621"
+  },
+  {
+    "Obwod": 342,
+    "Total": 1263,
+    "Kandydatka": 89,
+    "Procent": 7.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415622"
+  },
+  {
+    "Obwod": 343,
+    "Total": 966,
+    "Kandydatka": 54,
+    "Procent": 5.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415623"
+  },
+  {
+    "Obwod": 344,
+    "Total": 721,
+    "Kandydatka": 52,
+    "Procent": 7.21,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415624"
+  },
+  {
+    "Obwod": 345,
+    "Total": 979,
+    "Kandydatka": 70,
+    "Procent": 7.15,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415625"
+  },
+  {
+    "Obwod": 346,
+    "Total": 993,
+    "Kandydatka": 67,
+    "Procent": 6.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415626"
+  },
+  {
+    "Obwod": 347,
+    "Total": 753,
+    "Kandydatka": 52,
+    "Procent": 6.91,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415627"
+  },
+  {
+    "Obwod": 348,
+    "Total": 740,
+    "Kandydatka": 64,
+    "Procent": 8.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415628"
+  },
+  {
+    "Obwod": 349,
+    "Total": 1347,
+    "Kandydatka": 69,
+    "Procent": 5.12,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415629"
+  },
+  {
+    "Obwod": 350,
+    "Total": 668,
+    "Kandydatka": 55,
+    "Procent": 8.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415630"
+  },
+  {
+    "Obwod": 351,
+    "Total": 766,
+    "Kandydatka": 68,
+    "Procent": 8.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415631"
+  },
+  {
+    "Obwod": 352,
+    "Total": 969,
+    "Kandydatka": 98,
+    "Procent": 10.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415632"
+  },
+  {
+    "Obwod": 353,
+    "Total": 627,
+    "Kandydatka": 45,
+    "Procent": 7.18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415633"
+  },
+  {
+    "Obwod": 354,
+    "Total": 972,
+    "Kandydatka": 103,
+    "Procent": 10.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415634"
+  },
+  {
+    "Obwod": 355,
+    "Total": 875,
+    "Kandydatka": 40,
+    "Procent": 4.57,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415635"
+  },
+  {
+    "Obwod": 356,
+    "Total": 718,
+    "Kandydatka": 52,
+    "Procent": 7.24,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415636"
+  },
+  {
+    "Obwod": 357,
+    "Total": 698,
+    "Kandydatka": 40,
+    "Procent": 5.73,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415637"
+  },
+  {
+    "Obwod": 358,
+    "Total": 921,
+    "Kandydatka": 68,
+    "Procent": 7.38,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415638"
+  },
+  {
+    "Obwod": 359,
+    "Total": 832,
+    "Kandydatka": 61,
+    "Procent": 7.33,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415639"
+  },
+  {
+    "Obwod": 360,
+    "Total": 1063,
+    "Kandydatka": 56,
+    "Procent": 5.27,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415640"
+  },
+  {
+    "Obwod": 361,
+    "Total": 947,
+    "Kandydatka": 53,
+    "Procent": 5.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415641"
+  },
+  {
+    "Obwod": 362,
+    "Total": 919,
+    "Kandydatka": 46,
+    "Procent": 5.01,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415642"
+  },
+  {
+    "Obwod": 363,
+    "Total": 883,
+    "Kandydatka": 51,
+    "Procent": 5.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415643"
+  },
+  {
+    "Obwod": 364,
+    "Total": 885,
+    "Kandydatka": 48,
+    "Procent": 5.42,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415644"
+  },
+  {
+    "Obwod": 365,
+    "Total": 1315,
+    "Kandydatka": 97,
+    "Procent": 7.38,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415645"
+  },
+  {
+    "Obwod": 366,
+    "Total": 559,
+    "Kandydatka": 39,
+    "Procent": 6.98,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415646"
+  },
+  {
+    "Obwod": 367,
+    "Total": 1196,
+    "Kandydatka": 53,
+    "Procent": 4.43,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415647"
+  },
+  {
+    "Obwod": 368,
+    "Total": 1690,
+    "Kandydatka": 84,
+    "Procent": 4.97,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415648"
+  },
+  {
+    "Obwod": 369,
+    "Total": 570,
+    "Kandydatka": 17,
+    "Procent": 2.98,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415649"
+  },
+  {
+    "Obwod": 370,
+    "Total": 595,
+    "Kandydatka": 28,
+    "Procent": 4.71,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415650"
+  },
+  {
+    "Obwod": 371,
+    "Total": 847,
+    "Kandydatka": 87,
+    "Procent": 10.27,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415651"
+  },
+  {
+    "Obwod": 372,
+    "Total": 555,
+    "Kandydatka": 43,
+    "Procent": 7.75,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415652"
+  },
+  {
+    "Obwod": 373,
+    "Total": 466,
+    "Kandydatka": 39,
+    "Procent": 8.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415653"
+  },
+  {
+    "Obwod": 374,
+    "Total": 1065,
+    "Kandydatka": 90,
+    "Procent": 8.45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415654"
+  },
+  {
+    "Obwod": 375,
+    "Total": 811,
+    "Kandydatka": 52,
+    "Procent": 6.41,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415655"
+  },
+  {
+    "Obwod": 376,
+    "Total": 920,
+    "Kandydatka": 77,
+    "Procent": 8.37,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415656"
+  },
+  {
+    "Obwod": 377,
+    "Total": 560,
+    "Kandydatka": 42,
+    "Procent": 7.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415657"
+  },
+  {
+    "Obwod": 378,
+    "Total": 645,
+    "Kandydatka": 43,
+    "Procent": 6.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415658"
+  },
+  {
+    "Obwod": 379,
+    "Total": 597,
+    "Kandydatka": 46,
+    "Procent": 7.71,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415659"
+  },
+  {
+    "Obwod": 380,
+    "Total": 701,
+    "Kandydatka": 37,
+    "Procent": 5.28,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415660"
+  },
+  {
+    "Obwod": 381,
+    "Total": 826,
+    "Kandydatka": 75,
+    "Procent": 9.08,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415661"
+  },
+  {
+    "Obwod": 382,
+    "Total": 534,
+    "Kandydatka": 50,
+    "Procent": 9.36,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415662"
+  },
+  {
+    "Obwod": 383,
+    "Total": 723,
+    "Kandydatka": 57,
+    "Procent": 7.88,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415663"
+  },
+  {
+    "Obwod": 384,
+    "Total": 681,
+    "Kandydatka": 48,
+    "Procent": 7.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415664"
+  },
+  {
+    "Obwod": 385,
+    "Total": 904,
+    "Kandydatka": 79,
+    "Procent": 8.74,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415665"
+  },
+  {
+    "Obwod": 386,
+    "Total": 886,
+    "Kandydatka": 85,
+    "Procent": 9.59,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415666"
+  },
+  {
+    "Obwod": 387,
+    "Total": 578,
+    "Kandydatka": 50,
+    "Procent": 8.65,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415667"
+  },
+  {
+    "Obwod": 388,
+    "Total": 681,
+    "Kandydatka": 66,
+    "Procent": 9.69,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415668"
+  },
+  {
+    "Obwod": 389,
+    "Total": 727,
+    "Kandydatka": 75,
+    "Procent": 10.32,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415669"
+  },
+  {
+    "Obwod": 390,
+    "Total": 760,
+    "Kandydatka": 66,
+    "Procent": 8.68,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415670"
+  },
+  {
+    "Obwod": 391,
+    "Total": 1078,
+    "Kandydatka": 88,
+    "Procent": 8.16,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415671"
+  },
+  {
+    "Obwod": 392,
+    "Total": 673,
+    "Kandydatka": 35,
+    "Procent": 5.2,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415672"
+  },
+  {
+    "Obwod": 393,
+    "Total": 948,
+    "Kandydatka": 62,
+    "Procent": 6.54,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415673"
+  },
+  {
+    "Obwod": 394,
+    "Total": 875,
+    "Kandydatka": 72,
+    "Procent": 8.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415674"
+  },
+  {
+    "Obwod": 395,
+    "Total": 701,
+    "Kandydatka": 62,
+    "Procent": 8.84,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415675"
+  },
+  {
+    "Obwod": 396,
+    "Total": 859,
+    "Kandydatka": 57,
+    "Procent": 6.64,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415676"
+  },
+  {
+    "Obwod": 397,
+    "Total": 663,
+    "Kandydatka": 45,
+    "Procent": 6.79,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415677"
+  },
+  {
+    "Obwod": 398,
+    "Total": 575,
+    "Kandydatka": 49,
+    "Procent": 8.52,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415678"
+  },
+  {
+    "Obwod": 399,
+    "Total": 945,
+    "Kandydatka": 94,
+    "Procent": 9.95,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415679"
+  },
+  {
+    "Obwod": 400,
+    "Total": 1228,
+    "Kandydatka": 56,
+    "Procent": 4.56,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415680"
+  },
+  {
+    "Obwod": 401,
+    "Total": 194,
+    "Kandydatka": 1,
+    "Procent": 0.52,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415681"
+  },
+  {
+    "Obwod": 402,
+    "Total": 639,
+    "Kandydatka": 26,
+    "Procent": 4.07,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415682"
+  },
+  {
+    "Obwod": 403,
+    "Total": 869,
+    "Kandydatka": 32,
+    "Procent": 3.68,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415683"
+  },
+  {
+    "Obwod": 404,
+    "Total": 997,
+    "Kandydatka": 48,
+    "Procent": 4.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415684"
+  },
+  {
+    "Obwod": 405,
+    "Total": 746,
+    "Kandydatka": 30,
+    "Procent": 4.02,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415685"
+  },
+  {
+    "Obwod": 406,
+    "Total": 1350,
+    "Kandydatka": 144,
+    "Procent": 10.67,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415686"
+  },
+  {
+    "Obwod": 407,
+    "Total": 1593,
+    "Kandydatka": 241,
+    "Procent": 15.13,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415687"
+  },
+  {
+    "Obwod": 408,
+    "Total": 1366,
+    "Kandydatka": 108,
+    "Procent": 7.91,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415688"
+  },
+  {
+    "Obwod": 409,
+    "Total": 1226,
+    "Kandydatka": 111,
+    "Procent": 9.05,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415689"
+  },
+  {
+    "Obwod": 410,
+    "Total": 1375,
+    "Kandydatka": 194,
+    "Procent": 14.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415690"
+  },
+  {
+    "Obwod": 411,
+    "Total": 490,
+    "Kandydatka": 32,
+    "Procent": 6.53,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415691"
+  },
+  {
+    "Obwod": 412,
+    "Total": 957,
+    "Kandydatka": 59,
+    "Procent": 6.17,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415692"
+  },
+  {
+    "Obwod": 413,
+    "Total": 38,
+    "Kandydatka": 1,
+    "Procent": 2.63,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415693"
+  },
+  {
+    "Obwod": 414,
+    "Total": 85,
+    "Kandydatka": 1,
+    "Procent": 1.18,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415694"
+  },
+  {
+    "Obwod": 415,
+    "Total": 60,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415695"
+  },
+  {
+    "Obwod": 416,
+    "Total": 71,
+    "Kandydatka": 3,
+    "Procent": 4.23,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415696"
+  },
+  {
+    "Obwod": 417,
+    "Total": 10,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415697"
+  },
+  {
+    "Obwod": 418,
+    "Total": 122,
+    "Kandydatka": 3,
+    "Procent": 2.46,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415698"
+  },
+  {
+    "Obwod": 419,
+    "Total": 383,
+    "Kandydatka": 3,
+    "Procent": 0.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415699"
+  },
+  {
+    "Obwod": 420,
+    "Total": 36,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415700"
+  },
+  {
+    "Obwod": 421,
+    "Total": 97,
+    "Kandydatka": 9,
+    "Procent": 9.28,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415701"
+  },
+  {
+    "Obwod": 422,
+    "Total": 16,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415702"
+  },
+  {
+    "Obwod": 423,
+    "Total": 229,
+    "Kandydatka": 1,
+    "Procent": 0.44,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415703"
+  },
+  {
+    "Obwod": 424,
+    "Total": 77,
+    "Kandydatka": 2,
+    "Procent": 2.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415704"
+  },
+  {
+    "Obwod": 425,
+    "Total": 36,
+    "Kandydatka": 1,
+    "Procent": 2.78,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415705"
+  },
+  {
+    "Obwod": 426,
+    "Total": 12,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415706"
+  },
+  {
+    "Obwod": 427,
+    "Total": 139,
+    "Kandydatka": 8,
+    "Procent": 5.76,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415707"
+  },
+  {
+    "Obwod": 428,
+    "Total": 52,
+    "Kandydatka": 1,
+    "Procent": 1.92,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415708"
+  },
+  {
+    "Obwod": 429,
+    "Total": 940,
+    "Kandydatka": 345,
+    "Procent": 36.7,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415709"
+  },
+  {
+    "Obwod": 430,
+    "Total": 140,
+    "Kandydatka": 63,
+    "Procent": 45,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415710"
+  },
+  {
+    "Obwod": 431,
+    "Total": 140,
+    "Kandydatka": 82,
+    "Procent": 58.57,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415711"
+  },
+  {
+    "Obwod": 432,
+    "Total": 40,
+    "Kandydatka": 1,
+    "Procent": 2.5,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415712"
+  },
+  {
+    "Obwod": 433,
+    "Total": 96,
+    "Kandydatka": 2,
+    "Procent": 2.08,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415713"
+  },
+  {
+    "Obwod": 434,
+    "Total": 25,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415714"
+  },
+  {
+    "Obwod": 435,
+    "Total": 33,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415715"
+  },
+  {
+    "Obwod": 436,
+    "Total": 74,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415716"
+  },
+  {
+    "Obwod": 437,
+    "Total": 37,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415717"
+  },
+  {
+    "Obwod": 438,
+    "Total": 23,
+    "Kandydatka": 1,
+    "Procent": 4.35,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415718"
+  },
+  {
+    "Obwod": 439,
+    "Total": 289,
+    "Kandydatka": 15,
+    "Procent": 5.19,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415719"
+  },
+  {
+    "Obwod": 440,
+    "Total": 29,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415720"
+  },
+  {
+    "Obwod": 441,
+    "Total": 123,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415721"
+  },
+  {
+    "Obwod": 442,
+    "Total": 125,
+    "Kandydatka": 2,
+    "Procent": 1.6,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415722"
+  },
+  {
+    "Obwod": 443,
+    "Total": 91,
+    "Kandydatka": 3,
+    "Procent": 3.3,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415723"
+  },
+  {
+    "Obwod": 444,
+    "Total": 123,
+    "Kandydatka": 1,
+    "Procent": 0.81,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415724"
+  },
+  {
+    "Obwod": 445,
+    "Total": 20,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415725"
+  },
+  {
+    "Obwod": 446,
+    "Total": 47,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415726"
+  },
+  {
+    "Obwod": 447,
+    "Total": 86,
+    "Kandydatka": 2,
+    "Procent": 2.33,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415727"
+  },
+  {
+    "Obwod": 448,
+    "Total": 124,
+    "Kandydatka": 2,
+    "Procent": 1.61,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415728"
+  },
+  {
+    "Obwod": 449,
+    "Total": 88,
+    "Kandydatka": 2,
+    "Procent": 2.27,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415729"
+  },
+  {
+    "Obwod": 450,
+    "Total": 19,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415730"
+  },
+  {
+    "Obwod": 451,
+    "Total": 190,
+    "Kandydatka": 1,
+    "Procent": 0.53,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415731"
+  },
+  {
+    "Obwod": 452,
+    "Total": 19,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415732"
+  },
+  {
+    "Obwod": 453,
+    "Total": 25,
+    "Kandydatka": 1,
+    "Procent": 4,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415733"
+  },
+  {
+    "Obwod": 454,
+    "Total": 37,
+    "Kandydatka": 3,
+    "Procent": 8.11,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415734"
+  },
+  {
+    "Obwod": 455,
+    "Total": 112,
+    "Kandydatka": 3,
+    "Procent": 2.68,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415735"
+  },
+  {
+    "Obwod": 456,
+    "Total": 20,
+    "Kandydatka": 0,
+    "Procent": 0,
+    "url": "https://wybory.gov.pl/prezydent2025/pl/obkw/1/1415736"
+  }
+]

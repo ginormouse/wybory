@@ -48,8 +48,10 @@ const layers = {
       fill: false,
     },
     pane: "constituency33",
-  }).addTo(map),
+  }),
 };
+// Initial selection of "Okręg 33" layer
+// layers.constituency33.addTo(map);
 var layerControl = L.control
   .layers(
     { "Dzielnice ": layers.districts, "Obwody 2025": layers.circuits },
